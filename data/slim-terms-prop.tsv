@@ -1,8 +1,401 @@
 slim_id	slim_name	subsumed_id	subsumed_name	min_distance
+DOID:0050144	Kartagener syndrome	DOID:0050144	Kartagener syndrome	0
 DOID:0050156	idiopathic pulmonary fibrosis	DOID:0050156	idiopathic pulmonary fibrosis	0
+DOID:0050335	bradyopsia	DOID:0050335	bradyopsia	0
 DOID:0050425	restless legs syndrome	DOID:0050425	restless legs syndrome	0
+DOID:0050428	nonepidermolytic palmoplantar keratoderma	DOID:0050428	nonepidermolytic palmoplantar keratoderma	0
+DOID:0050430	multiple endocrine neoplasia type 2A	DOID:0050430	multiple endocrine neoplasia type 2A	0
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	0
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110070	arrhythmogenic right ventricular dysplasia 1	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110071	arrhythmogenic right ventricular dysplasia 2	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110072	arrhythmogenic right ventricular dysplasia 3	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110073	arrhythmogenic right ventricular dysplasia 4	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110074	arrhythmogenic right ventricular dysplasia 5	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110075	arrhythmogenic right ventricular dysplasia 6	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110076	arrhythmogenic right ventricular dysplasia 8	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110077	arrhythmogenic right ventricular dysplasia 9	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110081	arrhythmogenic right ventricular dysplasia 10	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110082	arrhythmogenic right ventricular dysplasia 11	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110083	arrhythmogenic right ventricular dysplasia 12	1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DOID:0110084	arrhythmogenic right ventricular dysplasia 13	1
+DOID:0050432	Asperger syndrome	DOID:0050432	Asperger syndrome	0
+DOID:0050439	Usher syndrome	DOID:0050439	Usher syndrome	0
+DOID:0050439	Usher syndrome	DOID:0110826	Usher syndrome type 1	1
+DOID:0050439	Usher syndrome	DOID:0110827	Usher syndrome type 2	1
+DOID:0050439	Usher syndrome	DOID:0110828	Usher syndrome type 3	1
+DOID:0050439	Usher syndrome	DOID:0110829	retinitis pigmentosa-deafness syndrome	1
+DOID:0050439	Usher syndrome	DOID:0110830	Usher syndrome type 1C	2
+DOID:0050439	Usher syndrome	DOID:0110831	Usher syndrome type 1D	2
+DOID:0050439	Usher syndrome	DOID:0110832	Usher syndrome type 1F	2
+DOID:0050439	Usher syndrome	DOID:0110833	Usher syndrome type 1E	2
+DOID:0050439	Usher syndrome	DOID:0110834	Usher syndrome type 1G	2
+DOID:0050439	Usher syndrome	DOID:0110835	Usher syndrome type 1H	2
+DOID:0050439	Usher syndrome	DOID:0110836	Usher syndrome type 1J	2
+DOID:0050439	Usher syndrome	DOID:0110837	Usher syndrome type 1K	2
+DOID:0050439	Usher syndrome	DOID:0110838	Usher syndrome type 2A	2
+DOID:0050439	Usher syndrome	DOID:0110839	Usher syndrome type 2C	2
+DOID:0050439	Usher syndrome	DOID:0110840	Usher syndrome type 2D	2
+DOID:0050439	Usher syndrome	DOID:0110841	Usher syndrome type 3A	2
+DOID:0050439	Usher syndrome	DOID:0110842	Usher syndrome type 3B	2
+DOID:0050448	hereditary mucosal leukokeratosis	DOID:0050448	hereditary mucosal leukokeratosis	0
+DOID:0050453	lissencephaly	DOID:0050453	lissencephaly	0
+DOID:0050453	lissencephaly	DOID:0060902	Norman-Roberts syndrome	1
+DOID:0050454	periventricular nodular heterotopia	DOID:0050454	periventricular nodular heterotopia	0
+DOID:0050466	Loeys-Dietz syndrome	DOID:0050466	Loeys-Dietz syndrome	0
+DOID:0050468	yellow nail syndrome	DOID:0050468	yellow nail syndrome	0
+DOID:0050471	Carney complex	DOID:0050471	Carney complex	0
+DOID:0050475	Weill-Marchesani syndrome	DOID:0050475	Weill-Marchesani syndrome	0
+DOID:0050476	Barth syndrome	DOID:0050476	Barth syndrome	0
+DOID:0050489	multinodular goiter	DOID:0050489	multinodular goiter	0
+DOID:0050534	congenital stationary night blindness	DOID:0050534	congenital stationary night blindness	0
+DOID:0050534	congenital stationary night blindness	DOID:0110714	congenital stationary night blindness 1G	1
+DOID:0050534	congenital stationary night blindness	DOID:0110715	congenital stationary night blindness autosomal dominant 3	1
+DOID:0050534	congenital stationary night blindness	DOID:0110862	congenital stationary night blindness autosomal dominant 1	1
+DOID:0050534	congenital stationary night blindness	DOID:0110863	congenital stationary night blindness autosomal dominant 2	1
+DOID:0050534	congenital stationary night blindness	DOID:0110864	congenital stationary night blindness 1F	1
+DOID:0050534	congenital stationary night blindness	DOID:0110865	congenital stationary night blindness 1B	1
+DOID:0050534	congenital stationary night blindness	DOID:0110866	congenital stationary night blindness 1H	1
+DOID:0050534	congenital stationary night blindness	DOID:0110867	congenital stationary night blindness 1C	1
+DOID:0050534	congenital stationary night blindness	DOID:0110868	congenital stationary night blindness 1D	1
+DOID:0050534	congenital stationary night blindness	DOID:0110869	congenital stationary night blindness 1E	1
+DOID:0050534	congenital stationary night blindness	DOID:0110870	congenital stationary night blindness 1A	1
+DOID:0050534	congenital stationary night blindness	DOID:0110871	congenital stationary night blindness 2A	1
+DOID:0050535	exudative vitreoretinopathy	DOID:0050535	exudative vitreoretinopathy	0
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0050539	Charcot-Marie-Tooth disease type 2	0
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110154	Charcot-Marie-Tooth disease type 2A1	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110155	Charcot-Marie-Tooth disease type 2A2	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110156	Charcot-Marie-Tooth disease type 2B1	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110157	Charcot-Marie-Tooth disease type 2J	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110158	Charcot-Marie-Tooth disease type 2I	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110159	Charcot-Marie-Tooth disease type 2B	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110160	Charcot-Marie-Tooth disease axonal type 2T	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110161	Charcot-Marie-Tooth disease type 2R	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110162	Charcot-Marie-Tooth disease, axonal type 2W	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110163	Charcot-Marie-Tooth disease axonal type 2F	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110164	Charcot-Marie-Tooth disease type 2D	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110165	Charcot-Marie-Tooth disease type 2E	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110166	Charcot-Marie-Tooth disease axonal type 2H	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110167	Charcot-Marie-Tooth disease axonal type 2K	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110168	Charcot-Marie-Tooth disease type 2Y	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110169	Charcot-Marie-Tooth disease axonal type 2P	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110170	Charcot-Marie-Tooth disease axonal type 2Q	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110171	Charcot-Marie-Tooth disease axonal type 2S	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110173	Charcot-Marie-Tooth disease axonal type 2U	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110174	Charcot-Marie-Tooth disease axonal type 2L	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110175	Charcot-Marie-Tooth disease axonal type 20	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110176	Charcot-Marie-Tooth disease axonal type 2X	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110177	Charcot-Marie-Tooth disease axonal type 2N	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110178	Charcot-Marie-Tooth disease axonal type 2V	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110179	Charcot-Marie-Tooth disease type 2B2	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110180	Charcot-Marie-Tooth disease axonal type 2CC	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110181	Charcot-Marie-Tooth disease axonal type 2Z	1
+DOID:0050539	Charcot-Marie-Tooth disease type 2	DOID:0110182	Charcot-Marie-Tooth disease axonal type 2C	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0050541	Charcot-Marie-Tooth disease type 4	0
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110183	Charcot-Marie-Tooth disease type 4C	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110184	Charcot-Marie-Tooth disease type 4J	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110185	Charcot-Marie-Tooth disease type 4A	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110186	Charcot-Marie-Tooth disease type 4D	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110187	Charcot-Marie-Tooth disease type 4K	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110190	Charcot-Marie-Tooth disease type 4B2	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110191	Charcot-Marie-Tooth disease type 4B1	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110192	Charcot-Marie-Tooth disease type 4H	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110193	Charcot-Marie-Tooth disease type 4F	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110194	Charcot-Marie-Tooth disease type 4B3	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110195	Charcot-Marie-Tooth disease type 4E	1
+DOID:0050541	Charcot-Marie-Tooth disease type 4	DOID:0110196	Charcot-Marie-Tooth disease type 4G	1
+DOID:0050542	Charcot-Marie-Tooth disease type X	DOID:0050542	Charcot-Marie-Tooth disease type X	0
+DOID:0050542	Charcot-Marie-Tooth disease type X	DOID:0110207	Charcot-Marie-Tooth disease X-linked dominant 6	1
+DOID:0050542	Charcot-Marie-Tooth disease type X	DOID:0110208	Charcot-Marie-Tooth disease X-linked recessive 2	1
+DOID:0050542	Charcot-Marie-Tooth disease type X	DOID:0110209	Charcot-Marie-Tooth disease X-linked dominant 1	1
+DOID:0050542	Charcot-Marie-Tooth disease type X	DOID:0110210	Charcot-Marie-Tooth disease X-linked recessive 5	1
+DOID:0050542	Charcot-Marie-Tooth disease type X	DOID:0110211	Charcot-Marie-Tooth disease X-linked recessive 3	1
+DOID:0050542	Charcot-Marie-Tooth disease type X	DOID:0110212	Charcot-Marie-Tooth disease X-linked recessive 4	1
+DOID:0050544	hypermethioninemia	DOID:0050544	hypermethioninemia	0
+DOID:0050544	hypermethioninemia	DOID:0111037	glycine N-methyltransferase deficiency	1
+DOID:0050544	hypermethioninemia	DOID:0111038	hypermethioninemia due to adenosine kinase deficiency	1
+DOID:0050544	hypermethioninemia	DOID:0111039	hypermethioninemia with deficiency of S-adenosylhomocysteine hydrolase	1
+DOID:0050545	visceral heterotaxy	DOID:0050545	visceral heterotaxy	0
+DOID:0050545	visceral heterotaxy	DOID:0060856	right atrial isomerism	1
+DOID:0050545	visceral heterotaxy	DOID:758	situs inversus	1
+DOID:0050557	congenital muscular dystrophy	DOID:0050557	congenital muscular dystrophy	0
+DOID:0050557	congenital muscular dystrophy	DOID:0050558	Ullrich congenital muscular dystrophy	1
+DOID:0050557	congenital muscular dystrophy	DOID:0050559	Fukuyama congenital muscular dystrophy	1
+DOID:0050557	congenital muscular dystrophy	DOID:0050560	Walker-Warburg syndrome	1
+DOID:0050557	congenital muscular dystrophy	DOID:0050588	muscular dystrophy-dystroglycanopathy	1
+DOID:0050557	congenital muscular dystrophy	DOID:0050663	Bethlem myopathy	1
+DOID:0050557	congenital muscular dystrophy	DOID:0080197	congenital muscular dystrophy with cataracts and intellectual disability	1
+DOID:0050557	congenital muscular dystrophy	DOID:0110631	arthrogryposis due to muscular dystrophy	1
+DOID:0050557	congenital muscular dystrophy	DOID:0110632	megaconial type congenital muscular dystrophy	1
+DOID:0050557	congenital muscular dystrophy	DOID:0110633	rigid spine muscular dystrophy 1	1
+DOID:0050557	congenital muscular dystrophy	DOID:0110634	congenital muscular dystrophy 1B	1
+DOID:0050557	congenital muscular dystrophy	DOID:0110635	muscular dystrophy-dystroglycanopathy type B5	1
+DOID:0050557	congenital muscular dystrophy	DOID:0110636	congenital merosin-deficient muscular dystrophy 1A	1
+DOID:0050557	congenital muscular dystrophy	DOID:0110637	muscular dystrophy-dystroglycanopathy type B6	1
+DOID:0050557	congenital muscular dystrophy	DOID:0110638	congenital muscular dystrophy merosin-positive	1
+DOID:0050557	congenital muscular dystrophy	DOID:0110639	congenital muscular dystrophy due to integrin alpha-7 deficiency	1
+DOID:0050557	congenital muscular dystrophy	DOID:0110640	congenital muscular dystrophy due to LMNA mutation	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0050564	autosomal dominant nonsyndromic deafness	0
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0060690	autosomal dominant auditory neuropathy 1	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110541	autosomal dominant nonsyndromic deafness 1	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110542	autosomal dominant nonsyndromic deafness 10	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110543	autosomal dominant nonsyndromic deafness 11	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110544	autosomal dominant nonsyndromic deafness 12	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110545	autosomal dominant nonsyndromic deafness 13	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110546	autosomal dominant nonsyndromic deafness 15	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110547	autosomal dominant nonsyndromic deafness 16	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110548	autosomal dominant nonsyndromic deafness 17	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110549	autosomal dominant nonsyndromic deafness 18	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110550	autosomal dominant nonsyndromic deafness 20	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110551	autosomal dominant nonsyndromic deafness 21	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110552	autosomal dominant nonsyndromic deafness 22	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110553	autosomal dominant nonsyndromic deafness 23	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110554	autosomal dominant nonsyndromic deafness 24	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110555	autosomal dominant nonsyndromic deafness 25	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110556	autosomal dominant nonsyndromic deafness 27	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110557	autosomal dominant nonsyndromic deafness 28	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110558	autosomal dominant nonsyndromic deafness 2A	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110559	autosomal dominant nonsyndromic deafness 2B	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110560	autosomal dominant nonsyndromic deafness 30	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110561	autosomal dominant nonsyndromic deafness 31	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110562	autosomal dominant nonsyndromic deafness 33	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110563	autosomal dominant nonsyndromic deafness 36	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110564	autosomal dominant nonsyndromic deafness 3A	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110565	autosomal dominant nonsyndromic deafness 3B	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110566	autosomal dominant nonsyndromic deafness 40	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110567	autosomal dominant nonsyndromic deafness 41	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110568	autosomal dominant nonsyndromic deafness 43	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110569	autosomal dominant nonsyndromic deafness 44	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110570	autosomal dominant nonsyndromic deafness 47	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110571	autosomal dominant nonsyndromic deafness 48	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110572	autosomal dominant nonsyndromic deafness 49	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110573	autosomal dominant nonsyndromic deafness 4A	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110574	autosomal dominant nonsyndromic deafness 4B	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110575	autosomal dominant nonsyndromic deafness 5	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110576	autosomal dominant nonsyndromic deafness 50	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110577	autosomal dominant nonsyndromic deafness 51	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110578	autosomal dominant nonsyndromic deafness 52	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110579	autosomal dominant nonsyndromic deafness 53	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110580	autosomal dominant nonsyndromic deafness 54	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110581	autosomal dominant nonsyndromic deafness 56	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110582	autosomal dominant nonsyndromic deafness 58	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110583	autosomal dominant nonsyndromic deafness 59	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110584	autosomal dominant nonsyndromic deafness 6	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110585	autosomal dominant nonsyndromic deafness 64	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110586	autosomal dominant nonsyndromic deafness 65	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110587	autosomal dominant nonsyndromic deafness 66	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110588	autosomal dominant nonsyndromic deafness 67	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110589	autosomal dominant nonsyndromic deafness 68	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110590	autosomal dominant nonsyndromic deafness 69	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110591	autosomal dominant nonsyndromic deafness 7	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110592	autosomal dominant nonsyndromic deafness 70	1
+DOID:0050564	autosomal dominant nonsyndromic deafness	DOID:0110593	autosomal dominant nonsyndromic deafness 9	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0050565	autosomal recessive nonsyndromic deafness	0
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110462	autosomal recessive nonsyndromic deafness 101	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110463	autosomal recessive nonsyndromic deafness 102	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110464	autosomal recessive nonsyndromic deafness 103	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110465	autosomal recessive nonsyndromic deafness 104	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110466	autosomal recessive nonsyndromic deafness 105	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110467	autosomal recessive nonsyndromic deafness 12	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110468	autosomal recessive nonsyndromic deafness 13	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110469	autosomal recessive nonsyndromic deafness 14	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110470	autosomal recessive nonsyndromic deafness 15	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110471	autosomal recessive nonsyndromic deafness 16	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110472	autosomal recessive nonsyndromic deafness 17	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110473	autosomal recessive nonsyndromic deafness 18A	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110474	autosomal recessive nonsyndromic deafness 18B	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110475	autosomal recessive nonsyndromic deafness 1A	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110476	autosomal recessive nonsyndromic deafness 1B	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110477	autosomal recessive nonsyndromic deafness 2	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110478	autosomal recessive nonsyndromic deafness 20	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110479	autosomal recessive nonsyndromic deafness 21	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110480	autosomal recessive nonsyndromic deafness 22	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110481	autosomal recessive nonsyndromic deafness 23	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110482	autosomal recessive nonsyndromic deafness 24	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110483	autosomal recessive nonsyndromic deafness 25	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110484	autosomal recessive nonsyndromic deafness 26	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110485	autosomal recessive nonsyndromic deafness 27	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110486	autosomal recessive nonsyndromic deafness 28	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110487	autosomal recessive nonsyndromic deafness 29	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110488	autosomal recessive nonsyndromic deafness 3	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110489	autosomal recessive nonsyndromic deafness 30	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110490	autosomal recessive nonsyndromic deafness 31	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110491	autosomal recessive nonsyndromic deafness 32	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110492	autosomal recessive nonsyndromic deafness 33	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110493	autosomal recessive nonsyndromic deafness 35	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110494	autosomal recessive nonsyndromic deafness 36	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110495	autosomal recessive nonsyndromic deafness 37	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110496	autosomal recessive nonsyndromic deafness 38	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110497	autosomal recessive nonsyndromic deafness 39	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110498	autosomal recessive nonsyndromic deafness 4	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110499	autosomal recessive nonsyndromic deafness 40	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110500	autosomal recessive nonsyndromic deafness 42	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110501	autosomal recessive nonsyndromic deafness 44	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110502	autosomal recessive nonsyndromic deafness 45	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110503	autosomal recessive nonsyndromic deafness 46	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110504	autosomal recessive nonsyndromic deafness 47	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110505	autosomal recessive nonsyndromic deafness 48	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110506	autosomal recessive nonsyndromic deafness 49	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110507	autosomal recessive nonsyndromic deafness 5	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110508	autosomal recessive nonsyndromic deafness 51	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110509	autosomal recessive nonsyndromic deafness 53	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110510	autosomal recessive nonsyndromic deafness 55	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110511	autosomal recessive nonsyndromic deafness 59	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110512	autosomal recessive nonsyndromic deafness 6	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110513	autosomal recessive nonsyndromic deafness 61	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110514	autosomal recessive nonsyndromic deafness 62	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110515	autosomal recessive nonsyndromic deafness 63	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110516	autosomal recessive nonsyndromic deafness 65	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110517	autosomal recessive nonsyndromic deafness 66	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110518	autosomal recessive nonsyndromic deafness 67	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110519	autosomal recessive nonsyndromic deafness 68	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110520	autosomal recessive nonsyndromic deafness 7	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110521	autosomal recessive nonsyndromic deafness 70	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110522	autosomal recessive nonsyndromic deafness 71	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110523	autosomal recessive nonsyndromic deafness 74	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110524	autosomal recessive nonsyndromic deafness 76	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110525	autosomal recessive nonsyndromic deafness 77	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110526	autosomal recessive nonsyndromic deafness 79	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110527	autosomal recessive nonsyndromic deafness 8	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110528	autosomal recessive nonsyndromic deafness 83	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110529	autosomal recessive nonsyndromic deafness 84A	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110530	autosomal recessive nonsyndromic deafness 84B	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110531	autosomal recessive nonsyndromic deafness 85	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110532	autosomal recessive nonsyndromic deafness 86	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110533	autosomal recessive nonsyndromic deafness 88	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110534	autosomal recessive nonsyndromic deafness 89	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110535	autosomal recessive nonsyndromic deafness 9	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110536	autosomal recessive nonsyndromic deafness 91	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110537	autosomal recessive nonsyndromic deafness 93	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110538	autosomal recessive nonsyndromic deafness 96	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110539	autosomal recessive nonsyndromic deafness 97	1
+DOID:0050565	autosomal recessive nonsyndromic deafness	DOID:0110540	autosomal recessive nonsyndromic deafness 98	1
+DOID:0050566	X-linked nonsyndromic deafness	DOID:0050566	X-linked nonsyndromic deafness	0
+DOID:0050569	Seckel syndrome	DOID:0050569	Seckel syndrome	0
+DOID:0050572	cone-rod dystrophy	DOID:0050572	cone-rod dystrophy	0
+DOID:0050572	cone-rod dystrophy	DOID:0111005	cone-rod dystrophy 2	1
+DOID:0050572	cone-rod dystrophy	DOID:0111006	X-linked cone-rod dystrophy 2	1
+DOID:0050572	cone-rod dystrophy	DOID:0111007	X-linked cone-rod dystrophy 3	1
+DOID:0050572	cone-rod dystrophy	DOID:0111008	X-linked cone-rod dystrophy 1	1
+DOID:0050572	cone-rod dystrophy	DOID:0111009	cone-rod dystrophy 1	1
+DOID:0050572	cone-rod dystrophy	DOID:0111010	cone-rod dystrophy 5	1
+DOID:0050572	cone-rod dystrophy	DOID:0111011	cone-rod dystrophy 6	1
+DOID:0050572	cone-rod dystrophy	DOID:0111012	cone-rod dystrophy 7	1
+DOID:0050572	cone-rod dystrophy	DOID:0111013	cone-rod dystrophy 3	1
+DOID:0050572	cone-rod dystrophy	DOID:0111014	cone-rod dystrophy 8	1
+DOID:0050572	cone-rod dystrophy	DOID:0111015	Newfoundland cone-rod dystrophy	1
+DOID:0050572	cone-rod dystrophy	DOID:0111016	cone-rod dystrophy 13	1
+DOID:0050572	cone-rod dystrophy	DOID:0111017	cone-rod dystrophy 10	1
+DOID:0050572	cone-rod dystrophy	DOID:0111018	cone-rod dystrophy 11	1
+DOID:0050572	cone-rod dystrophy	DOID:0111019	cone-rod dystrophy 12	1
+DOID:0050572	cone-rod dystrophy	DOID:0111020	cone-rod dystrophy 9	1
+DOID:0050572	cone-rod dystrophy	DOID:0111021	cone-rod dystrophy 15	1
+DOID:0050572	cone-rod dystrophy	DOID:0111022	cone-rod dystrophy 16	1
+DOID:0050572	cone-rod dystrophy	DOID:0111023	cone-rod dystrophy 17	1
+DOID:0050572	cone-rod dystrophy	DOID:0111024	cone-rod dystrophy 18	1
+DOID:0050572	cone-rod dystrophy	DOID:0111025	cone-rod dystrophy 19	1
+DOID:0050572	cone-rod dystrophy	DOID:0111026	cone-rod dystrophy 20	1
+DOID:0050576	Senior-Loken syndrome	DOID:0050576	Senior-Loken syndrome	0
+DOID:0050580	hereditary lymphedema	DOID:0050580	hereditary lymphedema	0
+DOID:0050581	brachydactyly	DOID:0050581	brachydactyly	0
+DOID:0050581	brachydactyly	DOID:0110962	brachydactyly-preaxial hallux varus syndrome	1
+DOID:0050581	brachydactyly	DOID:0110963	Ballard syndrome	1
+DOID:0050581	brachydactyly	DOID:0110964	brachydactyly type A1	1
+DOID:0050581	brachydactyly	DOID:0110965	brachydactyly type A2	1
+DOID:0050581	brachydactyly	DOID:0110966	brachydactyly type A3	1
+DOID:0050581	brachydactyly	DOID:0110967	brachydactyly type A4	1
+DOID:0050581	brachydactyly	DOID:0110968	brachydactyly type A6	1
+DOID:0050581	brachydactyly	DOID:0110969	brachydactyly type B1	1
+DOID:0050581	brachydactyly	DOID:0110970	brachydactyly type C	1
+DOID:0050581	brachydactyly	DOID:0110971	brachydactyly type D	1
+DOID:0050581	brachydactyly	DOID:0110972	brachydactyly type E1	1
+DOID:0050581	brachydactyly	DOID:0110973	Mononen-Karnes-Senac syndrome	1
+DOID:0050581	brachydactyly	DOID:0110974	brachydactyly type A1B	2
+DOID:0050581	brachydactyly	DOID:0110975	brachydactyly type B2	1
+DOID:0050581	brachydactyly	DOID:0110976	brachydactyly type E2	1
+DOID:0050581	brachydactyly	DOID:0110977	brachydactyly type A1C	2
+DOID:0050581	brachydactyly	DOID:0110978	brachydactyly type A1D	2
+DOID:0050581	brachydactyly	DOID:0110979	Sugarman brachydactyly	1
+DOID:0050590	severe congenital neutropenia	DOID:0050590	severe congenital neutropenia	0
+DOID:0050591	tooth agenesis	DOID:0050591	tooth agenesis	0
+DOID:0050597	intestinal schistosomiasis	DOID:0050597	intestinal schistosomiasis	0
+DOID:0050628	advanced sleep phase syndrome	DOID:0050628	advanced sleep phase syndrome	0
+DOID:0050628	advanced sleep phase syndrome	DOID:0110011	advanced sleep phase syndrome 1	1
+DOID:0050628	advanced sleep phase syndrome	DOID:0110012	advanced sleep phase syndrome 2	1
+DOID:0050628	advanced sleep phase syndrome	DOID:0110013	advanced sleep phase syndrome 3	1
+DOID:0050629	Aicardi-Goutieres syndrome	DOID:0050629	Aicardi-Goutieres syndrome	0
+DOID:0050632	oculocutaneous albinism	DOID:0050632	oculocutaneous albinism	0
+DOID:0050635	alternating hemiplegia of childhood	DOID:0050635	alternating hemiplegia of childhood	0
+DOID:0050639	primary cutaneous amyloidosis	DOID:0050639	primary cutaneous amyloidosis	0
+DOID:0050640	anauxetic dysplasia 1	DOID:0050640	anauxetic dysplasia 1	0
+DOID:0050644	arterial calcification of infancy	DOID:0050644	arterial calcification of infancy	0
+DOID:0050646	distal arthrogryposis	DOID:0050646	distal arthrogryposis	0
+DOID:0050650	familial atrial fibrillation	DOID:0050650	familial atrial fibrillation	0
+DOID:0050651	atrioventricular septal defect	DOID:0050651	atrioventricular septal defect	0
+DOID:0050654	Baller-Gerold syndrome	DOID:0050654	Baller-Gerold syndrome	0
+DOID:0050674	congenital bile acid synthesis defect	DOID:0050674	congenital bile acid synthesis defect	0
+DOID:0050674	congenital bile acid synthesis defect	DOID:0111066	congenital bile acid synthesis defect 5	1
+DOID:0050674	congenital bile acid synthesis defect	DOID:0111067	congenital bile acid synthesis defect 6	1
+DOID:0050674	congenital bile acid synthesis defect	DOID:0111068	congenital bile acid synthesis defect 4	1
+DOID:0050674	congenital bile acid synthesis defect	DOID:0111069	congenital bile acid synthesis defect 2	1
+DOID:0050674	congenital bile acid synthesis defect	DOID:0111070	congenital bile acid synthesis defect 3	1
+DOID:0050674	congenital bile acid synthesis defect	DOID:0111071	congenital bile acid synthesis defect 1	1
+DOID:0050681	Borjeson-Forssman-Lehmann syndrome	DOID:0050681	Borjeson-Forssman-Lehmann syndrome	0
+DOID:0050690	brachyolmia	DOID:0050690	brachyolmia	0
+DOID:0050699	Dent disease	DOID:0050699	Dent disease	0
+DOID:0050713	fatal infantile encephalocardiomyopathy	DOID:0050713	fatal infantile encephalocardiomyopathy	0
 DOID:0050741	alcohol dependence	DOID:0050741	alcohol dependence	0
 DOID:0050742	nicotine dependence	DOID:0050742	nicotine dependence	0
+DOID:0050747	lymphoplasmacytic lymphoma	DOID:0050747	lymphoplasmacytic lymphoma	0
+DOID:0050747	lymphoplasmacytic lymphoma	DOID:0060901	Waldenstroem's macroglobulinemia	1
+DOID:0050764	Armfield syndrome	DOID:0050764	Armfield syndrome	0
+DOID:0050768	mitochondrial complex V (ATP synthase) deficiency, nuclear type 1	DOID:0050768	mitochondrial complex V (ATP synthase) deficiency, nuclear type 1	0
+DOID:0050776	non-syndromic X-linked intellectual disability	DOID:0050776	non-syndromic X-linked intellectual disability	0
+DOID:0050777	Joubert syndrome	DOID:0050777	Joubert syndrome	0
+DOID:0050777	Joubert syndrome	DOID:0060376	Joubert syndrome with orofaciodigital defect	1
+DOID:0050777	Joubert syndrome	DOID:0110980	Joubert syndrome 1	1
+DOID:0050777	Joubert syndrome	DOID:0110981	Joubert syndrome 10	1
+DOID:0050777	Joubert syndrome	DOID:0110982	Joubert syndrome 13	1
+DOID:0050777	Joubert syndrome	DOID:0110983	Joubert syndrome 14	1
+DOID:0050777	Joubert syndrome	DOID:0110984	Joubert syndrome 15	1
+DOID:0050777	Joubert syndrome	DOID:0110985	Joubert syndrome 16	1
+DOID:0050777	Joubert syndrome	DOID:0110986	Joubert syndrome 17	1
+DOID:0050777	Joubert syndrome	DOID:0110987	Joubert syndrome 18	1
+DOID:0050777	Joubert syndrome	DOID:0110988	Joubert syndrome 2	1
+DOID:0050777	Joubert syndrome	DOID:0110989	Joubert syndrome 20	1
+DOID:0050777	Joubert syndrome	DOID:0110990	Joubert syndrome 21	1
+DOID:0050777	Joubert syndrome	DOID:0110991	Joubert syndrome 22	1
+DOID:0050777	Joubert syndrome	DOID:0110992	Joubert syndrome 23	1
+DOID:0050777	Joubert syndrome	DOID:0110993	Joubert syndrome 24	1
+DOID:0050777	Joubert syndrome	DOID:0110994	Joubert syndrome 25	1
+DOID:0050777	Joubert syndrome	DOID:0110995	Joubert syndrome 26	1
+DOID:0050777	Joubert syndrome	DOID:0110996	Joubert syndrome 27	1
+DOID:0050777	Joubert syndrome	DOID:0110997	Joubert syndrome 28	1
+DOID:0050777	Joubert syndrome	DOID:0110998	Joubert syndrome 3	1
+DOID:0050777	Joubert syndrome	DOID:0110999	Joubert syndrome 4	1
+DOID:0050777	Joubert syndrome	DOID:0111000	Joubert syndrome 5	1
+DOID:0050777	Joubert syndrome	DOID:0111001	Joubert syndrome 6	1
+DOID:0050777	Joubert syndrome	DOID:0111002	Joubert syndrome 7	1
+DOID:0050777	Joubert syndrome	DOID:0111003	Joubert syndrome 8	1
+DOID:0050777	Joubert syndrome	DOID:0111004	Joubert syndrome 9	1
+DOID:0050778	Meckel syndrome	DOID:0050778	Meckel syndrome	0
+DOID:0050779	hydrolethalus syndrome	DOID:0050779	hydrolethalus syndrome	0
+DOID:0050781	Ogden syndrome	DOID:0050781	Ogden syndrome	0
+DOID:0050786	iridogoniodysgenesis syndrome	DOID:0050786	iridogoniodysgenesis syndrome	0
+DOID:0050788	proximal symphalangism	DOID:0050788	proximal symphalangism	0
+DOID:0050789	tarsal-carpal coalition syndrome	DOID:0050789	tarsal-carpal coalition syndrome	0
+DOID:0050794	multiple synostoses syndrome	DOID:0050794	multiple synostoses syndrome	0
+DOID:0050796	achalasia microcephaly syndrome	DOID:0050796	achalasia microcephaly syndrome	0
+DOID:0050802	Ehlers-Danlos syndrome progeroid type	DOID:0050802	Ehlers-Danlos syndrome progeroid type	0
+DOID:0050834	CHARGE syndrome	DOID:0050834	CHARGE syndrome	0
+DOID:0050858	Marshall-Smith syndrome	DOID:0050858	Marshall-Smith syndrome	0
+DOID:0050877	pancreatic agenesis	DOID:0050877	pancreatic agenesis	0
+DOID:0050880	Koolen de Vries syndrome	DOID:0050880	Koolen de Vries syndrome	0
+DOID:0060025	immunoglobulin alpha deficiency	DOID:0060025	immunoglobulin alpha deficiency	0
+DOID:0060055	popliteal pterygium syndrome	DOID:0060055	popliteal pterygium syndrome	0
+DOID:0060061	cutaneous T cell lymphoma	DOID:0060061	cutaneous T cell lymphoma	0
+DOID:0060061	cutaneous T cell lymphoma	DOID:8541	Sezary's disease	1
+DOID:0060061	cutaneous T cell lymphoma	DOID:8691	mycosis fungoides	1
+DOID:0060062	familial juvenile hyperuricemic nephropathy	DOID:0060062	familial juvenile hyperuricemic nephropathy	0
 DOID:0060073	lymphatic system cancer	DOID:0060073	lymphatic system cancer	0
 DOID:0060073	lymphatic system cancer	DOID:0060219	lymph node adenoid cystic carcinoma	2
 DOID:0060073	lymphatic system cancer	DOID:10619	lymph node cancer	1
@@ -31,6 +424,274 @@ DOID:0060119	pharynx cancer	DOID:8937	Waldeyer's ring cancer	2
 DOID:0060119	pharynx cancer	DOID:8969	tonsillar fossa cancer	2
 DOID:0060119	pharynx cancer	DOID:9235	pyriform sinus cancer	2
 DOID:0060119	pharynx cancer	DOID:9261	nasopharynx carcinoma	1
+DOID:0060169	benign familial infantile epilepsy	DOID:0060169	benign familial infantile epilepsy	0
+DOID:0060170	generalized epilepsy with febrile seizures plus	DOID:0060170	generalized epilepsy with febrile seizures plus	0
+DOID:0060178	familial hemiplegic migraine	DOID:0060178	familial hemiplegic migraine	0
+DOID:0060184	lymphocytic colitis	DOID:0060184	lymphocytic colitis	0
+DOID:0060196	amyotrophic lateral sclerosis type 4	DOID:0060196	amyotrophic lateral sclerosis type 4	0
+DOID:0060215	Balo concentric sclerosis	DOID:0060215	Balo concentric sclerosis	0
+DOID:0060216	Cogan syndrome	DOID:0060216	Cogan syndrome	0
+DOID:0060217	Cogan-Reese syndrome	DOID:0060217	Cogan-Reese syndrome	0
+DOID:0060221	Maffucci syndrome	DOID:0060221	Maffucci syndrome	0
+DOID:0060222	Scheie syndrome	DOID:0060222	Scheie syndrome	0
+DOID:0060225	3MC syndrome	DOID:0060225	3MC syndrome	0
+DOID:0060225	3MC syndrome	DOID:0060575	3MC syndrome 1	1
+DOID:0060225	3MC syndrome	DOID:0060576	3MC syndrome 2	1
+DOID:0060225	3MC syndrome	DOID:0060577	3MC syndrome 3	1
+DOID:0060226	acrofrontofacionasal dysostosis	DOID:0060226	acrofrontofacionasal dysostosis	0
+DOID:0060228	intracranial berry aneurysm	DOID:0060228	intracranial berry aneurysm	0
+DOID:0060231	Bruck syndrome	DOID:0060231	Bruck syndrome	0
+DOID:0060232	branchiootic syndrome	DOID:0060232	branchiootic syndrome	0
+DOID:0060233	cardiofaciocutaneous syndrome	DOID:0060233	cardiofaciocutaneous syndrome	0
+DOID:0060234	Carpenter syndrome	DOID:0060234	Carpenter syndrome	0
+DOID:0060235	carnitine palmitoyltransferase II deficiency	DOID:0060235	carnitine palmitoyltransferase II deficiency	0
+DOID:0060236	xanthinuria	DOID:0060236	xanthinuria	0
+DOID:0060237	Warburg micro syndrome	DOID:0060237	Warburg micro syndrome	0
+DOID:0060237	Warburg micro syndrome	DOID:0110716	Warburg micro syndrome 1	1
+DOID:0060237	Warburg micro syndrome	DOID:0110717	Warburg micro syndrome 2	1
+DOID:0060237	Warburg micro syndrome	DOID:0110718	Warburg micro syndrome 3	1
+DOID:0060237	Warburg micro syndrome	DOID:0110719	Warburg micro syndrome 4	1
+DOID:0060238	Van Maldergem syndrome	DOID:0060238	Van Maldergem syndrome	0
+DOID:0060240	UV-sensitive syndrome	DOID:0060240	UV-sensitive syndrome	0
+DOID:0060241	3-M syndrome	DOID:0060241	3-M syndrome	0
+DOID:0060245	Mast syndrome	DOID:0060245	Mast syndrome	0
+DOID:0060246	MASA syndrome	DOID:0060246	MASA syndrome	0
+DOID:0060247	Smith-McCort dysplasia	DOID:0060247	Smith-McCort dysplasia	0
+DOID:0060248	Simpson-Golabi-Behmel syndrome	DOID:0060248	Simpson-Golabi-Behmel syndrome	0
+DOID:0060251	sclerosteosis	DOID:0060251	sclerosteosis	0
+DOID:0060251	sclerosteosis	DOID:0060756	sclerosteosis 1	1
+DOID:0060251	sclerosteosis	DOID:0060757	sclerosteosis 2	1
+DOID:0060252	sclerocornea	DOID:0060252	sclerocornea	0
+DOID:0060252	sclerocornea	DOID:0060648	corneal opacification and other ocular anomalies	1
+DOID:0060254	Robinow syndrome	DOID:0060254	Robinow syndrome	0
+DOID:0060254	Robinow syndrome	DOID:0060764	autosomal recessive Robinow syndrome	1
+DOID:0060254	Robinow syndrome	DOID:0060765	autosomal dominant Robinow syndrome 2	1
+DOID:0060254	Robinow syndrome	DOID:0060766	autosomal dominant Robinow syndrome 1	1
+DOID:0060254	Robinow syndrome	DOID:0060767	autosomal dominant Robinow syndrome 3	1
+DOID:0060255	rippling muscle disease 2	DOID:0060255	rippling muscle disease 2	0
+DOID:0060256	Dowling-Degos disease	DOID:0060256	Dowling-Degos disease	0
+DOID:0060257	dyschromatosis symmetrica hereditaria	DOID:0060257	dyschromatosis symmetrica hereditaria	0
+DOID:0060258	reticulate acropigmentation of Kitamura	DOID:0060258	reticulate acropigmentation of Kitamura	0
+DOID:0060259	renal-hepatic-pancreatic dysplasia	DOID:0060259	renal-hepatic-pancreatic dysplasia	0
+DOID:0060263	porencephaly	DOID:0060263	porencephaly	0
+DOID:0060265	pontocerebellar hypoplasia type 1A	DOID:0060265	pontocerebellar hypoplasia type 1A	0
+DOID:0060266	pontocerebellar hypoplasia type 1B	DOID:0060266	pontocerebellar hypoplasia type 1B	0
+DOID:0060267	pontocerebellar hypoplasia type 2A	DOID:0060267	pontocerebellar hypoplasia type 2A	0
+DOID:0060268	pontocerebellar hypoplasia type 2B	DOID:0060268	pontocerebellar hypoplasia type 2B	0
+DOID:0060269	pontocerebellar hypoplasia type 2C	DOID:0060269	pontocerebellar hypoplasia type 2C	0
+DOID:0060270	pontocerebellar hypoplasia type 2D	DOID:0060270	pontocerebellar hypoplasia type 2D	0
+DOID:0060272	pontocerebellar hypoplasia type 3	DOID:0060272	pontocerebellar hypoplasia type 3	0
+DOID:0060273	pontocerebellar hypoplasia type 4	DOID:0060273	pontocerebellar hypoplasia type 4	0
+DOID:0060274	pontocerebellar hypoplasia type 5	DOID:0060274	pontocerebellar hypoplasia type 5	0
+DOID:0060275	pontocerebellar hypoplasia type 6	DOID:0060275	pontocerebellar hypoplasia type 6	0
+DOID:0060276	pontocerebellar hypoplasia type 7	DOID:0060276	pontocerebellar hypoplasia type 7	0
+DOID:0060277	pontocerebellar hypoplasia type 8	DOID:0060277	pontocerebellar hypoplasia type 8	0
+DOID:0060278	pontocerebellar hypoplasia type 9	DOID:0060278	pontocerebellar hypoplasia type 9	0
+DOID:0060279	pontocerebellar hypoplasia type 10	DOID:0060279	pontocerebellar hypoplasia type 10	0
+DOID:0060280	primary pigmented nodular adrenocortical disease	DOID:0060280	primary pigmented nodular adrenocortical disease	0
+DOID:0060281	photosensitive epilepsy	DOID:0060281	photosensitive epilepsy	0
+DOID:0060282	persistent hyperplastic primary vitreous	DOID:0060282	persistent hyperplastic primary vitreous	0
+DOID:0060283	peeling skin syndrome	DOID:0060283	peeling skin syndrome	0
+DOID:0060284	paroxysmal nocturnal hemoglobinuria	DOID:0060284	paroxysmal nocturnal hemoglobinuria	0
+DOID:0060285	parietal foramina	DOID:0060285	parietal foramina	0
+DOID:0060287	cornea plana	DOID:0060287	cornea plana	0
+DOID:0060288	omodysplasia	DOID:0060288	omodysplasia	0
+DOID:0060289	Ohdo syndrome	DOID:0060289	Ohdo syndrome	0
+DOID:0060289	Ohdo syndrome	DOID:0060290	blepharophimosis-intellectual disability syndrome, SBBYS type	1
+DOID:0060291	oculodentodigital dysplasia	DOID:0060291	oculodentodigital dysplasia	0
+DOID:0060292	X-linked chondrodysplasia punctata	DOID:0060292	X-linked chondrodysplasia punctata	0
+DOID:0060293	autosomal dominant chondrodysplasia punctata	DOID:0060293	autosomal dominant chondrodysplasia punctata	0
+DOID:0060294	cold-induced sweating syndrome	DOID:0060294	cold-induced sweating syndrome	0
+DOID:0060295	complement component 2 deficiency	DOID:0060295	complement component 2 deficiency	0
+DOID:0060296	congenital secretory chloride diarrhea 1	DOID:0060296	congenital secretory chloride diarrhea 1	0
+DOID:0060297	complement component 4a deficiency	DOID:0060297	complement component 4a deficiency	0
+DOID:0060298	complement component 4b deficiency	DOID:0060298	complement component 4b deficiency	0
+DOID:0060299	complement component 6 deficiency	DOID:0060299	complement component 6 deficiency	0
+DOID:0060300	complement component 7 deficiency	DOID:0060300	complement component 7 deficiency	0
+DOID:0060301	type I complement component 8 deficiency	DOID:0060301	type I complement component 8 deficiency	0
+DOID:0060302	type II complement component 8 deficiency	DOID:0060302	type II complement component 8 deficiency	0
+DOID:0060303	complement component 9 deficiency	DOID:0060303	complement component 9 deficiency	0
+DOID:0060304	dyschromatosis universalis hereditaria	DOID:0060304	dyschromatosis universalis hereditaria	0
+DOID:0060305	megalocornea	DOID:0060305	megalocornea	0
+DOID:0060306	Meier-Gorlin syndrome	DOID:0060306	Meier-Gorlin syndrome	0
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	DOID:0060307	autosomal dominant non-syndromic intellectual disability	0
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	DOID:0060308	autosomal recessive non-syndromic intellectual disability	0
+DOID:0060313	tracheomalacia	DOID:0060313	tracheomalacia	0
+DOID:0060316	orofaciodigital syndrome I	DOID:0060316	orofaciodigital syndrome I	0
+DOID:0060318	acute promyelocytic leukemia	DOID:0060318	acute promyelocytic leukemia	0
+DOID:0060330	Rapp-Hodgkin syndrome	DOID:0060330	Rapp-Hodgkin syndrome	0
+DOID:0060331	mitochondrial complex V (ATP synthase) deficiency nuclear type 2	DOID:0060331	mitochondrial complex V (ATP synthase) deficiency nuclear type 2	0
+DOID:0060332	mitochondrial complex V (ATP synthase) deficiency nuclear type 3	DOID:0060332	mitochondrial complex V (ATP synthase) deficiency nuclear type 3	0
+DOID:0060333	mitochondrial complex V (ATP synthase) deficiency nuclear type 4	DOID:0060333	mitochondrial complex V (ATP synthase) deficiency nuclear type 4	0
+DOID:0060334	transient neonatal diabetes mellitus	DOID:0060334	transient neonatal diabetes mellitus	0
+DOID:0060336	3-methylglutaconic aciduria	DOID:0060336	3-methylglutaconic aciduria	0
+DOID:0060336	3-methylglutaconic aciduria	DOID:0110000	3-methylglutaconic aciduria type 5	1
+DOID:0060336	3-methylglutaconic aciduria	DOID:0110001	3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome	1
+DOID:0060336	3-methylglutaconic aciduria	DOID:0110002	3-methylglutaconic aciduria type 1	1
+DOID:0060336	3-methylglutaconic aciduria	DOID:0110003	3-methylglutaconic aciduria with cataracts, neurologic involvement and neutropenia	1
+DOID:0060336	3-methylglutaconic aciduria	DOID:0110004	3-methylglutaconic aciduria type 3	1
+DOID:0060336	3-methylglutaconic aciduria	DOID:0110006	3-methylglutaconic aciduria type 4	1
+DOID:0060337	CEDNIK syndrome	DOID:0060337	CEDNIK syndrome	0
+DOID:0060341	agnathia-otocephaly complex	DOID:0060341	agnathia-otocephaly complex	0
+DOID:0060346	Native American myopathy	DOID:0060346	Native American myopathy	0
+DOID:0060348	hypoparathyroidism-retardation-dysmorphism syndrome	DOID:0060348	hypoparathyroidism-retardation-dysmorphism syndrome	0
+DOID:0060349	microcephaly with or without chorioretinopathy, lymphedema, or mental retardation	DOID:0060349	microcephaly with or without chorioretinopathy, lymphedema, or mental retardation	0
+DOID:0060352	Kleefstra syndrome	DOID:0060352	Kleefstra syndrome	0
+DOID:0060354	Stormorken syndrome	DOID:0060354	Stormorken syndrome	0
+DOID:0060355	amyotrophic lateral sclerosis type 22	DOID:0060355	amyotrophic lateral sclerosis type 22	0
+DOID:0060356	Vici syndrome	DOID:0060356	Vici syndrome	0
+DOID:0060357	chylomicron retention disease	DOID:0060357	chylomicron retention disease	0
+DOID:0060358	multiple acyl-CoA dehydrogenase deficiency	DOID:0060358	multiple acyl-CoA dehydrogenase deficiency	0
+DOID:0060359	Sakati-Nyhan syndrome	DOID:0060359	Sakati-Nyhan syndrome	0
+DOID:0060361	punctate palmoplantar keratoderma	DOID:0060361	punctate palmoplantar keratoderma	0
+DOID:0060361	punctate palmoplantar keratoderma	DOID:0060362	punctate palmoplantar keratoderma type III	1
+DOID:0060363	glycerol kinase deficiency	DOID:0060363	glycerol kinase deficiency	0
+DOID:0060364	Galloway-Mowat syndrome	DOID:0060364	Galloway-Mowat syndrome	0
+DOID:0060366	Hennekam syndrome	DOID:0060366	Hennekam syndrome	0
+DOID:0060373	orofaciodigital syndrome III	DOID:0060373	orofaciodigital syndrome III	0
+DOID:0060374	orofaciodigital syndrome IV	DOID:0060374	orofaciodigital syndrome IV	0
+DOID:0060375	orofaciodigital syndrome V	DOID:0060375	orofaciodigital syndrome V	0
+DOID:0060377	orofaciodigital syndrome VII	DOID:0060377	orofaciodigital syndrome VII	0
+DOID:0060378	orofaciodigital syndrome VIII	DOID:0060378	orofaciodigital syndrome VIII	0
+DOID:0060380	orofaciodigital syndrome X	DOID:0060380	orofaciodigital syndrome X	0
+DOID:0060381	orofaciodigital syndrome XI	DOID:0060381	orofaciodigital syndrome XI	0
+DOID:0060382	orofaciodigital syndrome IX	DOID:0060382	orofaciodigital syndrome IX	0
+DOID:0060383	acrofacial dysostosis Rodriguez type	DOID:0060383	acrofacial dysostosis Rodriguez type	0
+DOID:0060384	acrofacial dysostosis, Catania type	DOID:0060384	acrofacial dysostosis, Catania type	0
+DOID:0060385	acrofacial dysostosis, Patagonia type	DOID:0060385	acrofacial dysostosis, Patagonia type	0
+DOID:0060386	Chilblain lupus	DOID:0060386	Chilblain lupus	0
+DOID:0060387	chondrodysplasia Blomstrand type	DOID:0060387	chondrodysplasia Blomstrand type	0
+DOID:0060390	distal 10q deletion syndrome	DOID:0060390	distal 10q deletion syndrome	0
+DOID:0060391	chromosome 13q14 deletion syndrome	DOID:0060391	chromosome 13q14 deletion syndrome	0
+DOID:0060392	chromosome 14q11-q22 deletion syndrome	DOID:0060392	chromosome 14q11-q22 deletion syndrome	0
+DOID:0060393	chromosome 15q11.2 deletion syndrome	DOID:0060393	chromosome 15q11.2 deletion syndrome	0
+DOID:0060394	chromosome 15q13.3 microdeletion syndrome	DOID:0060394	chromosome 15q13.3 microdeletion syndrome	0
+DOID:0060395	chromosome 15q24 deletion syndrome	DOID:0060395	chromosome 15q24 deletion syndrome	0
+DOID:0060397	chromosome 15q26-qter deletion syndrome	DOID:0060397	chromosome 15q26-qter deletion syndrome	0
+DOID:0060398	chromosome 16p11.2 deletion syndrome, 220kb	DOID:0060398	chromosome 16p11.2 deletion syndrome, 220kb	0
+DOID:0060400	chromosome 16p12.2-p11.2 deletion syndrome	DOID:0060400	chromosome 16p12.2-p11.2 deletion syndrome	0
+DOID:0060403	chromosome 17q11.2 deletion syndrome, 1.4Mb	DOID:0060403	chromosome 17q11.2 deletion syndrome, 1.4Mb	0
+DOID:0060404	chromosome 17q12 deletion syndrome	DOID:0060404	chromosome 17q12 deletion syndrome	0
+DOID:0060405	chromosome 17q23.1-q23.2 deletion syndrome	DOID:0060405	chromosome 17q23.1-q23.2 deletion syndrome	0
+DOID:0060406	chromosome 18p deletion syndrome	DOID:0060406	chromosome 18p deletion syndrome	0
+DOID:0060407	chromosome 18q deletion syndrome	DOID:0060407	chromosome 18q deletion syndrome	0
+DOID:0060408	chromosome 19q13.11 deletion syndrome	DOID:0060408	chromosome 19q13.11 deletion syndrome	0
+DOID:0060409	chromosome 1p32-p31 deletion syndrome	DOID:0060409	chromosome 1p32-p31 deletion syndrome	0
+DOID:0060410	chromosome 1p36 deletion syndrome	DOID:0060410	chromosome 1p36 deletion syndrome	0
+DOID:0060411	chromosome 1q21.1 deletion syndrome	DOID:0060411	chromosome 1q21.1 deletion syndrome	0
+DOID:0060412	chromosome 1q41-q42 deletion syndrome	DOID:0060412	chromosome 1q41-q42 deletion syndrome	0
+DOID:0060413	chromosome 22q11.2 deletion syndrome, distal	DOID:0060413	chromosome 22q11.2 deletion syndrome, distal	0
+DOID:0060415	chromosome 2p16.1-p15 deletion syndrome	DOID:0060415	chromosome 2p16.1-p15 deletion syndrome	0
+DOID:0060417	3p- syndrome	DOID:0060417	3p- syndrome	0
+DOID:0060418	chromosome 3q13.31 deletion syndrome	DOID:0060418	chromosome 3q13.31 deletion syndrome	0
+DOID:0060419	chromosome 3q29 microdeletion syndrome	DOID:0060419	chromosome 3q29 microdeletion syndrome	0
+DOID:0060420	chromosome 4q21 deletion syndrome	DOID:0060420	chromosome 4q21 deletion syndrome	0
+DOID:0060422	chromosome 6pter-p24 deletion syndrome	DOID:0060422	chromosome 6pter-p24 deletion syndrome	0
+DOID:0060424	chromosome 6q24-q25 deletion syndrome	DOID:0060424	chromosome 6q24-q25 deletion syndrome	0
+DOID:0060425	chromosome 8q21.11 deletion syndrome	DOID:0060425	chromosome 8q21.11 deletion syndrome	0
+DOID:0060427	chromosome Xp21 deletion syndrome	DOID:0060427	chromosome Xp21 deletion syndrome	0
+DOID:0060428	chromosome 2q32-q33 deletion syndrome	DOID:0060428	chromosome 2q32-q33 deletion syndrome	0
+DOID:0060430	chromosome 16p11.2 duplication syndrome	DOID:0060430	chromosome 16p11.2 duplication syndrome	0
+DOID:0060431	chromosome 16p13.3 duplication syndrome	DOID:0060431	chromosome 16p13.3 duplication syndrome	0
+DOID:0060432	chromosome 17p13.3 duplication syndrome	DOID:0060432	chromosome 17p13.3 duplication syndrome	0
+DOID:0060433	chromosome 17q12 duplication syndrome	DOID:0060433	chromosome 17q12 duplication syndrome	0
+DOID:0060434	chromosome 17q21.31 duplication syndrome	DOID:0060434	chromosome 17q21.31 duplication syndrome	0
+DOID:0060435	chromosome 1q21.1 duplication syndrome	DOID:0060435	chromosome 1q21.1 duplication syndrome	0
+DOID:0060436	chromosome 22q11.2 microduplication syndrome	DOID:0060436	chromosome 22q11.2 microduplication syndrome	0
+DOID:0060439	lysinuric protein intolerance	DOID:0060439	lysinuric protein intolerance	0
+DOID:0060444	granular corneal dystrophy type II	DOID:0060444	granular corneal dystrophy type II	0
+DOID:0060445	congenital stromal corneal dystrophy	DOID:0060445	congenital stromal corneal dystrophy	0
+DOID:0060446	X-linked endothelial corneal dystrophy	DOID:0060446	X-linked endothelial corneal dystrophy	0
+DOID:0060447	epithelial basement membrane dystrophy	DOID:0060447	epithelial basement membrane dystrophy	0
+DOID:0060448	Fleck corneal dystrophy	DOID:0060448	Fleck corneal dystrophy	0
+DOID:0060449	gelatinous drop-like corneal dystrophy	DOID:0060449	gelatinous drop-like corneal dystrophy	0
+DOID:0060450	Lisch epithelial corneal dystrophy	DOID:0060450	Lisch epithelial corneal dystrophy	0
+DOID:0060451	Meesmann corneal dystrophy	DOID:0060451	Meesmann corneal dystrophy	0
+DOID:0060452	posterior amorphous corneal dystrophy	DOID:0060452	posterior amorphous corneal dystrophy	0
+DOID:0060453	Reis-Bucklers corneal dystrophy	DOID:0060453	Reis-Bucklers corneal dystrophy	0
+DOID:0060454	subepithelial mucinous corneal dystrophy	DOID:0060454	subepithelial mucinous corneal dystrophy	0
+DOID:0060455	Thiel-Behnke corneal dystrophy	DOID:0060455	Thiel-Behnke corneal dystrophy	0
+DOID:0060456	Schnyder corneal dystrophy	DOID:0060456	Schnyder corneal dystrophy	0
+DOID:0060457	posterior polymorphous corneal dystrophy	DOID:0060457	posterior polymorphous corneal dystrophy	0
+DOID:0060457	posterior polymorphous corneal dystrophy	DOID:0110855	posterior polymorphous corneal dystrophy 1	1
+DOID:0060457	posterior polymorphous corneal dystrophy	DOID:0110856	posterior polymorphous corneal dystrophy 2	1
+DOID:0060457	posterior polymorphous corneal dystrophy	DOID:0110857	posterior polymorphous corneal dystrophy 3	1
+DOID:0060459	chromosome 3q29 microduplication syndrome	DOID:0060459	chromosome 3q29 microduplication syndrome	0
+DOID:0060460	chromosome 5p13 duplication syndrome	DOID:0060460	chromosome 5p13 duplication syndrome	0
+DOID:0060461	chromosome Xp11.23-p11.22 duplication syndrome	DOID:0060461	chromosome Xp11.23-p11.22 duplication syndrome	0
+DOID:0060462	Desbuquois dysplasia	DOID:0060462	Desbuquois dysplasia	0
+DOID:0060464	Feingold syndrome	DOID:0060464	Feingold syndrome	0
+DOID:0060465	fibrochondrogenesis	DOID:0060465	fibrochondrogenesis	0
+DOID:0060466	gingival fibromatosis	DOID:0060466	gingival fibromatosis	0
+DOID:0060467	humeroradial synostosis	DOID:0060467	humeroradial synostosis	0
+DOID:0060468	Holt-Oram syndrome	DOID:0060468	Holt-Oram syndrome	0
+DOID:0060469	Miller-Dieker lissencephaly syndrome	DOID:0060469	Miller-Dieker lissencephaly syndrome	0
+DOID:0060470	salt and pepper syndrome	DOID:0060470	salt and pepper syndrome	0
+DOID:0060471	fetal valproate syndrome	DOID:0060471	fetal valproate syndrome	0
+DOID:0060472	Kindler syndrome	DOID:0060472	Kindler syndrome	0
+DOID:0060473	Kabuki syndrome	DOID:0060473	Kabuki syndrome	0
+DOID:0060474	Chuvash polycythemia	DOID:0060474	Chuvash polycythemia	0
+DOID:0060476	Perlman syndrome	DOID:0060476	Perlman syndrome	0
+DOID:0060480	left ventricular noncompaction	DOID:0060480	left ventricular noncompaction	0
+DOID:0060481	Goldberg-Shprintzen syndrome	DOID:0060481	Goldberg-Shprintzen syndrome	0
+DOID:0060482	oculoauricular syndrome	DOID:0060482	oculoauricular syndrome	0
+DOID:0060483	MEDNIK syndrome	DOID:0060483	MEDNIK syndrome	0
+DOID:0060484	EAST syndrome	DOID:0060484	EAST syndrome	0
+DOID:0060485	Mowat-Wilson syndrome	DOID:0060485	Mowat-Wilson syndrome	0
+DOID:0060486	Perry syndrome	DOID:0060486	Perry syndrome	0
+DOID:0060488	Pitt-Hopkins syndrome	DOID:0060488	Pitt-Hopkins syndrome	0
+DOID:0060490	Schimke immuno-osseous dysplasia	DOID:0060490	Schimke immuno-osseous dysplasia	0
+DOID:0060491	SPOAN syndrome	DOID:0060491	SPOAN syndrome	0
+DOID:0060668	anencephaly	DOID:0060668	anencephaly	0
+DOID:0060668	anencephaly	DOID:4626	hydranencephaly	1
+DOID:0060669	cerebral cavernous malformation	DOID:0060669	cerebral cavernous malformation	0
+DOID:0060669	cerebral cavernous malformation	DOID:0060670	cerebral cavernous malformation 2	1
+DOID:0060669	cerebral cavernous malformation	DOID:0060671	cerebral cavernous malformation 3	1
+DOID:0060673	Peters anomaly	DOID:0060673	Peters anomaly	0
+DOID:0060681	autosomal dominant nocturnal frontal lobe epilepsy	DOID:0060681	autosomal dominant nocturnal frontal lobe epilepsy	0
+DOID:0060681	autosomal dominant nocturnal frontal lobe epilepsy	DOID:0060682	autosomal dominant nocturnal frontal lobe epilepsy 1	1
+DOID:0060681	autosomal dominant nocturnal frontal lobe epilepsy	DOID:0060683	autosomal dominant nocturnal frontal lobe epilepsy 2	1
+DOID:0060681	autosomal dominant nocturnal frontal lobe epilepsy	DOID:0060684	autosomal dominant nocturnal frontal lobe epilepsy 3	1
+DOID:0060681	autosomal dominant nocturnal frontal lobe epilepsy	DOID:0060685	autosomal dominant nocturnal frontal lobe epilepsy 4	1
+DOID:0060681	autosomal dominant nocturnal frontal lobe epilepsy	DOID:0060686	autosomal dominant nocturnal frontal lobe epilepsy 5	1
+DOID:0060688	arteriovenous malformations of the brain	DOID:0060688	arteriovenous malformations of the brain	0
+DOID:0060693	Brunner Syndrome	DOID:0060693	Brunner Syndrome	0
+DOID:0060695	hyperekplexia	DOID:0060695	hyperekplexia	0
+DOID:0060695	hyperekplexia	DOID:0060696	hyperekplexia 1	1
+DOID:0060695	hyperekplexia	DOID:0060697	hyperekplexia 2	1
+DOID:0060695	hyperekplexia	DOID:0060698	hyperekplexia 3	1
+DOID:0060704	lymphoproliferative syndrome	DOID:0060704	lymphoproliferative syndrome	0
+DOID:0060704	lymphoproliferative syndrome	DOID:0060705	X-linked lymphoproliferative syndrome 1	1
+DOID:0060704	lymphoproliferative syndrome	DOID:0060706	X-linked lymphoproliferative syndrome 2	1
+DOID:0060704	lymphoproliferative syndrome	DOID:0060707	lymphoproliferative syndrome 1	1
+DOID:0060704	lymphoproliferative syndrome	DOID:0060708	lymphoproliferative syndrome 2	1
+DOID:0060710	autosomal recessive congenital ichthyosis 2	DOID:0060710	autosomal recessive congenital ichthyosis 2	0
+DOID:0060711	autosomal recessive congenital ichthyosis 3	DOID:0060711	autosomal recessive congenital ichthyosis 3	0
+DOID:0060712	autosomal recessive congenital ichthyosis 4A	DOID:0060712	autosomal recessive congenital ichthyosis 4A	0
+DOID:0060713	autosomal recessive congenital ichthyosis 4B	DOID:0060713	autosomal recessive congenital ichthyosis 4B	0
+DOID:0060714	autosomal recessive congenital ichthyosis 5	DOID:0060714	autosomal recessive congenital ichthyosis 5	0
+DOID:0060715	autosomal recessive congenital ichthyosis 6	DOID:0060715	autosomal recessive congenital ichthyosis 6	0
+DOID:0060716	autosomal recessive congenital ichthyosis 7	DOID:0060716	autosomal recessive congenital ichthyosis 7	0
+DOID:0060717	autosomal recessive congenital ichthyosis 8	DOID:0060717	autosomal recessive congenital ichthyosis 8	0
+DOID:0060718	autosomal recessive congenital ichthyosis 9	DOID:0060718	autosomal recessive congenital ichthyosis 9	0
+DOID:0060719	autosomal recessive congenital ichthyosis 10	DOID:0060719	autosomal recessive congenital ichthyosis 10	0
+DOID:0060720	autosomal recessive congenital ichthyosis 11	DOID:0060720	autosomal recessive congenital ichthyosis 11	0
+DOID:0060847	Leri-Weill dyschondrosteosis	DOID:0060847	Leri-Weill dyschondrosteosis	0
+DOID:0080028	spondyloepimetaphyseal dysplasia, Strudwick type	DOID:0080028	spondyloepimetaphyseal dysplasia, Strudwick type	0
+DOID:0080033	craniometaphyseal dysplasia	DOID:0080033	craniometaphyseal dysplasia	0
+DOID:0080109	infantile myofibromatosis	DOID:0080109	infantile myofibromatosis	0
+DOID:0080110	multiple pterygium syndrome	DOID:0080110	multiple pterygium syndrome	0
+DOID:0080143	congenital fibrosis of the extraocular muscles	DOID:0080143	congenital fibrosis of the extraocular muscles	0
+DOID:0080153	medium chain acyl-CoA dehydrogenase deficiency	DOID:0080153	medium chain acyl-CoA dehydrogenase deficiency	0
+DOID:0080154	short chain acyl-CoA dehydrogenase deficiency	DOID:0080154	short chain acyl-CoA dehydrogenase deficiency	0
+DOID:0080155	very long chain acyl-CoA dehydrogenase deficiency	DOID:0080155	very long chain acyl-CoA dehydrogenase deficiency	0
+DOID:0080173	bladder exstrophy-epispadias-cloacal exstrophy complex	DOID:0080173	bladder exstrophy-epispadias-cloacal exstrophy complex	0
+DOID:0080173	bladder exstrophy-epispadias-cloacal exstrophy complex	DOID:0080174	bladder exstrophy	1
+DOID:0080173	bladder exstrophy-epispadias-cloacal exstrophy complex	DOID:0080175	cloacal exstrophy	1
+DOID:0080193	superior semicircular canal dehiscence	DOID:0080193	superior semicircular canal dehiscence	0
+DOID:0080196	mandibulofacial dysostosis, Guion-Almeida type	DOID:0080196	mandibulofacial dysostosis, Guion-Almeida type	0
+DOID:10016	multiple endocrine neoplasia type 2B	DOID:10016	multiple endocrine neoplasia type 2B	0
+DOID:10017	multiple endocrine neoplasia type 1	DOID:10017	multiple endocrine neoplasia type 1	0
 DOID:10021	duodenum cancer	DOID:10020	ampulla of Vater cancer	1
 DOID:10021	duodenum cancer	DOID:10021	duodenum cancer	0
 DOID:10021	duodenum cancer	DOID:10816	duodenum adenocarcinoma	1
@@ -45,6 +706,9 @@ DOID:10021	duodenum cancer	DOID:7136	ampulla of Vater small cell carcinoma	3
 DOID:10021	duodenum cancer	DOID:7479	duodenal somatostatinoma	1
 DOID:10021	duodenum cancer	DOID:7959	duodenal gastrinoma	1
 DOID:10021	duodenum cancer	DOID:8110	periampullary adenocarcinoma	4
+DOID:10126	keratoconus	DOID:10125	acute hydrops keratoconus	1
+DOID:10126	keratoconus	DOID:10126	keratoconus	0
+DOID:10126	keratoconus	DOID:10428	stable condition keratoconus	1
 DOID:10153	ileum cancer	DOID:10152	Meckel's diverticulum cancer	1
 DOID:10153	ileum cancer	DOID:10153	ileum cancer	0
 DOID:1024	leprosy	DOID:1023	borderline leprosy	1
@@ -73,6 +737,19 @@ DOID:10283	prostate cancer	DOID:5634	adenosquamous prostate carcinoma	2
 DOID:10283	prostate cancer	DOID:7141	prostate small cell carcinoma	2
 DOID:10283	prostate cancer	DOID:7152	prostate stromal sarcoma	2
 DOID:10283	prostate cancer	DOID:7246	lymphoepithelioma-like acinar prostate adenocarcinoma	3
+DOID:1040	chronic lymphocytic leukemia	DOID:0050751	T-cell large granular lymphocyte leukemia	1
+DOID:1040	chronic lymphocytic leukemia	DOID:1039	prolymphocytic leukemia	1
+DOID:1040	chronic lymphocytic leukemia	DOID:1040	chronic lymphocytic leukemia	0
+DOID:1040	chronic lymphocytic leukemia	DOID:12972	intrapelvic lymph node leukemic reticuloendotheliosis	2
+DOID:1040	chronic lymphocytic leukemia	DOID:1703	Richter's syndrome	1
+DOID:1040	chronic lymphocytic leukemia	DOID:285	hairy cell leukemia	1
+DOID:1040	chronic lymphocytic leukemia	DOID:6354	CLL/SLL	1
+DOID:1040	chronic lymphocytic leukemia	DOID:711	refractory hairy cell leukemia	2
+DOID:1040	chronic lymphocytic leukemia	DOID:713	HCL-V	2
+DOID:1040	chronic lymphocytic leukemia	DOID:7230	postgerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma	2
+DOID:1040	chronic lymphocytic leukemia	DOID:8144	pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma	2
+DOID:10426	Klippel-Feil syndrome	DOID:10426	Klippel-Feil syndrome	0
+DOID:10487	Hirschsprung's disease	DOID:10487	Hirschsprung's disease	0
 DOID:10534	stomach cancer	DOID:10534	stomach cancer	0
 DOID:10534	stomach cancer	DOID:10536	malignant gastric granular cell tumor	1
 DOID:10534	stomach cancer	DOID:10538	gastric fundus cancer	1
@@ -102,7 +779,113 @@ DOID:10534	stomach cancer	DOID:6703	gastric pylorus carcinoma	2
 DOID:10534	stomach cancer	DOID:6705	gastric body carcinoma	2
 DOID:10534	stomach cancer	DOID:6948	malignant gastric teratoma	2
 DOID:10534	stomach cancer	DOID:8025	gastric signet ring cell adenocarcinoma	4
+DOID:10581	metachromatic leukodystrophy	DOID:10581	metachromatic leukodystrophy	0
+DOID:10584	retinitis pigmentosa	DOID:0110352	retinitis pigmentosa 59	1
+DOID:10584	retinitis pigmentosa	DOID:0110353	retinitis pigmentosa 20	1
+DOID:10584	retinitis pigmentosa	DOID:0110354	retinitis pigmentosa 19	1
+DOID:10584	retinitis pigmentosa	DOID:0110355	retinitis pigmentosa 32	1
+DOID:10584	retinitis pigmentosa	DOID:0110356	retinitis pigmentosa 18	1
+DOID:10584	retinitis pigmentosa	DOID:0110357	retinitis pigmentosa 35	1
+DOID:10584	retinitis pigmentosa	DOID:0110358	retinitis pigmentosa 12	1
+DOID:10584	retinitis pigmentosa	DOID:0110359	retinitis pigmentosa 67	1
+DOID:10584	retinitis pigmentosa	DOID:0110360	retinitis pigmentosa 39	1
+DOID:10584	retinitis pigmentosa	DOID:0110361	retinitis pigmentosa 75	1
+DOID:10584	retinitis pigmentosa	DOID:0110362	retinitis pigmentosa 58	1
+DOID:10584	retinitis pigmentosa	DOID:0110363	retinitis pigmentosa 71	1
+DOID:10584	retinitis pigmentosa	DOID:0110364	retinitis pigmentosa 54	1
+DOID:10584	retinitis pigmentosa	DOID:0110365	retinitis pigmentosa 28	1
+DOID:10584	retinitis pigmentosa	DOID:0110366	retinitis pigmentosa 33	1
+DOID:10584	retinitis pigmentosa	DOID:0110367	retinitis pigmentosa 38	1
+DOID:10584	retinitis pigmentosa	DOID:0110368	retinitis pigmentosa 26	1
+DOID:10584	retinitis pigmentosa	DOID:0110369	retinitis pigmentosa 47	1
+DOID:10584	retinitis pigmentosa	DOID:0110370	retinitis pigmentosa 55	1
+DOID:10584	retinitis pigmentosa	DOID:0110371	retinitis pigmentosa 56	1
+DOID:10584	retinitis pigmentosa	DOID:0110372	retinitis pigmentosa 4	1
+DOID:10584	retinitis pigmentosa	DOID:0110373	retinitis pigmentosa 61	1
+DOID:10584	retinitis pigmentosa	DOID:0110374	retinitis pigmentosa 68	1
+DOID:10584	retinitis pigmentosa	DOID:0110375	retinitis pigmentosa 40	1
+DOID:10584	retinitis pigmentosa	DOID:0110376	retinitis pigmentosa 41	1
+DOID:10584	retinitis pigmentosa	DOID:0110377	retinitis pigmentosa 49	1
+DOID:10584	retinitis pigmentosa	DOID:0110378	retinitis pigmentosa 29	1
+DOID:10584	retinitis pigmentosa	DOID:0110379	retinitis pigmentosa 43	1
+DOID:10584	retinitis pigmentosa	DOID:0110380	retinitis pigmentosa 62	1
+DOID:10584	retinitis pigmentosa	DOID:0110381	retinitis pigmentosa 14	1
+DOID:10584	retinitis pigmentosa	DOID:0110382	retinitis pigmentosa 48	1
+DOID:10584	retinitis pigmentosa	DOID:0110383	retinitis pigmentosa 7	1
+DOID:10584	retinitis pigmentosa	DOID:0110384	retinitis pigmentosa 25	1
+DOID:10584	retinitis pigmentosa	DOID:0110385	retinitis pigmentosa 63	1
+DOID:10584	retinitis pigmentosa	DOID:0110386	retinitis pigmentosa 42	1
+DOID:10584	retinitis pigmentosa	DOID:0110387	retinitis pigmentosa 9	1
+DOID:10584	retinitis pigmentosa	DOID:0110388	retinitis pigmentosa 10	1
+DOID:10584	retinitis pigmentosa	DOID:0110389	retinitis pigmentosa 73	1
+DOID:10584	retinitis pigmentosa	DOID:0110390	retinitis pigmentosa 1	1
+DOID:10584	retinitis pigmentosa	DOID:0110391	retinitis pigmentosa 31	1
+DOID:10584	retinitis pigmentosa	DOID:0110392	retinitis pigmentosa 70	1
+DOID:10584	retinitis pigmentosa	DOID:0110393	retinitis pigmentosa 66	1
+DOID:10584	retinitis pigmentosa	DOID:0110394	retinitis pigmentosa 44	1
+DOID:10584	retinitis pigmentosa	DOID:0110395	retinitis pigmentosa 72	1
+DOID:10584	retinitis pigmentosa	DOID:0110396	retinitis pigmentosa 50	1
+DOID:10584	retinitis pigmentosa	DOID:0110397	retinitis pigmentosa 27	1
+DOID:10584	retinitis pigmentosa	DOID:0110398	retinitis pigmentosa 51	1
+DOID:10584	retinitis pigmentosa	DOID:0110399	retinitis pigmentosa 37	1
+DOID:10584	retinitis pigmentosa	DOID:0110400	retinitis pigmentosa 22	1
+DOID:10584	retinitis pigmentosa	DOID:0110401	retinitis pigmentosa 74	1
+DOID:10584	retinitis pigmentosa	DOID:0110402	retinitis pigmentosa 45	1
+DOID:10584	retinitis pigmentosa	DOID:0110403	retinitis pigmentosa 13	1
+DOID:10584	retinitis pigmentosa	DOID:0110404	retinitis pigmentosa 17	1
+DOID:10584	retinitis pigmentosa	DOID:0110405	retinitis pigmentosa 36	1
+DOID:10584	retinitis pigmentosa	DOID:0110406	retinitis pigmentosa 30	1
+DOID:10584	retinitis pigmentosa	DOID:0110407	retinitis pigmentosa 57	1
+DOID:10584	retinitis pigmentosa	DOID:0110408	retinitis pigmentosa 11	1
+DOID:10584	retinitis pigmentosa	DOID:0110409	retinitis pigmentosa 46	1
+DOID:10584	retinitis pigmentosa	DOID:0110410	retinitis pigmentosa 69	1
+DOID:10584	retinitis pigmentosa	DOID:0110411	retinitis pigmentosa 60	1
+DOID:10584	retinitis pigmentosa	DOID:0110412	retinitis pigmentosa 23	1
+DOID:10584	retinitis pigmentosa	DOID:0110413	retinitis pigmentosa 6	1
+DOID:10584	retinitis pigmentosa	DOID:0110414	retinitis pigmentosa 3	1
+DOID:10584	retinitis pigmentosa	DOID:0110415	retinitis pigmentosa 2	1
+DOID:10584	retinitis pigmentosa	DOID:0110416	retinitis pigmentosa 24	1
+DOID:10584	retinitis pigmentosa	DOID:0110417	retinitis pigmentosa 34	1
+DOID:10584	retinitis pigmentosa	DOID:0110418	retinitis pigmentosa Y-linked	1
+DOID:10584	retinitis pigmentosa	DOID:0110419	retinitis pigmentosa with or without situs inversus	1
+DOID:10584	retinitis pigmentosa	DOID:0110420	dominant pericentral pigmentary retinopathy	1
+DOID:10584	retinitis pigmentosa	DOID:0110421	late-adult onset retinitis pigmentosa	1
+DOID:10584	retinitis pigmentosa	DOID:0110422	autosomal recessive pericentral pigmentary retinopathy	1
+DOID:10584	retinitis pigmentosa	DOID:10584	retinitis pigmentosa	0
+DOID:10591	pre-eclampsia	DOID:10590	mild pre-eclampsia	1
+DOID:10591	pre-eclampsia	DOID:10591	pre-eclampsia	0
+DOID:10591	pre-eclampsia	DOID:13129	severe pre-eclampsia	1
+DOID:10591	pre-eclampsia	DOID:13133	HELLP syndrome	2
+DOID:10591	pre-eclampsia	DOID:13593	eclampsia	1
 DOID:10608	celiac disease	DOID:10608	celiac disease	0
+DOID:1062	Fanconi syndrome	DOID:1062	Fanconi syndrome	0
+DOID:10629	microphthalmia	DOID:0060835	isolated microphthalmia 6	1
+DOID:10629	microphthalmia	DOID:0060836	isolated microphthalmia 4	1
+DOID:10629	microphthalmia	DOID:0060837	isolated microphthalmia 5	1
+DOID:10629	microphthalmia	DOID:0060838	isolated microphthalmia 7	1
+DOID:10629	microphthalmia	DOID:0060839	isolated microphthalmia 2	1
+DOID:10629	microphthalmia	DOID:0060840	isolated microphthalmia 1	1
+DOID:10629	microphthalmia	DOID:0060841	isolated microphthalmia 8	1
+DOID:10629	microphthalmia	DOID:0060842	isolated microphthalmia 3	1
+DOID:10629	microphthalmia	DOID:10629	microphthalmia	0
+DOID:1064	cystinosis	DOID:1064	cystinosis	0
+DOID:10652	Alzheimer's disease	DOID:0110035	Alzheimer's disease 2	1
+DOID:10652	Alzheimer's disease	DOID:0110036	Alzheimer's disease 16	1
+DOID:10652	Alzheimer's disease	DOID:0110037	Alzheimer's disease 5	1
+DOID:10652	Alzheimer's disease	DOID:0110038	Alzheimer's disease 6	1
+DOID:10652	Alzheimer's disease	DOID:0110039	Alzheimer's disease 7	1
+DOID:10652	Alzheimer's disease	DOID:0110040	Alzheimer's disease 4	1
+DOID:10652	Alzheimer's disease	DOID:0110041	Alzheimer's disease 8	1
+DOID:10652	Alzheimer's disease	DOID:0110042	Alzheimer's disease 3	1
+DOID:10652	Alzheimer's disease	DOID:0110043	Alzheimer's disease 10	1
+DOID:10652	Alzheimer's disease	DOID:0110044	Alzheimer's disease 11	1
+DOID:10652	Alzheimer's disease	DOID:0110045	Alzheimer's disease 12	1
+DOID:10652	Alzheimer's disease	DOID:0110046	Alzheimer's disease 13	1
+DOID:10652	Alzheimer's disease	DOID:0110047	Alzheimer's disease 14	1
+DOID:10652	Alzheimer's disease	DOID:0110048	Alzheimer's disease 15	1
+DOID:10652	Alzheimer's disease	DOID:0110049	Alzheimer's disease 17	1
+DOID:10652	Alzheimer's disease	DOID:0110050	Alzheimer's disease 18	1
+DOID:10652	Alzheimer's disease	DOID:0110051	Alzheimer's disease 19	1
 DOID:10652	Alzheimer's disease	DOID:10652	Alzheimer's disease	0
 DOID:10763	hypertension	DOID:10177	malignant hypertensive renal disease	3
 DOID:10763	hypertension	DOID:10590	mild pre-eclampsia	2
@@ -114,7 +897,6 @@ DOID:10763	hypertension	DOID:10824	malignant hypertension	1
 DOID:10763	hypertension	DOID:10825	essential hypertension	1
 DOID:10763	hypertension	DOID:10913	benign essential hypertension	2
 DOID:10763	hypertension	DOID:11130	secondary hypertension	1
-DOID:10763	hypertension	DOID:11516	hypertensive heart disease	1
 DOID:10763	hypertension	DOID:11520	benign hypertensive renal disease	3
 DOID:10763	hypertension	DOID:11664	nephrosclerosis	3
 DOID:10763	hypertension	DOID:13042	persistent fetal circulation syndrome	2
@@ -135,12 +917,36 @@ DOID:10811	nasal cavity cancer	DOID:4930	nasal cavity adenocarcinoma	2
 DOID:10811	nasal cavity cancer	DOID:4931	nasal cavity carcinoma	1
 DOID:10811	nasal cavity cancer	DOID:5515	nasal cavity squamous cell carcinoma	2
 DOID:10811	nasal cavity cancer	DOID:8415	carcinoma arising in nasal papillomatosis	2
+DOID:10825	essential hypertension	DOID:10823	malignant essential hypertension	1
+DOID:10825	essential hypertension	DOID:10825	essential hypertension	0
+DOID:10825	essential hypertension	DOID:10913	benign essential hypertension	1
 DOID:10871	age related macular degeneration	DOID:0050817	Stargardt disease	1
+DOID:10871	age related macular degeneration	DOID:0110014	age related macular degeneration 1	1
+DOID:10871	age related macular degeneration	DOID:0110015	age related macular degeneration 2	1
+DOID:10871	age related macular degeneration	DOID:0110017	age related macular degeneration 4	1
+DOID:10871	age related macular degeneration	DOID:0110018	age related macular degeneration 6	1
+DOID:10871	age related macular degeneration	DOID:0110019	age related macular degeneration 7	1
+DOID:10871	age related macular degeneration	DOID:0110020	age related macular degeneration 8	1
+DOID:10871	age related macular degeneration	DOID:0110021	age related macular degeneration 9	1
+DOID:10871	age related macular degeneration	DOID:0110022	age related macular degeneration 10	1
+DOID:10871	age related macular degeneration	DOID:0110023	age related macular degeneration 11	1
+DOID:10871	age related macular degeneration	DOID:0110024	age related macular degeneration 12	1
+DOID:10871	age related macular degeneration	DOID:0110025	age related macular degeneration 13	1
+DOID:10871	age related macular degeneration	DOID:0110026	age related macular degeneration 14	1
+DOID:10871	age related macular degeneration	DOID:0110027	age related macular degeneration 15	1
+DOID:10871	age related macular degeneration	DOID:0110028	age related macular degeneration 5	1
 DOID:10871	age related macular degeneration	DOID:10871	age related macular degeneration	0
+DOID:10892	hypospadias	DOID:10892	hypospadias	0
+DOID:10908	hydrocephalus	DOID:10908	hydrocephalus	0
+DOID:10908	hydrocephalus	DOID:14159	obstructive hydrocephalus	1
+DOID:10908	hydrocephalus	DOID:1572	normal pressure hydrocephalus	2
+DOID:10908	hydrocephalus	DOID:1573	communicating hydrocephalus	1
 DOID:1094	attention deficit hyperactivity disorder	DOID:1094	attention deficit hyperactivity disorder	0
 DOID:10941	intracranial aneurysm	DOID:0060228	intracranial berry aneurysm	1
 DOID:10941	intracranial aneurysm	DOID:10941	intracranial aneurysm	0
+DOID:10970	spastic quadriplegia	DOID:10970	spastic quadriplegia	0
 DOID:10976	membranous glomerulonephritis	DOID:10976	membranous glomerulonephritis	0
+DOID:10992	acute hemorrhagic leukoencephalitis	DOID:10992	acute hemorrhagic leukoencephalitis	0
 DOID:11054	urinary bladder cancer	DOID:11054	urinary bladder cancer	0
 DOID:11054	urinary bladder cancer	DOID:11593	bladder lateral wall cancer	1
 DOID:11054	urinary bladder cancer	DOID:11809	bladder neck cancer	1
@@ -156,7 +962,7 @@ DOID:11054	urinary bladder cancer	DOID:3710	bladder colloid adenocarcinoma	3
 DOID:11054	urinary bladder cancer	DOID:3711	bladder adenocarcinoma	2
 DOID:11054	urinary bladder cancer	DOID:3741	bladder verrucous squamous cell carcinoma	3
 DOID:11054	urinary bladder cancer	DOID:3742	bladder squamous cell carcinoma	2
-DOID:11054	urinary bladder cancer	DOID:4006	bladder transitional cell carcinoma	2
+DOID:11054	urinary bladder cancer	DOID:4006	bladder urothelial carcinoma	2
 DOID:11054	urinary bladder cancer	DOID:4007	bladder carcinoma	1
 DOID:11054	urinary bladder cancer	DOID:5306	bladder clear cell adenocarcinoma	3
 DOID:11054	urinary bladder cancer	DOID:5427	urinary bladder villous adenoma	1
@@ -189,7 +995,6 @@ DOID:11054	urinary bladder cancer	DOID:8097	bladder hepatoid adenocarcinoma	3
 DOID:11119	Gilles de la Tourette syndrome	DOID:11119	Gilles de la Tourette syndrome	0
 DOID:1115	sarcoma	DOID:0001816	angiosarcoma	1
 DOID:1115	sarcoma	DOID:1115	sarcoma	0
-DOID:1115	sarcoma	DOID:265	spleen angiosarcoma	2
 DOID:1115	sarcoma	DOID:268	liver angiosarcoma	2
 DOID:1115	sarcoma	DOID:355	mast-cell sarcoma	1
 DOID:1115	sarcoma	DOID:4233	clear cell sarcoma	1
@@ -202,6 +1007,9 @@ DOID:1115	sarcoma	DOID:4524	prostate angiosarcoma	2
 DOID:1115	sarcoma	DOID:4525	mediastinum angiosarcoma	2
 DOID:1115	sarcoma	DOID:4527	ovarian angiosarcoma	2
 DOID:1115	sarcoma	DOID:7615	sarcomatosis	1
+DOID:11193	syndactyly	DOID:0060242	synpolydactyly	1
+DOID:11193	syndactyly	DOID:11193	syndactyly	0
+DOID:11199	hypoparathyroidism	DOID:11199	hypoparathyroidism	0
 DOID:11239	appendix cancer	DOID:0050911	appendix carcinoid tumor	1
 DOID:11239	appendix cancer	DOID:11239	appendix cancer	0
 DOID:11239	appendix cancer	DOID:11241	appendix lymphoma	1
@@ -210,9 +1018,11 @@ DOID:11239	appendix cancer	DOID:3607	appendix mucinous cystadenocarcinoma	3
 DOID:11239	appendix cancer	DOID:3608	appendix adenocarcinoma	2
 DOID:11239	appendix cancer	DOID:4902	appendix carcinoma	1
 DOID:11239	appendix cancer	DOID:8151	appendiceal L-cell glucagon-like peptide producing tumor	1
+DOID:11476	osteoporosis	DOID:0060343	glucocorticoid-induced osteoporosis	1
 DOID:11476	osteoporosis	DOID:11476	osteoporosis	0
 DOID:11476	osteoporosis	DOID:12559	idiopathic juvenile osteoporosis	1
 DOID:11555	Fuchs' endothelial dystrophy	DOID:11555	Fuchs' endothelial dystrophy	0
+DOID:1156	chondrocalcinosis	DOID:1156	chondrocalcinosis	0
 DOID:11612	polycystic ovary syndrome	DOID:11612	polycystic ovary syndrome	0
 DOID:11615	penile cancer	DOID:11615	penile cancer	0
 DOID:11615	penile cancer	DOID:11838	penis sarcoma	1
@@ -228,6 +1038,44 @@ DOID:11615	penile cancer	DOID:7958	sarcomatoid penile squamous cell carcinoma	3
 DOID:11615	penile cancer	DOID:8009	penis mixed squamous cell carcinoma	3
 DOID:11615	penile cancer	DOID:8013	penis papillary carcinoma	3
 DOID:11714	gestational diabetes	DOID:11714	gestational diabetes	0
+DOID:11720	distal muscular dystrophy	DOID:0111078	tibial muscular dystrophy	1
+DOID:11720	distal muscular dystrophy	DOID:11720	distal muscular dystrophy	0
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110273	autosomal dominant limb-girdle muscular dystrophy	1
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110274	autosomal recessive limb-girdle muscular dystrophy	1
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110275	autosomal recessive limb-girdle muscular dystrophy type 2A	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110276	autosomal recessive limb-girdle muscular dystrophy type 2B	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110277	autosomal recessive limb-girdle muscular dystrophy type 2C	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110278	autosomal recessive limb-girdle muscular dystrophy type 2D	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110279	autosomal recessive limb-girdle muscular dystrophy type 2E	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110280	autosomal recessive limb-girdle muscular dystrophy type 2F	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110281	autosomal recessive limb-girdle muscular dystrophy type 2G	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110282	autosomal recessive limb-girdle muscular dystrophy type 2H	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110283	autosomal recessive limb-girdle muscular dystrophy type 2J	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110284	autosomal recessive limb-girdle muscular dystrophy type 2L	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110285	autosomal recessive limb-girdle muscular dystrophy type 2Q	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110286	autosomal recessive limb-girdle muscular dystrophy type 2R	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110287	autosomal recessive limb-girdle muscular dystrophy type 2S	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110288	autosomal recessive limb-girdle muscular dystrophy type 2W	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110289	autosomal recessive limb-girdle muscular dystrophy type 2Y	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110290	autosomal recessive limb-girdle muscular dystrophy type 2X	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110292	autosomal recessive limb-girdle muscular dystrophy type 2O	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110293	autosomal recessive limb-girdle muscular dystrophy type 2P	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110294	autosomal recessive limb-girdle muscular dystrophy type 2T	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110295	autosomal recessive limb-girdle muscular dystrophy type 2U	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110296	autosomal recessive limb-girdle muscular dystrophy type 2M	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110297	autosomal recessive limb-girdle muscular dystrophy type 2K	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110298	autosomal recessive limb-girdle muscular dystrophy type 2N	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110299	autosomal recessive limb-girdle muscular dystrophy type 2I	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110300	autosomal dominant limb-girdle muscular dystrophy type 1A	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110301	autosomal dominant limb-girdle muscular dystrophy type 1B	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110302	autosomal dominant limb-girdle muscular dystrophy type 1C	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110303	autosomal dominant limb-girdle muscular dystrophy type 1H	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110304	autosomal dominant limb-girdle muscular dystrophy type 1F	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110305	autosomal dominant limb-girdle muscular dystrophy type 1E	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:0110306	autosomal dominant limb-girdle muscular dystrophy type 1G	2
+DOID:11724	limb-girdle muscular dystrophy	DOID:11724	limb-girdle muscular dystrophy	0
+DOID:11725	Cornelia de Lange syndrome	DOID:11725	Cornelia de Lange syndrome	0
+DOID:11726	Emery-Dreifuss muscular dystrophy	DOID:11726	Emery-Dreifuss muscular dystrophy	0
 DOID:11819	ureter cancer	DOID:11818	ureteric orifice cancer	1
 DOID:11819	ureter cancer	DOID:11819	ureter cancer	0
 DOID:11819	ureter cancer	DOID:14489	ureteral lymphoma	1
@@ -238,12 +1086,12 @@ DOID:11819	ureter cancer	DOID:5539	ureter squamous cell carcinoma	2
 DOID:11819	ureter cancer	DOID:6845	infiltrating ureter transitional cell carcinoma	3
 DOID:11819	ureter cancer	DOID:6886	ureter small cell carcinoma	2
 DOID:11819	ureter cancer	DOID:6888	ureter transitional cell carcinoma	2
+DOID:11824	multicentric reticulohistiocytosis	DOID:11824	multicentric reticulohistiocytosis	0
 DOID:119	vaginal cancer	DOID:0050918	vaginal carcinoma	1
 DOID:119	vaginal cancer	DOID:119	vaginal cancer	0
-DOID:119	vaginal cancer	DOID:133	vaginal mullerian papilloma	2
+DOID:119	vaginal cancer	DOID:133	vaginal Mullerian papilloma	2
 DOID:119	vaginal cancer	DOID:134	vaginal glandular tumor	1
 DOID:119	vaginal cancer	DOID:136	vaginal carcinosarcoma	2
-DOID:119	vaginal cancer	DOID:137	vagina squamous papilloma	2
 DOID:119	vaginal cancer	DOID:138	vaginal squamous tumor	1
 DOID:119	vaginal cancer	DOID:1901	vagina sarcoma	1
 DOID:119	vaginal cancer	DOID:1910	vaginal yolk sac tumor	1
@@ -266,7 +1114,6 @@ DOID:1192	peripheral nervous system neoplasm	DOID:3512	neurofibrosarcoma	3
 DOID:1192	peripheral nervous system neoplasm	DOID:371	extracranial neuroblastoma	3
 DOID:1192	peripheral nervous system neoplasm	DOID:4160	differentiating neuroblastoma	3
 DOID:1192	peripheral nervous system neoplasm	DOID:4163	ganglioneuroblastoma	3
-DOID:1192	peripheral nervous system neoplasm	DOID:4690	childhood mediastinal neurogenic tumor	1
 DOID:1192	peripheral nervous system neoplasm	DOID:4693	nerve plexus neoplasm	1
 DOID:1192	peripheral nervous system neoplasm	DOID:4696	intraneural perineurioma	3
 DOID:1192	peripheral nervous system neoplasm	DOID:4697	perineurioma	2
@@ -303,13 +1150,40 @@ DOID:11920	tracheal cancer	DOID:12002	trachea sarcoma	1
 DOID:11920	tracheal cancer	DOID:12003	trachea squamous cell carcinoma	2
 DOID:11920	tracheal cancer	DOID:4875	trachea adenoid cystic carcinoma	2
 DOID:11920	tracheal cancer	DOID:4876	trachea carcinoma	1
+DOID:11934	head and neck cancer	DOID:0050865	tongue squamous cell carcinoma	3
 DOID:11934	head and neck cancer	DOID:11934	head and neck cancer	0
 DOID:11934	head and neck cancer	DOID:1542	head and neck carcinoma	1
 DOID:11934	head and neck cancer	DOID:5520	head and neck squamous cell carcinoma	2
 DOID:11949	Creutzfeldt-Jakob disease	DOID:11949	Creutzfeldt-Jakob disease	0
+DOID:1206	Rett syndrome	DOID:1206	Rett syndrome	0
+DOID:12118	pulmonary hemosiderosis	DOID:12118	pulmonary hemosiderosis	0
+DOID:12120	pulmonary alveolar proteinosis	DOID:12120	pulmonary alveolar proteinosis	0
+DOID:12177	common variable immunodeficiency	DOID:12177	common variable immunodeficiency	0
 DOID:12185	otosclerosis	DOID:12185	otosclerosis	0
 DOID:12236	primary biliary cirrhosis	DOID:12236	primary biliary cirrhosis	0
+DOID:12241	beta thalassemia	DOID:12241	beta thalassemia	0
+DOID:12270	coloboma	DOID:12270	coloboma	0
 DOID:12306	vitiligo	DOID:12306	vitiligo	0
+DOID:12347	osteogenesis imperfecta	DOID:0060438	Cole-Carpenter syndrome	1
+DOID:12347	osteogenesis imperfecta	DOID:0110334	osteogenesis imperfecta type 1	1
+DOID:12347	osteogenesis imperfecta	DOID:0110335	osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures	1
+DOID:12347	osteogenesis imperfecta	DOID:0110336	osteogenesis imperfecta type 8	1
+DOID:12347	osteogenesis imperfecta	DOID:0110337	osteogenesis imperfecta type 7	1
+DOID:12347	osteogenesis imperfecta	DOID:0110338	osteogenesis imperfecta type 17	1
+DOID:12347	osteogenesis imperfecta	DOID:0110339	osteogenesis imperfecta type 3	1
+DOID:12347	osteogenesis imperfecta	DOID:0110340	osteogenesis imperfecta type 4	1
+DOID:12347	osteogenesis imperfecta	DOID:0110341	osteogenesis imperfecta type 2	1
+DOID:12347	osteogenesis imperfecta	DOID:0110342	osteogenesis imperfecta type 13	1
+DOID:12347	osteogenesis imperfecta	DOID:0110343	osteogenesis imperfecta type 14	1
+DOID:12347	osteogenesis imperfecta	DOID:0110344	osteogenesis imperfecta type 5	1
+DOID:12347	osteogenesis imperfecta	DOID:0110345	osteogenesis imperfecta type 16	1
+DOID:12347	osteogenesis imperfecta	DOID:0110346	osteogenesis imperfecta type 10	1
+DOID:12347	osteogenesis imperfecta	DOID:0110347	osteogenesis imperfecta type 15	1
+DOID:12347	osteogenesis imperfecta	DOID:0110348	osteogenesis imperfecta type 12	1
+DOID:12347	osteogenesis imperfecta	DOID:0110349	osteogenesis imperfecta type 9	1
+DOID:12347	osteogenesis imperfecta	DOID:0110350	osteogenesis imperfecta type 6	1
+DOID:12347	osteogenesis imperfecta	DOID:0110351	osteogenesis imperfecta type 11	1
+DOID:12347	osteogenesis imperfecta	DOID:12347	osteogenesis imperfecta	0
 DOID:12361	Graves' disease	DOID:12361	Graves' disease	0
 DOID:12365	malaria	DOID:12365	malaria	0
 DOID:12365	malaria	DOID:12919	Plasmodium ovale malaria	1
@@ -319,13 +1193,13 @@ DOID:12365	malaria	DOID:14068	blackwater fever	1
 DOID:12365	malaria	DOID:14069	cerebral malaria	1
 DOID:12365	malaria	DOID:14324	Plasmodium malariae malaria	1
 DOID:12365	malaria	DOID:14325	mixed malaria	1
+DOID:12387	nephrogenic diabetes insipidus	DOID:12387	nephrogenic diabetes insipidus	0
 DOID:1245	vulva cancer	DOID:11905	labium majus cancer	1
 DOID:1245	vulva cancer	DOID:1243	labia minora cancer	1
 DOID:1245	vulva cancer	DOID:1245	vulva cancer	0
 DOID:1245	vulva cancer	DOID:1293	labia minora carcinoma	2
 DOID:1245	vulva cancer	DOID:1294	vulva carcinoma	1
 DOID:1245	vulva cancer	DOID:13389	labia majora carcinoma	2
-DOID:1245	vulva cancer	DOID:2068	Bartholin's gland neoplasm	2
 DOID:1245	vulva cancer	DOID:2071	vulvar squamous papilloma	2
 DOID:1245	vulva cancer	DOID:2072	vulvar squamous tumor	1
 DOID:1245	vulva cancer	DOID:2075	minor vestibular glands adenoma	2
@@ -343,14 +1217,12 @@ DOID:1245	vulva cancer	DOID:4301	vulva basal cell carcinoma	2
 DOID:1245	vulva cancer	DOID:4879	Bartholin's gland adenoid cystic carcinoma	3
 DOID:1245	vulva cancer	DOID:5286	vulvar leiomyosarcoma	2
 DOID:1245	vulva cancer	DOID:5313	vulvar alveolar soft part sarcoma	2
-DOID:1245	vulva cancer	DOID:5382	Bartholin's gland adenoma	3
 DOID:1245	vulva cancer	DOID:5630	Bartholin's gland adenosquamous carcinoma	3
 DOID:1245	vulva cancer	DOID:5711	vulvar liposarcoma	2
 DOID:1245	vulva cancer	DOID:5761	vulvar sebaceous carcinoma	2
 DOID:1245	vulva cancer	DOID:6316	Bartholin's gland adenocarcinoma	3
 DOID:1245	vulva cancer	DOID:6339	vulvar eccrine adenocarcinoma	3
 DOID:1245	vulva cancer	DOID:6448	vulvar apocrine adenocarcinoma	3
-DOID:1245	vulva cancer	DOID:6518	Bartholin's gland adenomyoma	3
 DOID:1245	vulva cancer	DOID:6569	micropapillomatosis labialis	3
 DOID:1245	vulva cancer	DOID:6789	vulvar childhood botryoid-type embryonal rhabdomyosarcoma	2
 DOID:1245	vulva cancer	DOID:6943	vulvar inverted follicular keratosis	3
@@ -364,10 +1236,88 @@ DOID:1245	vulva cancer	DOID:7409	vulvar non-keratinizing squamous cell carcinoma
 DOID:1245	vulva cancer	DOID:7491	vulvar proximal-type epithelioid sarcoma	2
 DOID:1245	vulva cancer	DOID:7565	vulvar eccrine porocarcinoma	2
 DOID:1245	vulva cancer	DOID:7567	vulvar clear cell hidradenocarcinoma	2
+DOID:12554	hemolytic-uremic syndrome	DOID:12554	hemolytic-uremic syndrome	0
+DOID:12697	locked-in syndrome	DOID:12697	locked-in syndrome	0
+DOID:1270	hereditary hemorrhagic telangiectasia	DOID:1270	hereditary hemorrhagic telangiectasia	0
+DOID:12712	nephronophthisis	DOID:0111112	nephronophthisis 1	1
+DOID:12712	nephronophthisis	DOID:0111113	nephronophthisis 2	1
+DOID:12712	nephronophthisis	DOID:0111114	nephronophthisis 3	1
+DOID:12712	nephronophthisis	DOID:0111115	nephronophthisis 4	1
+DOID:12712	nephronophthisis	DOID:0111116	nephronophthisis 7	1
+DOID:12712	nephronophthisis	DOID:0111117	nephronophthisis-like nephropathy 1	1
+DOID:12712	nephronophthisis	DOID:0111118	nephronophthisis 11	1
+DOID:12712	nephronophthisis	DOID:0111119	nephronophthisis 12	1
+DOID:12712	nephronophthisis	DOID:0111120	nephronophthisis 9	1
+DOID:12712	nephronophthisis	DOID:0111121	nephronophthisis 13	1
+DOID:12712	nephronophthisis	DOID:0111122	nephronophthisis 14	1
+DOID:12712	nephronophthisis	DOID:0111123	nephronophthisis 15	1
+DOID:12712	nephronophthisis	DOID:0111124	nephronophthisis 16	1
+DOID:12712	nephronophthisis	DOID:0111125	nephronophthisis 18	1
+DOID:12712	nephronophthisis	DOID:0111126	nephronophthisis 19	1
+DOID:12712	nephronophthisis	DOID:0111127	nephronophthisis 20	1
+DOID:12712	nephronophthisis	DOID:12712	nephronophthisis	0
+DOID:12721	multiple epiphyseal dysplasia	DOID:12721	multiple epiphyseal dysplasia	0
 DOID:12849	autistic disorder	DOID:12849	autistic disorder	0
+DOID:12859	choreatic disease	DOID:12859	choreatic disease	0
+DOID:12859	choreatic disease	DOID:14483	chorea gravidarum	1
+DOID:12930	dilated cardiomyopathy	DOID:0060561	DMD-related dilated cardiomyopathy	1
+DOID:12930	dilated cardiomyopathy	DOID:0110423	dilated cardiomyopathy 1C	1
+DOID:12930	dilated cardiomyopathy	DOID:0110424	dilated cardiomyopathy 1CC	1
+DOID:12930	dilated cardiomyopathy	DOID:0110425	dilated cardiomyopathy 1A	1
+DOID:12930	dilated cardiomyopathy	DOID:0110426	dilated cardiomyopathy 1D	1
+DOID:12930	dilated cardiomyopathy	DOID:0110427	dilated cardiomyopathy 1V	1
+DOID:12930	dilated cardiomyopathy	DOID:0110428	dilated cardiomyopathy 1AA	1
+DOID:12930	dilated cardiomyopathy	DOID:0110429	dilated cardiomyopathy 1H	1
+DOID:12930	dilated cardiomyopathy	DOID:0110430	dilated cardiomyopathy 1G	1
+DOID:12930	dilated cardiomyopathy	DOID:0110431	dilated cardiomyopathy 1I	1
+DOID:12930	dilated cardiomyopathy	DOID:0110432	dilated cardiomyopathy 1NN	1
+DOID:12930	dilated cardiomyopathy	DOID:0110433	dilated cardiomyopathy 1E	1
+DOID:12930	dilated cardiomyopathy	DOID:0110434	dilated cardiomyopathy 1Z	1
+DOID:12930	dilated cardiomyopathy	DOID:0110435	dilated cardiomyopathy 1GG	1
+DOID:12930	dilated cardiomyopathy	DOID:0110436	dilated cardiomyopathy 1L	1
+DOID:12930	dilated cardiomyopathy	DOID:0110437	dilated cardiomyopathy 1K	1
+DOID:12930	dilated cardiomyopathy	DOID:0110438	dilated cardiomyopathy 1JJ	1
+DOID:12930	dilated cardiomyopathy	DOID:0110439	dilated cardiomyopathy 1P	1
+DOID:12930	dilated cardiomyopathy	DOID:0110440	dilated cardiomyopathy 1J	1
+DOID:12930	dilated cardiomyopathy	DOID:0110441	dilated cardiomyopathy 2B	1
+DOID:12930	dilated cardiomyopathy	DOID:0110442	dilated cardiomyopathy 1Q	1
+DOID:12930	dilated cardiomyopathy	DOID:0110443	dilated cardiomyopathy 1B	1
+DOID:12930	dilated cardiomyopathy	DOID:0110444	dilated cardiomyopathy 1X	1
+DOID:12930	dilated cardiomyopathy	DOID:0110445	dilated cardiomyopathy 1KK	1
+DOID:12930	dilated cardiomyopathy	DOID:0110446	dilated cardiomyopathy 1W	1
+DOID:12930	dilated cardiomyopathy	DOID:0110447	dilated cardiomyopathy 1DD	1
+DOID:12930	dilated cardiomyopathy	DOID:0110448	dilated cardiomyopathy 1HH	1
+DOID:12930	dilated cardiomyopathy	DOID:0110449	dilated cardiomyopathy 1M	1
+DOID:12930	dilated cardiomyopathy	DOID:0110450	dilated cardiomyopathy 1II	1
+DOID:12930	dilated cardiomyopathy	DOID:0110451	dilated cardiomyopathy 1O	1
+DOID:12930	dilated cardiomyopathy	DOID:0110452	dilated cardiomyopathy 1T	1
+DOID:12930	dilated cardiomyopathy	DOID:0110453	dilated cardiomyopathy 1EE	1
+DOID:12930	dilated cardiomyopathy	DOID:0110454	dilated cardiomyopathy 1S	1
+DOID:12930	dilated cardiomyopathy	DOID:0110455	dilated cardiomyopathy 1U	1
+DOID:12930	dilated cardiomyopathy	DOID:0110456	dilated cardiomyopathy 1R	1
+DOID:12930	dilated cardiomyopathy	DOID:0110457	dilated cardiomyopathy 1Y	1
+DOID:12930	dilated cardiomyopathy	DOID:0110458	dilated cardiomyopathy 1BB	1
+DOID:12930	dilated cardiomyopathy	DOID:0110459	dilated cardiomyopathy 1FF	1
+DOID:12930	dilated cardiomyopathy	DOID:0110460	dilated cardiomyopathy 2A	1
+DOID:12930	dilated cardiomyopathy	DOID:0110461	dilated cardiomyopathy 3B	1
 DOID:12930	dilated cardiomyopathy	DOID:12930	dilated cardiomyopathy	0
 DOID:12930	dilated cardiomyopathy	DOID:9997	peripartum cardiomyopathy	1
+DOID:12971	hereditary spherocytosis	DOID:0110916	hereditary spherocytosis type 1	1
+DOID:12971	hereditary spherocytosis	DOID:0110917	hereditary spherocytosis type 2	1
+DOID:12971	hereditary spherocytosis	DOID:0110918	hereditary spherocytosis type 3	1
+DOID:12971	hereditary spherocytosis	DOID:0110919	hereditary spherocytosis type 4	1
+DOID:12971	hereditary spherocytosis	DOID:0110920	hereditary spherocytosis type 5	1
+DOID:12971	hereditary spherocytosis	DOID:12971	hereditary spherocytosis	0
 DOID:12995	conduct disorder	DOID:12995	conduct disorder	0
+DOID:13087	Lown-Ganong-Levine syndrome	DOID:13087	Lown-Ganong-Levine syndrome	0
+DOID:13099	Moyamoya disease	DOID:13099	Moyamoya disease	0
+DOID:1312	focal segmental glomerulosclerosis	DOID:0111128	focal segmental glomerulosclerosis 1	1
+DOID:1312	focal segmental glomerulosclerosis	DOID:0111129	focal segmental glomerulosclerosis 2	1
+DOID:1312	focal segmental glomerulosclerosis	DOID:0111130	focal segmental glomerulosclerosis 5	1
+DOID:1312	focal segmental glomerulosclerosis	DOID:0111131	focal segmental glomerulosclerosis 6	1
+DOID:1312	focal segmental glomerulosclerosis	DOID:0111132	focal segmental glomerulosclerosis 7	1
+DOID:1312	focal segmental glomerulosclerosis	DOID:0111133	focal segmental glomerulosclerosis 8	1
+DOID:1312	focal segmental glomerulosclerosis	DOID:0111134	focal segmental glomerulosclerosis 9	1
 DOID:1312	focal segmental glomerulosclerosis	DOID:1312	focal segmental glomerulosclerosis	0
 DOID:13189	gout	DOID:13189	gout	0
 DOID:1319	brain cancer	DOID:0050899	brain stem medulloblastoma	3
@@ -375,7 +1325,6 @@ DOID:1319	brain cancer	DOID:0050901	corpus callosum oligodendroglioma	3
 DOID:1319	brain cancer	DOID:0050902	medulloblastoma	2
 DOID:1319	brain cancer	DOID:0050903	parietal lobe ependymoma	4
 DOID:1319	brain cancer	DOID:0060104	cerebellar medulloblastoma	3
-DOID:1319	brain cancer	DOID:0060105	brain medulloblastoma	1
 DOID:1319	brain cancer	DOID:0060106	brain meningioma	1
 DOID:1319	brain cancer	DOID:0060108	brain glioma	1
 DOID:1319	brain cancer	DOID:12016	frontal lobe neoplasm	3
@@ -396,7 +1345,7 @@ DOID:1319	brain cancer	DOID:3541	cerebral ventricle cancer	3
 DOID:1319	brain cancer	DOID:3542	adult choroid plexus cancer	5
 DOID:1319	brain cancer	DOID:3544	atypical choroid plexus papilloma	5
 DOID:1319	brain cancer	DOID:3545	childhood choroid plexus cancer	5
-DOID:1319	brain cancer	DOID:3644	hypothalamic neoplasm	3
+DOID:1319	brain cancer	DOID:3644	hypothalamic neoplasm	2
 DOID:1319	brain cancer	DOID:368	cerebrum cancer	2
 DOID:1319	brain cancer	DOID:3772	intraventricular meningioma	4
 DOID:1319	brain cancer	DOID:3773	third ventricle chordoid glioma	4
@@ -414,7 +1363,6 @@ DOID:1319	brain cancer	DOID:4203	brain stem cancer	2
 DOID:1319	brain cancer	DOID:4205	cerebellum cancer	2
 DOID:1319	brain cancer	DOID:4206	childhood brain stem neoplasm	3
 DOID:1319	brain cancer	DOID:4207	childhood infratentorial neoplasm	3
-DOID:1319	brain cancer	DOID:4209	brainstem intraparenchymal clear cell meningioma	3
 DOID:1319	brain cancer	DOID:4706	infratentorial cancer	1
 DOID:1319	brain cancer	DOID:4707	cervicomedullary junction neoplasm	2
 DOID:1319	brain cancer	DOID:4787	cerebellopontine angle primitive neuroectodermal	4
@@ -443,7 +1391,6 @@ DOID:1319	brain cancer	DOID:6286	childhood cerebellar astrocytic neoplasm	4
 DOID:1319	brain cancer	DOID:6291	cerebral hemisphere lipoma	3
 DOID:1319	brain cancer	DOID:6294	corpus callosum lipoma	4
 DOID:1319	brain cancer	DOID:6337	cerebellopontine angle meningioma	4
-DOID:1319	brain cancer	DOID:6380	adult brain medulloblastoma	2
 DOID:1319	brain cancer	DOID:6383	childhood brain stem glioma	4
 DOID:1319	brain cancer	DOID:6386	childhood brainstem astrocytoma	5
 DOID:1319	brain cancer	DOID:6458	cerebellar liponeurocytoma	3
@@ -474,12 +1421,14 @@ DOID:1324	lung cancer	DOID:0050872	large cell neuroendocrine carcinoma	4
 DOID:1324	lung cancer	DOID:0050875	small cell neuroendocrine carcinoma	3
 DOID:1324	lung cancer	DOID:0050917	lung combined type small cell adenocarcinoma	4
 DOID:1324	lung cancer	DOID:0050932	lung mucoepidermoid carcinoma	2
+DOID:1324	lung cancer	DOID:0080184	mixed mucinous and nonmucinous bronchioloalveolar adenocarcinoma	5
+DOID:1324	lung cancer	DOID:0080185	mucinous bronchioloalveolar adenocarcinoma	5
+DOID:1324	lung cancer	DOID:0080186	nonmucinous bronchioloalveolar adenocarcinoma	5
 DOID:1324	lung cancer	DOID:1324	lung cancer	0
 DOID:1324	lung cancer	DOID:2784	lung sarcoma	1
 DOID:1324	lung cancer	DOID:3905	lung carcinoma	1
 DOID:1324	lung cancer	DOID:3907	lung squamous cell carcinoma	3
 DOID:1324	lung cancer	DOID:3908	non-small cell lung carcinoma	2
-DOID:1324	lung cancer	DOID:3909	bronchogenic lung adenocarcinoma	4
 DOID:1324	lung cancer	DOID:3910	lung adenocarcinoma	3
 DOID:1324	lung cancer	DOID:3924	main bronchus cancer	1
 DOID:1324	lung cancer	DOID:4556	lung large cell carcinoma	3
@@ -517,14 +1466,101 @@ DOID:1324	lung cancer	DOID:8207	hilar lung carcinoma	2
 DOID:1324	lung cancer	DOID:8208	lung superior sulcus carcinoma	2
 DOID:13241	Behcet's disease	DOID:13241	Behcet's disease	0
 DOID:13378	Kawasaki disease	DOID:13378	Kawasaki disease	0
+DOID:1338	congenital dyserythropoietic anemia	DOID:1338	congenital dyserythropoietic anemia	0
+DOID:1339	Diamond-Blackfan anemia	DOID:1339	Diamond-Blackfan anemia	0
+DOID:13481	thanatophoric dysplasia	DOID:13481	thanatophoric dysplasia	0
 DOID:13499	jejunal cancer	DOID:0050926	jejunal adenocarcinoma	1
 DOID:13499	jejunal cancer	DOID:13499	jejunal cancer	0
 DOID:13499	jejunal cancer	DOID:3216	jejunal somatostatinoma	1
+DOID:13533	osteopetrosis	DOID:0110937	autosomal dominant osteopetrosis 1	1
+DOID:13533	osteopetrosis	DOID:0110938	autosomal dominant osteopetrosis 2	1
+DOID:13533	osteopetrosis	DOID:0110939	autosomal recessive osteopetrosis 5	1
+DOID:13533	osteopetrosis	DOID:0110940	autosomal recessive osteopetrosis 8	1
+DOID:13533	osteopetrosis	DOID:0110941	autosomal recessive osteopetrosis 3	1
+DOID:13533	osteopetrosis	DOID:0110942	autosomal recessive osteopetrosis 1	1
+DOID:13533	osteopetrosis	DOID:0110943	autosomal recessive osteopetrosis 2	1
+DOID:13533	osteopetrosis	DOID:0110944	autosomal recessive osteopetrosis 4	1
+DOID:13533	osteopetrosis	DOID:0110945	autosomal recessive osteopetrosis 6	1
+DOID:13533	osteopetrosis	DOID:0110946	autosomal recessive osteopetrosis 7	1
+DOID:13533	osteopetrosis	DOID:13533	osteopetrosis	0
+DOID:13608	biliary atresia	DOID:13608	biliary atresia	0
+DOID:13636	Fanconi anemia	DOID:0111080	Fanconi anemia complementation group V	1
+DOID:13636	Fanconi anemia	DOID:0111081	Fanconi anemia complementation group T	1
+DOID:13636	Fanconi anemia	DOID:0111082	Fanconi anemia complementation group L	1
+DOID:13636	Fanconi anemia	DOID:0111083	Fanconi anemia complementation group D2	1
+DOID:13636	Fanconi anemia	DOID:0111084	Fanconi anemia complementation group E	1
+DOID:13636	Fanconi anemia	DOID:0111085	Fanconi anemia complementation group U	1
+DOID:13636	Fanconi anemia	DOID:0111086	Fanconi anemia complementation group G	1
+DOID:13636	Fanconi anemia	DOID:0111087	Fanconi anemia complementation group C	1
+DOID:13636	Fanconi anemia	DOID:0111088	Fanconi anemia complementation group F	1
+DOID:13636	Fanconi anemia	DOID:0111089	Fanconi anemia complementation group D1	1
+DOID:13636	Fanconi anemia	DOID:0111090	Fanconi anemia complementation group R	1
+DOID:13636	Fanconi anemia	DOID:0111091	Fanconi anemia complementation group I	1
+DOID:13636	Fanconi anemia	DOID:0111092	Fanconi anemia complementation group P	1
+DOID:13636	Fanconi anemia	DOID:0111093	Fanconi anemia complementation group Q	1
+DOID:13636	Fanconi anemia	DOID:0111094	Fanconi anemia complementation group N	1
+DOID:13636	Fanconi anemia	DOID:0111095	Fanconi anemia complementation group A	1
+DOID:13636	Fanconi anemia	DOID:0111096	Fanconi anemia complementation group O	1
+DOID:13636	Fanconi anemia	DOID:0111097	Fanconi anemia complementation group J	1
+DOID:13636	Fanconi anemia	DOID:0111098	Fanconi anemia complementation group B	1
+DOID:13636	Fanconi anemia	DOID:13636	Fanconi anemia	0
+DOID:13810	familial hypercholesterolemia	DOID:0090105	autosomal recessive hypercholesterolemia	1
+DOID:13810	familial hypercholesterolemia	DOID:13810	familial hypercholesterolemia	0
+DOID:1386	abetalipoproteinemia	DOID:1386	abetalipoproteinemia	0
+DOID:13884	sick sinus syndrome	DOID:13884	sick sinus syndrome	0
+DOID:13909	red-green color blindness	DOID:13909	red-green color blindness	0
+DOID:13911	achromatopsia	DOID:0050679	blue cone monochromacy	1
+DOID:13911	achromatopsia	DOID:0110007	achromatopsia 2	1
+DOID:13911	achromatopsia	DOID:0110008	achromatopsia 3	1
+DOID:13911	achromatopsia	DOID:0110009	achromatopsia 7	1
+DOID:13911	achromatopsia	DOID:0110010	achromatopsia 4	1
+DOID:13911	achromatopsia	DOID:13911	achromatopsia	0
+DOID:13922	eosinophilic esophagitis	DOID:13922	eosinophilic esophagitis	0
+DOID:13994	cleidocranial dysplasia	DOID:13994	cleidocranial dysplasia	0
 DOID:14004	thoracic aortic aneurysm	DOID:14004	thoracic aortic aneurysm	0
+DOID:14179	Bruton-type agammaglobulinemia	DOID:14179	Bruton-type agammaglobulinemia	0
 DOID:14221	metabolic syndrome X	DOID:14221	metabolic syndrome X	0
 DOID:14227	azoospermia	DOID:14227	azoospermia	0
+DOID:14264	benign neonatal seizures	DOID:14264	benign neonatal seizures	0
+DOID:14268	sclerosing cholangitis	DOID:0060643	primary sclerosing cholangitis	1
 DOID:14268	sclerosing cholangitis	DOID:14268	sclerosing cholangitis	0
+DOID:14330	Parkinson's disease	DOID:0060367	autosomal dominant Parkinson disease 1	2
+DOID:14330	Parkinson's disease	DOID:0060368	autosomal recessive juvenile Parkinson disease 2	2
+DOID:14330	Parkinson's disease	DOID:0060369	autosomal recessive early-onset Parkinson disease 6	2
+DOID:14330	Parkinson's disease	DOID:0060370	autosomal recessive early-onset Parkinson disease 7	2
+DOID:14330	Parkinson's disease	DOID:0060371	autosomal dominant Parkinson disease 8	2
+DOID:14330	Parkinson's disease	DOID:0060372	autosomal recessive early-onset Parkinson disease 15	2
+DOID:14330	Parkinson's disease	DOID:0060556	Kufor-Rakeb syndrome	2
+DOID:14330	Parkinson's disease	DOID:0060891	juvenile onset Parkinson disease 19A	2
+DOID:14330	Parkinson's disease	DOID:0060892	late onset Parkinson disease	1
+DOID:14330	Parkinson's disease	DOID:0060893	juvenile-onset Parkinson disease	1
+DOID:14330	Parkinson's disease	DOID:0060894	early-onset Parkinson disease	1
+DOID:14330	Parkinson's disease	DOID:0060895	autosomal dominant Parkinson disease 4	2
+DOID:14330	Parkinson's disease	DOID:0060896	autosomal recessive early-onset Parksinson disease 23	2
+DOID:14330	Parkinson's disease	DOID:0060897	Parkinson disease 17	2
+DOID:14330	Parkinson's disease	DOID:0060898	early-onset Parkinson disease 20	2
+DOID:14330	Parkinson's disease	DOID:0060900	autosomal recessive Parkinson disease 14	2
 DOID:14330	Parkinson's disease	DOID:14330	Parkinson's disease	0
+DOID:1442	Alpers syndrome	DOID:1442	Alpers syndrome	0
+DOID:14450	46 XX gonadal dysgenesis	DOID:14450	46 XX gonadal dysgenesis	0
+DOID:14464	neuroleptic malignant syndrome	DOID:14464	neuroleptic malignant syndrome	0
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0050756	Batten disease	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110720	neuronal ceroid lipofuscinosis 4B	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110721	neuronal ceroid lipofuscinosis 1	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110722	neuronal ceroid lipofuscinosis 7	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110723	neuronal ceroid lipofuscinosis 8	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110724	neuronal ceroid lipofuscinosis 8 northern epilepsy variant	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110725	neuronal ceroid lipofuscinosis 10	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110726	neuronal ceroid lipofuscinosis 2	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110727	neuronal ceroid lipofuscinosis 13	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110728	neuronal ceroid lipofuscinosis 5	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110729	neuronal ceroid lipofuscinosis 6	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110730	neuronal ceroid lipofuscinosis 4A	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110731	neuronal ceroid lipofuscinosis 3	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110732	neuronal ceroid lipofuscinosis 11	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:0110733	neuronal ceroid lipofuscinosis 9	1
+DOID:14503	neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	0
+DOID:14557	primary pulmonary hypertension	DOID:14557	primary pulmonary hypertension	0
 DOID:1459	hypothyroidism	DOID:0050328	congenital hypothyroidism	1
 DOID:1459	hypothyroidism	DOID:0050655	Bamforth-Lazarus syndrome	1
 DOID:1459	hypothyroidism	DOID:11633	thyroid hormone resistance syndrome	1
@@ -532,7 +1568,40 @@ DOID:1459	hypothyroidism	DOID:11634	myxedema	1
 DOID:1459	hypothyroidism	DOID:1458	postsurgical hypothyroidism	1
 DOID:1459	hypothyroidism	DOID:1459	hypothyroidism	0
 DOID:1459	hypothyroidism	DOID:5083	iodine hypothyroidism	1
-DOID:1595	endogenous depression	DOID:1470	major depressive disorder	1
+DOID:14670	hypertelorism, microtia, facial clefting syndrome	DOID:14670	hypertelorism, microtia, facial clefting syndrome	0
+DOID:14686	Axenfeld-Rieger syndrome	DOID:0110120	Axenfeld-Rieger syndrome type 1	1
+DOID:14686	Axenfeld-Rieger syndrome	DOID:0110121	Axenfeld-Rieger syndrome type 2	1
+DOID:14686	Axenfeld-Rieger syndrome	DOID:0110122	Axenfeld-Rieger syndrome type 3	1
+DOID:14686	Axenfeld-Rieger syndrome	DOID:14686	Axenfeld-Rieger syndrome	0
+DOID:14711	FG syndrome	DOID:14711	FG syndrome	0
+DOID:14717	centronuclear myopathy	DOID:14717	centronuclear myopathy	0
+DOID:14743	trichorhinophalangeal syndrome type I	DOID:14743	trichorhinophalangeal syndrome type I	0
+DOID:14744	Partington syndrome	DOID:14744	Partington syndrome	0
+DOID:14748	Sotos syndrome	DOID:14748	Sotos syndrome	0
+DOID:14780	KBG syndrome	DOID:14780	KBG syndrome	0
+DOID:14791	Leber congenital amaurosis	DOID:0110005	Leber congenital amaurosis 9	1
+DOID:14791	Leber congenital amaurosis	DOID:0110016	Leber congenital amaurosis 2	1
+DOID:14791	Leber congenital amaurosis	DOID:0110078	Leber congenital amaurosis 1	1
+DOID:14791	Leber congenital amaurosis	DOID:0110079	Leber congenital amaurosis 8	1
+DOID:14791	Leber congenital amaurosis	DOID:0110080	Leber congenital amaurosis 12	1
+DOID:14791	Leber congenital amaurosis	DOID:0110118	Leber congenital amaurosis 16	1
+DOID:14791	Leber congenital amaurosis	DOID:0110188	Leber congenital amaurosis 14	1
+DOID:14791	Leber congenital amaurosis	DOID:0110189	Leber congenital amaurosis 15	1
+DOID:14791	Leber congenital amaurosis	DOID:0110215	Leber congenital amaurosis 5	1
+DOID:14791	Leber congenital amaurosis	DOID:0110216	Leber congenital amaurosis 11	1
+DOID:14791	Leber congenital amaurosis	DOID:0110217	Leber congenital amaurosis 17	1
+DOID:14791	Leber congenital amaurosis	DOID:0110291	Leber congenital amaurosis 10	1
+DOID:14791	Leber congenital amaurosis	DOID:0110329	Leber congenital amaurosis 6	1
+DOID:14791	Leber congenital amaurosis	DOID:0110330	Leber congenital amaurosis 13	1
+DOID:14791	Leber congenital amaurosis	DOID:0110331	Leber congenital amaurosis 3	1
+DOID:14791	Leber congenital amaurosis	DOID:0110332	Leber congenital amaurosis 4	1
+DOID:14791	Leber congenital amaurosis	DOID:0110333	Leber congenital amaurosis 7	1
+DOID:14791	Leber congenital amaurosis	DOID:14791	Leber congenital amaurosis	0
+DOID:1588	thrombocytopenia	DOID:0090102	autosomal dominant macrothrombocytopenia TUBB1-related	1
+DOID:1588	thrombocytopenia	DOID:0090118	congenital amegakaryocytic thrombocytopenia	1
+DOID:1588	thrombocytopenia	DOID:11126	acquired thrombocytopenia	1
+DOID:1588	thrombocytopenia	DOID:1587	thrombocytopenia due to platelet alloimmunization	1
+DOID:1588	thrombocytopenia	DOID:1588	thrombocytopenia	0
 DOID:1595	endogenous depression	DOID:1595	endogenous depression	0
 DOID:1595	endogenous depression	DOID:9478	postpartum depression	1
 DOID:1612	breast cancer	DOID:0050671	female breast cancer	1
@@ -544,6 +1613,7 @@ DOID:1612	breast cancer	DOID:0060078	progesterone-receptor negative breast cance
 DOID:1612	breast cancer	DOID:0060079	Her2-receptor positive breast cancer	1
 DOID:1612	breast cancer	DOID:0060080	Her2-receptor negative breast cancer	1
 DOID:1612	breast cancer	DOID:0060081	triple-receptor negative breast cancer	1
+DOID:1612	breast cancer	DOID:0060548	luminal breast carcinoma	2
 DOID:1612	breast cancer	DOID:11889	female breast nipple and areola cancer	2
 DOID:1612	breast cancer	DOID:13799	female breast central part cancer	2
 DOID:1612	breast cancer	DOID:13972	female breast lower-outer quadrant cancer	2
@@ -573,7 +1643,7 @@ DOID:1612	breast cancer	DOID:4679	breast mucoepidermoid carcinoma	3
 DOID:1612	breast cancer	DOID:4680	breast metaplastic carcinoma	2
 DOID:1612	breast cancer	DOID:4877	breast adenoid cystic carcinoma	2
 DOID:1612	breast cancer	DOID:4922	breast secretory carcinoma	3
-DOID:1612	breast cancer	DOID:5050	ehrlich tumor carcinoma	2
+DOID:1612	breast cancer	DOID:5050	Ehrlich tumor carcinoma	2
 DOID:1612	breast cancer	DOID:5285	breast leiomyosarcoma	2
 DOID:1612	breast cancer	DOID:5310	glycogen-rich clear cell breast carcinoma	3
 DOID:1612	breast cancer	DOID:5370	breast hemangiopericytoma	2
@@ -614,6 +1684,8 @@ DOID:1612	breast cancer	DOID:8029	sporadic breast cancer	2
 DOID:1612	breast cancer	DOID:8068	intraductal breast myoepitheliosis	3
 DOID:1612	breast cancer	DOID:8130	breast columnar cell mucinous carcinoma	4
 DOID:1612	breast cancer	DOID:9773	female breast upper-outer quadrant cancer	2
+DOID:1657	ventricular septal defect	DOID:1657	ventricular septal defect	0
+DOID:1657	ventricular septal defect	DOID:6406	double outlet right ventricle	1
 DOID:1686	glaucoma	DOID:0050593	primary congenital glaucoma	1
 DOID:1686	glaucoma	DOID:10337	glaucomatous atrophy of optic disc	1
 DOID:1686	glaucoma	DOID:1066	residual stage of open angle glaucoma	2
@@ -639,10 +1711,13 @@ DOID:1686	glaucoma	DOID:14445	chronic closed-angle glaucoma	3
 DOID:1686	glaucoma	DOID:14548	steroid-induced glaucoma - borderline	2
 DOID:1686	glaucoma	DOID:1686	glaucoma	0
 DOID:1686	glaucoma	DOID:1687	neovascular glaucoma	1
-DOID:1686	glaucoma	DOID:9282	ocular hypertension	2
 DOID:1686	glaucoma	DOID:9283	borderline glaucoma	1
 DOID:1686	glaucoma	DOID:9946	steroid-induced glaucoma	1
 DOID:1686	glaucoma	DOID:9948	residual stage corticosteroid-induced glaucoma	2
+DOID:1712	aortic valve stenosis	DOID:1712	aortic valve stenosis	0
+DOID:1712	aortic valve stenosis	DOID:1929	supravalvular aortic stenosis	1
+DOID:1712	aortic valve stenosis	DOID:5804	discrete subaortic stenosis	2
+DOID:1712	aortic valve stenosis	DOID:5805	subvalvular aortic stenosis	1
 DOID:1725	peritoneum cancer	DOID:11748	round ligament malignant neoplasm	1
 DOID:1725	peritoneum cancer	DOID:1725	peritoneum cancer	0
 DOID:1725	peritoneum cancer	DOID:1788	peritoneal mesothelioma	1
@@ -679,7 +1754,7 @@ DOID:1781	thyroid cancer	DOID:5914	nonencapsulated sclerosing carcinoma	3
 DOID:1781	thyroid cancer	DOID:7086	multicentric papillary thyroid carcinoma	3
 DOID:1781	thyroid cancer	DOID:7088	columnar cell variant papillary carcinoma	3
 DOID:1781	thyroid cancer	DOID:7089	tall cell variant papillary carcinoma	3
-DOID:1781	thyroid cancer	DOID:8161	thyroid hurthle cell carcinoma	2
+DOID:1781	thyroid cancer	DOID:8161	thyroid Hurthle cell carcinoma	2
 DOID:1790	malignant mesothelioma	DOID:1788	peritoneal mesothelioma	1
 DOID:1790	malignant mesothelioma	DOID:1790	malignant mesothelioma	0
 DOID:1790	malignant mesothelioma	DOID:4486	malignant biphasic mesothelioma	1
@@ -694,10 +1769,9 @@ DOID:1793	pancreatic cancer	DOID:1799	islet cell tumor	1
 DOID:1793	pancreatic cancer	DOID:3497	pancreatic signet ring cell adenocarcinoma	4
 DOID:1793	pancreatic cancer	DOID:3498	pancreatic ductal adenocarcinoma	3
 DOID:1793	pancreatic cancer	DOID:3587	pancreatic ductal carcinoma	2
-DOID:1793	pancreatic cancer	DOID:3892	insulinoma	2
 DOID:1793	pancreatic cancer	DOID:3919	pancreatic serous cystic neoplasm	2
 DOID:1793	pancreatic cancer	DOID:4073	pancreatic cystadenocarcinoma	3
-DOID:1793	pancreatic cancer	DOID:4074	pancreas adenocarcinoma	2
+DOID:1793	pancreatic cancer	DOID:4074	pancreatic adenocarcinoma	2
 DOID:1793	pancreatic cancer	DOID:4432	pancreatic somatostatinoma	2
 DOID:1793	pancreatic cancer	DOID:4433	pancreatic delta cell neoplasm	2
 DOID:1793	pancreatic cancer	DOID:4905	pancreatic carcinoma	1
@@ -724,47 +1798,63 @@ DOID:1793	pancreatic cancer	DOID:7729	acinar cell cystadenocarcinoma	4
 DOID:1793	pancreatic cancer	DOID:7840	pancreatic non-functioning delta cell tumor	3
 DOID:1793	pancreatic cancer	DOID:7851	pancreatic intraductal papillary-mucinous adenoma	3
 DOID:1793	pancreatic cancer	DOID:8150	pancreatic invasive intraductal papillary-mucinous carcinoma	4
-DOID:1826	epilepsy syndrome	DOID:0050561	Lennox-Gastaut syndrome	3
-DOID:1826	epilepsy syndrome	DOID:0050562	West syndrome	3
-DOID:1826	epilepsy syndrome	DOID:0050701	electroclinical syndrome	1
-DOID:1826	epilepsy syndrome	DOID:0050702	neonatal period electroclinical syndrome	2
-DOID:1826	epilepsy syndrome	DOID:0050703	infancy electroclinical syndrome	2
-DOID:1826	epilepsy syndrome	DOID:0050704	childhood electroclinical syndrome	2
-DOID:1826	epilepsy syndrome	DOID:0050705	adolescence-adult electroclinical syndrome	2
-DOID:1826	epilepsy syndrome	DOID:0050706	variable age at onset electroclinical syndrome	2
-DOID:1826	epilepsy syndrome	DOID:0050708	early onset absence epilepsy	3
-DOID:1826	epilepsy syndrome	DOID:0050709	Ohtahara syndrome	3
-DOID:1826	epilepsy syndrome	DOID:0060169	benign familial infantile epilepsy	3
-DOID:1826	epilepsy syndrome	DOID:0060170	generalized epilepsy with febrile seizures plus	2
-DOID:1826	epilepsy syndrome	DOID:0060171	Dravet Syndrome	3
-DOID:1826	epilepsy syndrome	DOID:0060172	juvenile absence epilepsy	3
-DOID:1826	epilepsy syndrome	DOID:0060281	photosensitive epilepsy	1
-DOID:1826	epilepsy syndrome	DOID:11832	visual epilepsy	1
-DOID:1826	epilepsy syndrome	DOID:12382	complex partial epilepsy	2
-DOID:1826	epilepsy syndrome	DOID:14264	benign neonatal seizures	3
-DOID:1826	epilepsy syndrome	DOID:14777	benign familial neonatal epilepsy	3
-DOID:1826	epilepsy syndrome	DOID:1824	status epilepticus	1
-DOID:1826	epilepsy syndrome	DOID:1825	childhood absence epilepsy	3
-DOID:1826	epilepsy syndrome	DOID:1826	epilepsy syndrome	0
-DOID:1826	epilepsy syndrome	DOID:1827	idiopathic generalized epilepsy	1
-DOID:1826	epilepsy syndrome	DOID:2234	focal epilepsy	1
-DOID:1826	epilepsy syndrome	DOID:2481	infantile epileptic encephalopathy	2
-DOID:1826	epilepsy syndrome	DOID:2538	Landau-Kleffner syndrome	3
-DOID:1826	epilepsy syndrome	DOID:2544	extratemporal epilepsy	1
-DOID:1826	epilepsy syndrome	DOID:2548	reflex epilepsy	3
-DOID:1826	epilepsy syndrome	DOID:2550	tactile epilepsy	4
-DOID:1826	epilepsy syndrome	DOID:308	early myoclonic encephalopathy	3
-DOID:1826	epilepsy syndrome	DOID:3327	partial motor epilepsy	2
-DOID:1826	epilepsy syndrome	DOID:3328	temporal lobe epilepsy	2
-DOID:1826	epilepsy syndrome	DOID:3329	benign epilepsy with centrotemporal spikes	3
-DOID:1826	epilepsy syndrome	DOID:3330	partial sensory epilepsy	2
-DOID:1826	epilepsy syndrome	DOID:3331	frontal lobe epilepsy	2
-DOID:1826	epilepsy syndrome	DOID:3534	Lafora disease	4
-DOID:1826	epilepsy syndrome	DOID:3535	Unverricht-Lundborg syndrome	4
-DOID:1826	epilepsy syndrome	DOID:4890	juvenile myoclonic epilepsy	3
-DOID:1826	epilepsy syndrome	DOID:5129	simple partial epilepsy	2
-DOID:1826	epilepsy syndrome	DOID:7725	epilepsy with generalized tonic-clonic seizures	3
-DOID:1826	epilepsy syndrome	DOID:891	progressive myoclonus epilepsy	3
+DOID:1826	epilepsy	DOID:0050561	Lennox-Gastaut syndrome	3
+DOID:1826	epilepsy	DOID:0050562	West syndrome	3
+DOID:1826	epilepsy	DOID:0050701	electroclinical syndrome	1
+DOID:1826	epilepsy	DOID:0050702	neonatal period electroclinical syndrome	2
+DOID:1826	epilepsy	DOID:0050703	infancy electroclinical syndrome	2
+DOID:1826	epilepsy	DOID:0050704	childhood electroclinical syndrome	2
+DOID:1826	epilepsy	DOID:0050705	adolescence-adult electroclinical syndrome	2
+DOID:1826	epilepsy	DOID:0050706	variable age at onset electroclinical syndrome	2
+DOID:1826	epilepsy	DOID:0050708	early onset absence epilepsy	3
+DOID:1826	epilepsy	DOID:0050709	Ohtahara syndrome	3
+DOID:1826	epilepsy	DOID:0060169	benign familial infantile epilepsy	3
+DOID:1826	epilepsy	DOID:0060170	generalized epilepsy with febrile seizures plus	2
+DOID:1826	epilepsy	DOID:0060171	Dravet syndrome	3
+DOID:1826	epilepsy	DOID:0060172	juvenile absence epilepsy	3
+DOID:1826	epilepsy	DOID:0060281	photosensitive epilepsy	1
+DOID:1826	epilepsy	DOID:0060475	childhood onset epileptic encephalopathy	2
+DOID:1826	epilepsy	DOID:0060681	autosomal dominant nocturnal frontal lobe epilepsy	3
+DOID:1826	epilepsy	DOID:0060682	autosomal dominant nocturnal frontal lobe epilepsy 1	4
+DOID:1826	epilepsy	DOID:0060683	autosomal dominant nocturnal frontal lobe epilepsy 2	4
+DOID:1826	epilepsy	DOID:0060684	autosomal dominant nocturnal frontal lobe epilepsy 3	4
+DOID:1826	epilepsy	DOID:0060685	autosomal dominant nocturnal frontal lobe epilepsy 4	4
+DOID:1826	epilepsy	DOID:0060686	autosomal dominant nocturnal frontal lobe epilepsy 5	4
+DOID:1826	epilepsy	DOID:0060748	familial temporal lobe epilepsy 1	3
+DOID:1826	epilepsy	DOID:0060749	familial temporal lobe epilepsy 6	3
+DOID:1826	epilepsy	DOID:0060750	familial temporal lobe epilepsy 3	3
+DOID:1826	epilepsy	DOID:0060751	familial temporal lobe epilepsy 7	3
+DOID:1826	epilepsy	DOID:0060752	familial temporal lobe epilepsy 5	3
+DOID:1826	epilepsy	DOID:0060753	familial temporal lobe epilepsy 4	3
+DOID:1826	epilepsy	DOID:0060754	familial temporal lobe epilepsy 8	3
+DOID:1826	epilepsy	DOID:0060755	familial temporal lobe epilepsy 2	3
+DOID:1826	epilepsy	DOID:0060848	early infantile epileptic encephalopathy 9	3
+DOID:1826	epilepsy	DOID:11832	visual epilepsy	1
+DOID:1826	epilepsy	DOID:12382	complex partial epilepsy	2
+DOID:1826	epilepsy	DOID:14264	benign neonatal seizures	3
+DOID:1826	epilepsy	DOID:14777	benign familial neonatal epilepsy	3
+DOID:1826	epilepsy	DOID:1824	status epilepticus	1
+DOID:1826	epilepsy	DOID:1825	childhood absence epilepsy	3
+DOID:1826	epilepsy	DOID:1826	epilepsy	0
+DOID:1826	epilepsy	DOID:1827	idiopathic generalized epilepsy	1
+DOID:1826	epilepsy	DOID:2234	focal epilepsy	1
+DOID:1826	epilepsy	DOID:2481	infantile epileptic encephalopathy	2
+DOID:1826	epilepsy	DOID:2538	Landau-Kleffner syndrome	3
+DOID:1826	epilepsy	DOID:2544	extratemporal epilepsy	1
+DOID:1826	epilepsy	DOID:2548	reflex epilepsy	3
+DOID:1826	epilepsy	DOID:2550	tactile epilepsy	4
+DOID:1826	epilepsy	DOID:308	early myoclonic encephalopathy	3
+DOID:1826	epilepsy	DOID:3327	partial motor epilepsy	2
+DOID:1826	epilepsy	DOID:3328	temporal lobe epilepsy	2
+DOID:1826	epilepsy	DOID:3329	benign epilepsy with centrotemporal spikes	3
+DOID:1826	epilepsy	DOID:3330	partial sensory epilepsy	2
+DOID:1826	epilepsy	DOID:3331	frontal lobe epilepsy	2
+DOID:1826	epilepsy	DOID:3534	Lafora disease	4
+DOID:1826	epilepsy	DOID:3535	Unverricht-Lundborg syndrome	4
+DOID:1826	epilepsy	DOID:4890	juvenile myoclonic epilepsy	3
+DOID:1826	epilepsy	DOID:5129	simple partial epilepsy	2
+DOID:1826	epilepsy	DOID:7725	epilepsy with generalized tonic-clonic seizures	3
+DOID:1826	epilepsy	DOID:891	progressive myoclonus epilepsy	3
 DOID:184	bone cancer	DOID:0050608	Askin's tumor	2
 DOID:184	bone cancer	DOID:0050896	bone squamous cell carcinoma	2
 DOID:184	bone cancer	DOID:0050900	sacrum chordoma	4
@@ -791,7 +1881,7 @@ DOID:184	bone cancer	DOID:3360	multifocal osteogenic sarcoma	2
 DOID:184	bone cancer	DOID:3361	pediatric osteosarcoma	2
 DOID:184	bone cancer	DOID:3367	bone leiomyosarcoma	2
 DOID:184	bone cancer	DOID:3368	bone Ewing's sarcoma	2
-DOID:184	bone cancer	DOID:3369	peripheral primitive neuroectodermal tumor	1
+DOID:184	bone cancer	DOID:3369	Ewing sarcoma	1
 DOID:184	bone cancer	DOID:3372	chondroblastic osteosarcoma	2
 DOID:184	bone cancer	DOID:3373	juxtacortical osteosarcoma	4
 DOID:184	bone cancer	DOID:3374	peripheral osteosarcoma	3
@@ -820,7 +1910,7 @@ DOID:184	bone cancer	DOID:5047	neurohypophysis granular cell tumor	5
 DOID:184	bone cancer	DOID:5048	posterior pituitary gland neoplasm	4
 DOID:184	bone cancer	DOID:5090	sternum cancer	1
 DOID:184	bone cancer	DOID:5546	femoral cancer	1
-DOID:184	bone cancer	DOID:5809	childhood parosteal osteogenic sarcoma	3
+DOID:184	bone cancer	DOID:5809	childhood parosteal osteogenic sarcoma	5
 DOID:184	bone cancer	DOID:6208	mediastinal osteogenic sarcoma	3
 DOID:184	bone cancer	DOID:6312	clivus chordoma	4
 DOID:184	bone cancer	DOID:6313	clivus chondroid chordoma	5
@@ -842,9 +1932,8 @@ DOID:184	bone cancer	DOID:7297	childhood extraosseous osteosarcoma	3
 DOID:184	bone cancer	DOID:7542	osteosarcoma arising in bone Paget's disease	3
 DOID:184	bone cancer	DOID:7602	intracortical osteogenic sarcoma	4
 DOID:184	bone cancer	DOID:7603	fibrosarcomatous osteosarcoma	4
-DOID:184	bone cancer	DOID:7612	childhood intracortical osteosarcoma	3
+DOID:184	bone cancer	DOID:7612	childhood intracortical osteosarcoma	5
 DOID:184	bone cancer	DOID:7713	tuberculum sellae meningioma	4
-DOID:184	bone cancer	DOID:7787	breast osteosarcoma	3
 DOID:184	bone cancer	DOID:7818	petroclival meningioma	4
 DOID:184	bone cancer	DOID:7819	sphenoorbital meningioma	4
 DOID:184	bone cancer	DOID:7820	sphenocavernous meningioma	4
@@ -854,6 +1943,19 @@ DOID:184	bone cancer	DOID:8221	upper clivus meningioma	5
 DOID:184	bone cancer	DOID:8239	lower clivus meningioma	5
 DOID:184	bone cancer	DOID:9986	orbit lymphoma	2
 DOID:184	bone cancer	DOID:9987	orbit sarcoma	2
+DOID:1852	intrahepatic cholestasis	DOID:1852	intrahepatic cholestasis	0
+DOID:1882	atrial heart septal defect	DOID:0110106	atrial heart septal defect 1	1
+DOID:1882	atrial heart septal defect	DOID:0110107	atrial heart septal defect 2	1
+DOID:1882	atrial heart septal defect	DOID:0110108	atrial heart septal defect 3	1
+DOID:1882	atrial heart septal defect	DOID:0110109	atrial heart septal defect 4	1
+DOID:1882	atrial heart septal defect	DOID:0110110	atrial heart septal defect 5	1
+DOID:1882	atrial heart septal defect	DOID:0110111	atrial heart septal defect 6	1
+DOID:1882	atrial heart septal defect	DOID:0110112	atrial heart septal defect 7	1
+DOID:1882	atrial heart septal defect	DOID:0110113	atrial heart septal defect 8	1
+DOID:1882	atrial heart septal defect	DOID:0110114	atrial heart septal defect 9	1
+DOID:1882	atrial heart septal defect	DOID:13620	patent foramen ovale	1
+DOID:1882	atrial heart septal defect	DOID:1882	atrial heart septal defect	0
+DOID:1882	atrial heart septal defect	DOID:1998	Lutembacher's syndrome	1
 DOID:1909	melanoma	DOID:0050929	mucosal melanoma	1
 DOID:1909	melanoma	DOID:1909	melanoma	0
 DOID:1909	melanoma	DOID:3162	malignant spindle cell melanoma	1
@@ -861,6 +1963,33 @@ DOID:1909	melanoma	DOID:4359	amelanotic melanoma	1
 DOID:1909	melanoma	DOID:4360	epithelioid cell melanoma	1
 DOID:1909	melanoma	DOID:6846	familial melanoma	1
 DOID:1909	melanoma	DOID:7206	melanomatosis	1
+DOID:1926	Gaucher's disease	DOID:0110957	Gaucher's disease type I	1
+DOID:1926	Gaucher's disease	DOID:0110958	Gaucher's disease type II	1
+DOID:1926	Gaucher's disease	DOID:0110959	Gaucher's disease type III	1
+DOID:1926	Gaucher's disease	DOID:0110960	Gaucher's disease perinatal lethal	1
+DOID:1926	Gaucher's disease	DOID:0110961	atypical Gaucher's disease due to saposin c deficiency	1
+DOID:1926	Gaucher's disease	DOID:1926	Gaucher's disease	0
+DOID:1933	Rubinstein-Taybi syndrome	DOID:1933	Rubinstein-Taybi syndrome	0
+DOID:1935	Bardet-Biedl syndrome	DOID:0110123	Bardet-Biedl syndrome 1	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110124	Bardet-Biedl syndrome 2	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110125	Bardet-Biedl syndrome 3	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110126	Bardet-Biedl syndrome 4	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110127	Bardet-Biedl syndrome 5	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110128	Bardet-Biedl syndrome 6	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110129	Bardet-Biedl syndrome 7	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110130	Bardet-Biedl syndrome 8	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110131	Bardet-Biedl syndrome 9	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110132	Bardet-Biedl syndrome 10	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110133	Bardet-Biedl syndrome 11	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110134	Bardet-Biedl syndrome 12	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110135	Bardet-Biedl syndrome 13	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110136	Bardet-Biedl syndrome 14	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110137	Bardet-Biedl syndrome 15	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110138	Bardet-Biedl syndrome 16	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110139	Bardet-Biedl syndrome 17	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110140	Bardet-Biedl syndrome 18	1
+DOID:1935	Bardet-Biedl syndrome	DOID:0110141	Bardet-Biedl syndrome 19	1
+DOID:1935	Bardet-Biedl syndrome	DOID:1935	Bardet-Biedl syndrome	0
 DOID:1936	atherosclerosis	DOID:10230	aortic atherosclerosis	1
 DOID:1936	atherosclerosis	DOID:12720	cerebral atherosclerosis	1
 DOID:1936	atherosclerosis	DOID:1936	atherosclerosis	0
@@ -896,6 +2025,9 @@ DOID:1993	rectum cancer	DOID:6959	rectal cloacogenic carcinoma	2
 DOID:1993	rectum cancer	DOID:7356	rectum sarcomatoid carcinoma	1
 DOID:1993	rectum cancer	DOID:7707	rectum signet ring adenocarcinoma	2
 DOID:2043	hepatitis B	DOID:2043	hepatitis B	0
+DOID:2058	chronic mucocutaneous candidiasis	DOID:2058	chronic mucocutaneous candidiasis	0
+DOID:206	hereditary multiple exostoses	DOID:206	hereditary multiple exostoses	0
+DOID:2106	myotonia congenita	DOID:2106	myotonia congenita	0
 DOID:216	dental caries	DOID:10461	dentin caries	1
 DOID:216	dental caries	DOID:11736	odontoclasia	1
 DOID:216	dental caries	DOID:14089	root caries	1
@@ -904,8 +2036,8 @@ DOID:216	dental caries	DOID:217	enamel caries	1
 DOID:2174	ocular cancer	DOID:12756	lacrimal duct cancer	2
 DOID:2174	ocular cancer	DOID:12759	choroid cancer	2
 DOID:2174	ocular cancer	DOID:13538	cornea squamous cell carcinoma	2
-DOID:2174	ocular cancer	DOID:1748	conjunctiva squamous cell carcinoma	2
-DOID:2174	ocular cancer	DOID:1751	malignant conjunctiva melanoma	2
+DOID:2174	ocular cancer	DOID:1748	conjunctival squamous cell carcinoma	2
+DOID:2174	ocular cancer	DOID:1751	malignant conjunctival melanoma	2
 DOID:2174	ocular cancer	DOID:1752	ocular melanoma	1
 DOID:2174	ocular cancer	DOID:2174	ocular cancer	0
 DOID:2174	ocular cancer	DOID:292	lacrimal system cancer	1
@@ -931,7 +2063,7 @@ DOID:2174	ocular cancer	DOID:5467	conjunctival cancer	1
 DOID:2174	ocular cancer	DOID:5529	lacrimal gland squamous cell carcinoma	4
 DOID:2174	ocular cancer	DOID:6037	spindle cell intraocular melanoma	2
 DOID:2174	ocular cancer	DOID:6039	uveal melanoma	2
-DOID:2174	ocular cancer	DOID:6041	choroid spindle cell melanoma	3
+DOID:2174	ocular cancer	DOID:6041	choroid spindle cell melanoma	4
 DOID:2174	ocular cancer	DOID:6043	ciliary body spindle cell melanoma	3
 DOID:2174	ocular cancer	DOID:6199	cornea cancer	1
 DOID:2174	ocular cancer	DOID:6438	malignant choroid melanoma	3
@@ -941,7 +2073,7 @@ DOID:2174	ocular cancer	DOID:6524	malignant ciliary body melanoma	3
 DOID:2174	ocular cancer	DOID:6525	choroid mixed cell melanoma	4
 DOID:2174	ocular cancer	DOID:6566	posterior uveal melanoma	3
 DOID:2174	ocular cancer	DOID:6903	eye lymphoma	1
-DOID:2174	ocular cancer	DOID:6938	pediatric Intraocular retinoblastoma	5
+DOID:2174	ocular cancer	DOID:6938	pediatric intraocular retinoblastoma	5
 DOID:2174	ocular cancer	DOID:6992	intraocular mixed cell type melanoma	2
 DOID:2174	ocular cancer	DOID:6993	iris mixed cell melanoma	3
 DOID:2174	ocular cancer	DOID:6994	malignant iris melanoma	3
@@ -960,6 +2092,23 @@ DOID:2174	ocular cancer	DOID:7807	choroid necrotic melanoma	4
 DOID:2174	ocular cancer	DOID:7808	necrotic uveal melanoma	3
 DOID:2174	ocular cancer	DOID:8400	malignant cornea melanoma	2
 DOID:2174	ocular cancer	DOID:8427	retinal melanoma	2
+DOID:2187	amelogenesis imperfecta	DOID:0110052	amelogenesis imperfecta type 1B	1
+DOID:2187	amelogenesis imperfecta	DOID:0110053	amelogenesis imperfecta type 4	1
+DOID:2187	amelogenesis imperfecta	DOID:0110054	amelogenesis imperfecta type 1A	1
+DOID:2187	amelogenesis imperfecta	DOID:0110055	amelogenesis imperfecta type 3	1
+DOID:2187	amelogenesis imperfecta	DOID:0110056	amelogenesis imperfecta type 1C	1
+DOID:2187	amelogenesis imperfecta	DOID:0110057	amelogenesis imperfecta type 2A1	1
+DOID:2187	amelogenesis imperfecta	DOID:0110058	amelogenesis imperfecta type 1E	1
+DOID:2187	amelogenesis imperfecta	DOID:0110059	X-linked amelogenesis imperfecta hypoplastic/hypomaturation 2	1
+DOID:2187	amelogenesis imperfecta	DOID:0110060	amelogenesis imperfecta hypomaturation type 2A2	1
+DOID:2187	amelogenesis imperfecta	DOID:0110061	amelogenesis imperfecta hypomaturation type 2A3	1
+DOID:2187	amelogenesis imperfecta	DOID:0110062	amelogenesis imperfecta hypomaturation type 2A4	1
+DOID:2187	amelogenesis imperfecta	DOID:0110063	amelogenesis imperfecta hypomaturation type 2A5	1
+DOID:2187	amelogenesis imperfecta	DOID:0110064	amelogenesis imperfecta type 1H	1
+DOID:2187	amelogenesis imperfecta	DOID:0110065	amelogenesis imperfecta type 1F	1
+DOID:2187	amelogenesis imperfecta	DOID:0110066	amelogenesis imperfecta type 1G	1
+DOID:2187	amelogenesis imperfecta	DOID:2187	amelogenesis imperfecta	0
+DOID:219	colon cancer	DOID:0080183	medullary colon carcinoma	2
 DOID:219	colon cancer	DOID:12190	descending colon cancer	1
 DOID:219	colon cancer	DOID:12191	splenic flexure cancer	2
 DOID:219	colon cancer	DOID:12192	sigmoid colon cancer	1
@@ -982,6 +2131,20 @@ DOID:219	colon cancer	DOID:5629	adenosquamous colon carcinoma	2
 DOID:219	colon cancer	DOID:6727	colon small cell carcinoma	2
 DOID:219	colon cancer	DOID:6804	colon Kaposi sarcoma	2
 DOID:219	colon cancer	DOID:7401	colonic L-cell glucagon-like peptide producing tumor	1
+DOID:2224	essential thrombocythemia	DOID:2224	essential thrombocythemia	0
+DOID:230	lateral sclerosis	DOID:230	lateral sclerosis	0
+DOID:2340	craniosynostosis	DOID:0060703	Muenke Syndrome	1
+DOID:2340	craniosynostosis	DOID:2339	Crouzon syndrome	1
+DOID:2340	craniosynostosis	DOID:2340	craniosynostosis	0
+DOID:2352	hemochromatosis	DOID:0111027	hemochromatosis type 2A	2
+DOID:2352	hemochromatosis	DOID:0111028	hemochromatosis type 4	1
+DOID:2352	hemochromatosis	DOID:0111029	hemochromatosis type 1	1
+DOID:2352	hemochromatosis	DOID:0111030	hemochromatosis type 3	1
+DOID:2352	hemochromatosis	DOID:0111031	hemochromatosis type 5	1
+DOID:2352	hemochromatosis	DOID:0111032	hemochromatosis type 2B	2
+DOID:2352	hemochromatosis	DOID:0111033	African iron overload	1
+DOID:2352	hemochromatosis	DOID:0111034	hemochromatosis type 2	1
+DOID:2352	hemochromatosis	DOID:2352	hemochromatosis	0
 DOID:2355	anemia	DOID:0050554	X-linked sideroblastic anemia with ataxia	3
 DOID:2355	anemia	DOID:0050641	Rh deficiency syndrome	3
 DOID:2355	anemia	DOID:0050642	hypochromic microcytic anemia	2
@@ -991,6 +2154,32 @@ DOID:2355	anemia	DOID:0060065	pyridoxine-refractory autosomal recessive siderobl
 DOID:2355	anemia	DOID:0060066	pyridoxine-responsive sideroblastic anemia	3
 DOID:2355	anemia	DOID:0060284	paroxysmal nocturnal hemoglobinuria	4
 DOID:2355	anemia	DOID:0060335	autosomal dominant sideroblastic anemia	3
+DOID:2355	anemia	DOID:0090016	chromosome 5q deletion syndrome	2
+DOID:2355	anemia	DOID:0110916	hereditary spherocytosis type 1	5
+DOID:2355	anemia	DOID:0110917	hereditary spherocytosis type 2	5
+DOID:2355	anemia	DOID:0110918	hereditary spherocytosis type 3	5
+DOID:2355	anemia	DOID:0110919	hereditary spherocytosis type 4	5
+DOID:2355	anemia	DOID:0110920	hereditary spherocytosis type 5	5
+DOID:2355	anemia	DOID:0111077	pyruvate kinase deficiency of red cells	5
+DOID:2355	anemia	DOID:0111080	Fanconi anemia complementation group V	4
+DOID:2355	anemia	DOID:0111081	Fanconi anemia complementation group T	4
+DOID:2355	anemia	DOID:0111082	Fanconi anemia complementation group L	4
+DOID:2355	anemia	DOID:0111083	Fanconi anemia complementation group D2	4
+DOID:2355	anemia	DOID:0111084	Fanconi anemia complementation group E	4
+DOID:2355	anemia	DOID:0111085	Fanconi anemia complementation group U	4
+DOID:2355	anemia	DOID:0111086	Fanconi anemia complementation group G	4
+DOID:2355	anemia	DOID:0111087	Fanconi anemia complementation group C	4
+DOID:2355	anemia	DOID:0111088	Fanconi anemia complementation group F	4
+DOID:2355	anemia	DOID:0111089	Fanconi anemia complementation group D1	4
+DOID:2355	anemia	DOID:0111090	Fanconi anemia complementation group R	4
+DOID:2355	anemia	DOID:0111091	Fanconi anemia complementation group I	4
+DOID:2355	anemia	DOID:0111092	Fanconi anemia complementation group P	4
+DOID:2355	anemia	DOID:0111093	Fanconi anemia complementation group Q	4
+DOID:2355	anemia	DOID:0111094	Fanconi anemia complementation group N	4
+DOID:2355	anemia	DOID:0111095	Fanconi anemia complementation group A	4
+DOID:2355	anemia	DOID:0111096	Fanconi anemia complementation group O	4
+DOID:2355	anemia	DOID:0111097	Fanconi anemia complementation group J	4
+DOID:2355	anemia	DOID:0111098	Fanconi anemia complementation group B	4
 DOID:2355	anemia	DOID:10783	methemoglobinemia	5
 DOID:2355	anemia	DOID:1098	fetal erythroblastosis	2
 DOID:2355	anemia	DOID:11243	anemia of prematurity	2
@@ -1011,7 +2200,7 @@ DOID:2355	anemia	DOID:1339	Diamond-Blackfan anemia	3
 DOID:2355	anemia	DOID:1340	pure red-cell aplasia	2
 DOID:2355	anemia	DOID:1342	congenital hypoplastic anemia	2
 DOID:2355	anemia	DOID:13576	twin-to-twin transfusion syndrome	2
-DOID:2355	anemia	DOID:13636	Fanconi's anemia	3
+DOID:2355	anemia	DOID:13636	Fanconi anemia	3
 DOID:2355	anemia	DOID:2354	myelophthisic anemia	2
 DOID:2355	anemia	DOID:2355	anemia	0
 DOID:2355	anemia	DOID:2361	macrocytic anemia	1
@@ -1025,6 +2214,7 @@ DOID:2355	anemia	DOID:583	hemolytic anemia	2
 DOID:2355	anemia	DOID:589	congenital hemolytic anemia	3
 DOID:2355	anemia	DOID:720	normocytic anemia	1
 DOID:2355	anemia	DOID:8955	sideroblastic anemia	2
+DOID:2373	hereditary elliptocytosis	DOID:2373	hereditary elliptocytosis	0
 DOID:2377	multiple sclerosis	DOID:0050783	secondary progressive multiple sclerosis	1
 DOID:2377	multiple sclerosis	DOID:0050784	primary progressive multiple sclerosis	1
 DOID:2377	multiple sclerosis	DOID:0050785	progressive relapsing multiple sclerosis	1
@@ -1069,7 +2259,6 @@ DOID:2394	ovarian cancer	DOID:5304	ovarian clear cell adenocarcinoma	5
 DOID:2394	ovarian cancer	DOID:5331	testicular granulosa cell tumor	2
 DOID:2394	ovarian cancer	DOID:5350	ovarian endodermal sinus tumor	4
 DOID:2394	ovarian cancer	DOID:5351	ovarian primitive germ cell tumor	3
-DOID:2394	ovarian cancer	DOID:5511	dysgerminoma of ovary	4
 DOID:2394	ovarian cancer	DOID:5531	ovarian squamous cell carcinoma	4
 DOID:2394	ovarian cancer	DOID:5532	ovarian squamous cell neoplasm	2
 DOID:2394	ovarian cancer	DOID:5550	choriocarcinoma of ovary	3
@@ -1087,7 +2276,7 @@ DOID:2394	ovarian cancer	DOID:6170	ovarian carcinosarcoma	3
 DOID:2394	ovarian cancer	DOID:6179	ovarian small cell carcinoma	4
 DOID:2394	ovarian cancer	DOID:6212	ovarian endometrial cancer	2
 DOID:2394	ovarian cancer	DOID:6214	ovarian papillary neoplasm	2
-DOID:2394	ovarian cancer	DOID:6229	childhood mature teratoma of the ovary	4
+DOID:2394	ovarian cancer	DOID:6229	childhood mature teratoma of the ovary	5
 DOID:2394	ovarian cancer	DOID:6230	childhood teratoma of the ovary	3
 DOID:2394	ovarian cancer	DOID:6231	mature teratoma of the ovary	4
 DOID:2394	ovarian cancer	DOID:6232	ovarian biphasic or triphasic teratoma	3
@@ -1114,11 +2303,10 @@ DOID:2394	ovarian cancer	DOID:7650	pulmonary type ovarian small cell carcinoma	5
 DOID:2394	ovarian cancer	DOID:7651	hypercalcemic type ovarian small cell carcinoma	5
 DOID:2394	ovarian cancer	DOID:7665	non-gestational ovarian choriocarcinoma	4
 DOID:2394	ovarian cancer	DOID:8023	myxoid liposarcoma of the ovary	3
-DOID:2394	ovarian cancer	DOID:8036	childhood ovarian embryonal carcinoma	3
-DOID:2394	ovarian cancer	DOID:8336	childhood choriocarcinoma of the ovary	3
+DOID:2394	ovarian cancer	DOID:8336	childhood choriocarcinoma of the ovary	4
 DOID:2394	ovarian cancer	DOID:8394	adult type testicular granulosa cell tumor	3
 DOID:2394	ovarian cancer	DOID:9597	Krukenberg carcinoma	2
-DOID:2531	hematologic cancer	DOID:0050458	juvenile myelomonocytic leukemia	3
+DOID:2531	hematologic cancer	DOID:0050458	juvenile myelomonocytic leukemia	4
 DOID:2531	hematologic cancer	DOID:0050523	adult T-cell leukemia	5
 DOID:2531	hematologic cancer	DOID:0050743	mature T-cell and NK-cell lymphoma	3
 DOID:2531	hematologic cancer	DOID:0050744	anaplastic large cell lymphoma	3
@@ -1129,15 +2317,32 @@ DOID:2531	hematologic cancer	DOID:0050748	marginal zone B-cell lymphoma	4
 DOID:2531	hematologic cancer	DOID:0050749	peripheral T-cell lymphoma	4
 DOID:2531	hematologic cancer	DOID:0050750	splenic marginal zone lymphoma	5
 DOID:2531	hematologic cancer	DOID:0050751	T-cell large granular lymphocyte leukemia	4
-DOID:2531	hematologic cancer	DOID:0050873	follicular lymphoma	3
+DOID:2531	hematologic cancer	DOID:0050873	follicular lymphoma	4
 DOID:2531	hematologic cancer	DOID:0050908	myelodysplastic syndrome	2
 DOID:2531	hematologic cancer	DOID:0050909	MALT lymphoma	3
 DOID:2531	hematologic cancer	DOID:0060058	lymphoma	1
 DOID:2531	hematologic cancer	DOID:0060060	non-Hodgkin lymphoma	2
 DOID:2531	hematologic cancer	DOID:0060061	cutaneous T cell lymphoma	5
 DOID:2531	hematologic cancer	DOID:0060318	acute promyelocytic leukemia	4
-DOID:2531	hematologic cancer	DOID:0070004	myeloma	2
-DOID:2531	hematologic cancer	DOID:10265	hairy cell leukemia of spleen	5
+DOID:2531	hematologic cancer	DOID:0060592	B-cell adult acute lymphocytic leukemia	5
+DOID:2531	hematologic cancer	DOID:0060597	atypical chronic myeloid leukemia	4
+DOID:2531	hematologic cancer	DOID:0060761	familial chronic myelocytic leukemia-like syndrome	4
+DOID:2531	hematologic cancer	DOID:0060888	transient myeloproliferative syndrome	4
+DOID:2531	hematologic cancer	DOID:0060901	Waldenstroem's macroglobulinemia	5
+DOID:2531	hematologic cancer	DOID:0070004	myeloid neoplasm	2
+DOID:2531	hematologic cancer	DOID:0080144	childhood acute lymphocytic leukemia	4
+DOID:2531	hematologic cancer	DOID:0080145	T-cell childhood acute lymphocytic leukemia	5
+DOID:2531	hematologic cancer	DOID:0080146	B-cell childhood acute lymphoblastic leukemia	5
+DOID:2531	hematologic cancer	DOID:0080147	lymphoblastic lymphoma	2
+DOID:2531	hematologic cancer	DOID:0080148	T-cell childhood lymphoblastic lymphoma	3
+DOID:2531	hematologic cancer	DOID:0080149	adult acute monocytic leukemia	5
+DOID:2531	hematologic cancer	DOID:0080164	myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1	3
+DOID:2531	hematologic cancer	DOID:0080165	myeloid and lymphoid neoplasms associated with PDGFRA rearrangement	4
+DOID:2531	hematologic cancer	DOID:0080166	myeloid neoplasms associated with PDGFRB rearrangement	4
+DOID:2531	hematologic cancer	DOID:0080167	myeloid and lymphoid neoplasms associated with FGFR1 abnormalities	4
+DOID:2531	hematologic cancer	DOID:0080187	chronic neutrophilic leukemia	3
+DOID:2531	hematologic cancer	DOID:0080188	chronic myelomonocytic leukemia	3
+DOID:2531	hematologic cancer	DOID:0080192	relapsed/refractory diffuse large B-cell lymphoma	5
 DOID:2531	hematologic cancer	DOID:1035	natural killer cell leukemia	3
 DOID:2531	hematologic cancer	DOID:1036	chronic leukemia	2
 DOID:2531	hematologic cancer	DOID:1037	lymphoblastic leukemia	2
@@ -1150,14 +2355,10 @@ DOID:2531	hematologic cancer	DOID:12603	acute leukemia	2
 DOID:2531	hematologic cancer	DOID:12965	subleukemic leukemia	2
 DOID:2531	hematologic cancer	DOID:12972	intrapelvic lymph node leukemic reticuloendotheliosis	5
 DOID:2531	hematologic cancer	DOID:1703	Richter's syndrome	4
-DOID:2531	hematologic cancer	DOID:2224	hemorrhagic thrombocythemia	4
-DOID:2531	hematologic cancer	DOID:2225	megakaryocytic tumor	3
-DOID:2531	hematologic cancer	DOID:2226	chronic myeloproliferative disease	3
-DOID:2531	hematologic cancer	DOID:2228	thrombocytosis	3
-DOID:2531	hematologic cancer	DOID:2354	myelophthisic anemia	3
+DOID:2531	hematologic cancer	DOID:2224	essential thrombocythemia	4
+DOID:2531	hematologic cancer	DOID:2226	myeloproliferative neoplasm	3
 DOID:2531	hematologic cancer	DOID:2531	hematologic cancer	0
 DOID:2531	hematologic cancer	DOID:285	hairy cell leukemia	4
-DOID:2531	hematologic cancer	DOID:3166	leukemoid reaction	3
 DOID:2531	hematologic cancer	DOID:3264	subacute leukemia	2
 DOID:2531	hematologic cancer	DOID:3664	mast cell neoplasm	1
 DOID:2531	hematologic cancer	DOID:3666	cutaneous solitary mastocytoma	2
@@ -1165,14 +2366,13 @@ DOID:2531	hematologic cancer	DOID:3720	extramedullary plasmacytoma	7
 DOID:2531	hematologic cancer	DOID:3721	plasmacytoma	6
 DOID:2531	hematologic cancer	DOID:3722	solitary osseous plasmacytoma	7
 DOID:2531	hematologic cancer	DOID:3723	solitary plasmacytoma of chest wall	7
-DOID:2531	hematologic cancer	DOID:4334	splenic manifestation of prolymphocytic leukemia	5
 DOID:2531	hematologic cancer	DOID:4659	extracutaneous mastocytoma	2
 DOID:2531	hematologic cancer	DOID:4660	indolent systemic mastocytosis	2
 DOID:2531	hematologic cancer	DOID:4960	bone marrow cancer	1
 DOID:2531	hematologic cancer	DOID:4971	myelofibrosis	3
-DOID:2531	hematologic cancer	DOID:4972	myelodysplastic myeloproliferative cancer	2
-DOID:2531	hematologic cancer	DOID:5599	precursor T-lymphoblastic lymphoma/leukemia	3
-DOID:2531	hematologic cancer	DOID:5600	precursor lymphoblastic lymphoma/leukemia	2
+DOID:2531	hematologic cancer	DOID:4972	myelodysplastic/myeloproliferative neoplasm	3
+DOID:2531	hematologic cancer	DOID:5599	precursor T-lymphoblastic lymphoma/leukemia	4
+DOID:2531	hematologic cancer	DOID:5600	precursor lymphoblastic lymphoma/leukemia	3
 DOID:2531	hematologic cancer	DOID:5602	T-cell adult acute lymphocytic leukemia	5
 DOID:2531	hematologic cancer	DOID:5603	acute T cell leukemia	5
 DOID:2531	hematologic cancer	DOID:5604	adult acute lymphocytic leukemia	4
@@ -1190,9 +2390,8 @@ DOID:2531	hematologic cancer	DOID:6536	plasma cell neoplasm	5
 DOID:2531	hematologic cancer	DOID:6867	mediastinal gray zone lymphoma	3
 DOID:2531	hematologic cancer	DOID:6958	aleukemic monocytic leukemia cutis	4
 DOID:2531	hematologic cancer	DOID:706	mature B-cell neoplasm	4
-DOID:2531	hematologic cancer	DOID:7061	precursor B lymphoblastic lymphoma/leukemia	3
+DOID:2531	hematologic cancer	DOID:7061	precursor B lymphoblastic lymphoma/leukemia	4
 DOID:2531	hematologic cancer	DOID:707	B-cell lymphoma	3
-DOID:2531	hematologic cancer	DOID:709	splenic manifestation of hairy cell leukemia	5
 DOID:2531	hematologic cancer	DOID:711	refractory hairy cell leukemia	2
 DOID:2531	hematologic cancer	DOID:712	refractory hematologic cancer	1
 DOID:2531	hematologic cancer	DOID:713	HCL-V	5
@@ -1204,7 +2403,7 @@ DOID:2531	hematologic cancer	DOID:7756	neonatal leukemia	3
 DOID:2531	hematologic cancer	DOID:7757	childhood leukemia	2
 DOID:2531	hematologic cancer	DOID:7848	interdigitating dendritic cell sarcoma	2
 DOID:2531	hematologic cancer	DOID:7849	dendritic cell sarcoma	2
-DOID:2531	hematologic cancer	DOID:7933	childhood precursor T-lymphoblastic lymphoma/leukemia	4
+DOID:2531	hematologic cancer	DOID:7933	childhood precursor T-lymphoblastic lymphoma/leukemia	5
 DOID:2531	hematologic cancer	DOID:7936	precursor T-lymphoblastic lymphoma/leukemia refractory	2
 DOID:2531	hematologic cancer	DOID:8106	cellular phase chronic idiopathic myelofibrosis	4
 DOID:2531	hematologic cancer	DOID:8144	pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma	5
@@ -1239,6 +2438,11 @@ DOID:2531	hematologic cancer	DOID:9551	smoldering myeloma	4
 DOID:2531	hematologic cancer	DOID:9952	acute lymphocytic leukemia	3
 DOID:2531	hematologic cancer	DOID:9953	B- and T-cell mixed leukemia	4
 DOID:2531	hematologic cancer	DOID:9954	null-cell leukemia	4
+DOID:2580	rhizomelic chondrodysplasia punctata	DOID:0110851	rhizomelic chondrodysplasia punctata type 1	1
+DOID:2580	rhizomelic chondrodysplasia punctata	DOID:0110852	rhizomelic chondrodysplasia punctata type 2	1
+DOID:2580	rhizomelic chondrodysplasia punctata	DOID:0110853	rhizomelic chondrodysplasia punctata type 3	1
+DOID:2580	rhizomelic chondrodysplasia punctata	DOID:0110854	rhizomelic chondrodysplasia punctata type 5	1
+DOID:2580	rhizomelic chondrodysplasia punctata	DOID:2580	rhizomelic chondrodysplasia punctata	0
 DOID:2596	larynx cancer	DOID:11472	subglottis cancer	1
 DOID:2596	larynx cancer	DOID:13348	laryngeal cartilage cancer	1
 DOID:2596	larynx cancer	DOID:13476	supraglottis cancer	1
@@ -1252,7 +2456,6 @@ DOID:2596	larynx cancer	DOID:3752	larynx verrucous carcinoma	3
 DOID:2596	larynx cancer	DOID:4688	laryngeal mucoepidermoid carcinoma	2
 DOID:2596	larynx cancer	DOID:4869	laryngeal adenoid cystic carcinoma	2
 DOID:2596	larynx cancer	DOID:5288	larynx leiomyosarcoma	2
-DOID:2596	larynx cancer	DOID:5696	larynx liposarcoma	2
 DOID:2596	larynx cancer	DOID:7031	glottis squamous cell carcinoma	3
 DOID:2596	larynx cancer	DOID:7144	laryngeal small cell carcinoma	2
 DOID:2596	larynx cancer	DOID:7583	glottis verrucous carcinoma	4
@@ -1274,13 +2477,13 @@ DOID:263	kidney cancer	DOID:3675	childhood kidney neoplasm	1
 DOID:263	kidney cancer	DOID:4242	kidney sarcoma	1
 DOID:263	kidney cancer	DOID:4450	renal cell carcinoma	2
 DOID:263	kidney cancer	DOID:4451	renal carcinoma	1
-DOID:263	kidney cancer	DOID:4454	childhood kidney cell carcinoma	2
+DOID:263	kidney cancer	DOID:4454	childhood kidney cell carcinoma	3
 DOID:263	kidney cancer	DOID:4455	hereditary renal cell carcinoma	3
 DOID:263	kidney cancer	DOID:4463	multilocular clear cell renal cell carcinoma	3
 DOID:263	kidney cancer	DOID:4464	collecting duct carcinoma	3
 DOID:263	kidney cancer	DOID:4465	papillary renal cell carcinoma	3
 DOID:263	kidney cancer	DOID:4467	renal clear cell carcinoma	3
-DOID:263	kidney cancer	DOID:4471	chromophobe adenocarcinoma	3
+DOID:263	kidney cancer	DOID:4471	chromophobe renal cell carcinoma	3
 DOID:263	kidney cancer	DOID:4472	mucinous tubular and spindle renal cell carcinoma	3
 DOID:263	kidney cancer	DOID:4473	sarcomatoid renal cell carcinoma	3
 DOID:263	kidney cancer	DOID:4772	mesoblastic nephroma	1
@@ -1294,11 +2497,9 @@ DOID:263	kidney cancer	DOID:5179	mixed cell type kidney Wilms' tumor	2
 DOID:263	kidney cancer	DOID:5182	blastema predominant kidney Wilms' tumor	2
 DOID:263	kidney cancer	DOID:5183	hereditary Wilms' tumor	2
 DOID:263	kidney cancer	DOID:5189	epithelial predominant Wilms' tumor	2
-DOID:263	kidney cancer	DOID:5190	cervical Wilms' tumor	2
 DOID:263	kidney cancer	DOID:5191	stromal predominant kidney Wilms' tumor	2
 DOID:263	kidney cancer	DOID:5287	kidney leiomyosarcoma	2
 DOID:263	kidney cancer	DOID:5534	renal pelvis squamous cell carcinoma	2
-DOID:263	kidney cancer	DOID:5699	kidney liposarcoma	2
 DOID:263	kidney cancer	DOID:5973	kidney pelvis papillary carcinoma	3
 DOID:263	kidney cancer	DOID:5974	renal pelvis transitional cell carcinoma	2
 DOID:263	kidney cancer	DOID:5982	kidney fibrosarcoma	2
@@ -1311,13 +2512,23 @@ DOID:263	kidney cancer	DOID:7192	hereditary conventional renal cell carcinoma	4
 DOID:263	kidney cancer	DOID:7571	malignant cystic nephroma	1
 DOID:263	kidney cancer	DOID:8082	cellular congenital mesoblastic nephroma	3
 DOID:263	kidney cancer	DOID:8083	classic congenital mesoblastic nephroma	3
-DOID:263	kidney cancer	DOID:8410	childhood kidney angiomyolipoma	2
+DOID:2717	Bloom syndrome	DOID:2717	Bloom syndrome	0
+DOID:2729	dyskeratosis congenita	DOID:2729	dyskeratosis congenita	0
+DOID:2738	pseudoxanthoma elasticum	DOID:2738	pseudoxanthoma elasticum	0
+DOID:2754	glycogen storage disease VI	DOID:2754	glycogen storage disease VI	0
 DOID:2841	asthma	DOID:12323	cough variant asthma	1
 DOID:2841	asthma	DOID:2841	asthma	0
 DOID:2841	asthma	DOID:9360	intrinsic asthma	1
 DOID:2841	asthma	DOID:9362	status asthmaticus	1
 DOID:2841	asthma	DOID:9415	allergic asthma	1
+DOID:2861	congenital nonspherocytic hemolytic anemia	DOID:0111077	pyruvate kinase deficiency of red cells	1
+DOID:2861	congenital nonspherocytic hemolytic anemia	DOID:2861	congenital nonspherocytic hemolytic anemia	0
+DOID:2907	Goldenhar syndrome	DOID:2907	Goldenhar syndrome	0
+DOID:2926	Klippel-Trenaunay syndrome	DOID:2926	Klippel-Trenaunay syndrome	0
+DOID:2935	Chediak-Higashi syndrome	DOID:2935	Chediak-Higashi syndrome	0
+DOID:2962	Cockayne syndrome	DOID:2962	Cockayne syndrome	0
 DOID:2986	IgA glomerulonephritis	DOID:2986	IgA glomerulonephritis	0
+DOID:2987	familial Mediterranean fever	DOID:2987	familial Mediterranean fever	0
 DOID:2994	germ cell cancer	DOID:0050907	mixed extragonadal germ cell cancer	2
 DOID:2994	germ cell cancer	DOID:13691	dermoid cyst of skin	5
 DOID:2994	germ cell cancer	DOID:1911	endodermal sinus tumor	1
@@ -1339,7 +2550,6 @@ DOID:2994	germ cell cancer	DOID:4085	trophoblastic neoplasm	2
 DOID:2994	germ cell cancer	DOID:4440	seminoma	1
 DOID:2994	germ cell cancer	DOID:4441	dysgerminoma	1
 DOID:2994	germ cell cancer	DOID:4717	extragonadal germ cell cancer	1
-DOID:2994	germ cell cancer	DOID:4743	mixed testicular germ cell tumor	2
 DOID:2994	germ cell cancer	DOID:4766	embryoma	2
 DOID:2994	germ cell cancer	DOID:5117	dermoid cyst of ovary	5
 DOID:2994	germ cell cancer	DOID:5118	ovarian cystic teratoma	4
@@ -1349,11 +2559,9 @@ DOID:2994	germ cell cancer	DOID:5209	benign struma ovarii	7
 DOID:2994	germ cell cancer	DOID:5342	childhood endodermal sinus tumor	2
 DOID:2994	germ cell cancer	DOID:5348	adult endodermal sinus tumor	2
 DOID:2994	germ cell cancer	DOID:5511	dysgerminoma of ovary	2
-DOID:2994	germ cell cancer	DOID:5551	choriocarcinoma of the testis	4
 DOID:2994	germ cell cancer	DOID:5563	malignant teratoma	3
 DOID:2994	germ cell cancer	DOID:5565	adult teratoma	3
 DOID:2994	germ cell cancer	DOID:5566	mature teratoma	3
-DOID:2994	germ cell cancer	DOID:5567	ovarian germ cell teratoma	3
 DOID:2994	germ cell cancer	DOID:5677	extragonadal nonseminomatous germ cell tumor	2
 DOID:2994	germ cell cancer	DOID:5680	embryonal testis carcinoma	3
 DOID:2994	germ cell cancer	DOID:5681	ovarian embryonal carcinoma	3
@@ -1361,22 +2569,13 @@ DOID:2994	germ cell cancer	DOID:5834	spermatocytoma	2
 DOID:2994	germ cell cancer	DOID:5838	extragonadal seminoma	2
 DOID:2994	germ cell cancer	DOID:5936	ovarian mixed germ cell neoplasm	2
 DOID:2994	germ cell cancer	DOID:6053	pediatric germ cell cancer	1
-DOID:2994	germ cell cancer	DOID:6082	pediatric testicular germ cell tumor	2
-DOID:2994	germ cell cancer	DOID:6160	childhood choriocarcinoma of the testis	3
-DOID:2994	germ cell cancer	DOID:6161	childhood testicular mixed germ cell tumor	3
-DOID:2994	germ cell cancer	DOID:6162	childhood embryonal testis carcinoma	3
+DOID:2994	germ cell cancer	DOID:6162	childhood embryonal testis carcinoma	4
 DOID:2994	germ cell cancer	DOID:6229	childhood mature teratoma of the ovary	5
-DOID:2994	germ cell cancer	DOID:6230	childhood teratoma of the ovary	4
 DOID:2994	germ cell cancer	DOID:6231	mature teratoma of the ovary	4
-DOID:2994	germ cell cancer	DOID:6232	ovarian biphasic or triphasic teratoma	4
 DOID:2994	germ cell cancer	DOID:6314	ovarian fetiform teratoma	5
 DOID:2994	germ cell cancer	DOID:6315	ovarian solid teratoma	5
-DOID:2994	germ cell cancer	DOID:6331	immature teratoma of ovary	4
-DOID:2994	germ cell cancer	DOID:6474	childhood teratocarcinoma of the testis	4
-DOID:2994	germ cell cancer	DOID:6693	testicular monophasic choriocarcinoma	5
 DOID:2994	germ cell cancer	DOID:6857	pineal region mature teratoma	4
 DOID:2994	germ cell cancer	DOID:688	embryonal cancer	1
-DOID:2994	germ cell cancer	DOID:7037	childhood immature teratoma of ovary	5
 DOID:2994	germ cell cancer	DOID:7079	adult cystic teratoma	4
 DOID:2994	germ cell cancer	DOID:7202	intermediate malignant teratoma	4
 DOID:2994	germ cell cancer	DOID:7340	pediatric ovarian dysgerminoma	3
@@ -1391,7 +2590,6 @@ DOID:2998	testicular cancer	DOID:12286	testicular leukemia	1
 DOID:2998	testicular cancer	DOID:2998	testicular cancer	0
 DOID:2998	testicular cancer	DOID:4061	testis rhabdomyosarcoma	2
 DOID:2998	testicular cancer	DOID:4062	testis sarcoma	1
-DOID:2998	testicular cancer	DOID:4084	testicular trophoblastic tumor	3
 DOID:2998	testicular cancer	DOID:4086	testicular germ cell tumor non-seminomatous	2
 DOID:2998	testicular cancer	DOID:4087	testicular pure germ cell tumor	2
 DOID:2998	testicular cancer	DOID:4739	testicular Brenner tumor	1
@@ -1399,17 +2597,12 @@ DOID:2998	testicular cancer	DOID:4743	mixed testicular germ cell tumor	3
 DOID:2998	testicular cancer	DOID:512	epididymal neoplasm	1
 DOID:2998	testicular cancer	DOID:5344	testicular yolk sac tumor	4
 DOID:2998	testicular cancer	DOID:5345	testicular non-seminomatous germ cell cancer	3
-DOID:2998	testicular cancer	DOID:5551	choriocarcinoma of the testis	4
-DOID:2998	testicular cancer	DOID:5554	childhood neoplasm of the testis	1
 DOID:2998	testicular cancer	DOID:5556	testicular malignant germ cell cancer	2
 DOID:2998	testicular cancer	DOID:5557	testicular germ cell cancer	1
 DOID:2998	testicular cancer	DOID:5842	testis seminoma	3
 DOID:2998	testicular cancer	DOID:6082	pediatric testicular germ cell tumor	2
-DOID:2998	testicular cancer	DOID:6160	childhood choriocarcinoma of the testis	3
-DOID:2998	testicular cancer	DOID:6161	childhood testicular mixed germ cell tumor	3
-DOID:2998	testicular cancer	DOID:6162	childhood embryonal testis carcinoma	3
-DOID:2998	testicular cancer	DOID:6474	childhood teratocarcinoma of the testis	4
-DOID:2998	testicular cancer	DOID:6693	testicular monophasic choriocarcinoma	5
+DOID:2998	testicular cancer	DOID:6161	childhood testicular mixed germ cell tumor	4
+DOID:2998	testicular cancer	DOID:6474	childhood teratocarcinoma of the testis	5
 DOID:2998	testicular cancer	DOID:6706	tubular variant testicular seminoma	4
 DOID:2998	testicular cancer	DOID:7097	macrocystic pattern testicular yolk sac tumor	5
 DOID:2998	testicular cancer	DOID:7269	cribriform variant testicular seminoma	4
@@ -1426,6 +2619,7 @@ DOID:2998	testicular cancer	DOID:8195	hepatoid pattern testicular yolk sac tumor
 DOID:2998	testicular cancer	DOID:8358	pseudoglandular variant testicular seminoma	4
 DOID:2998	testicular cancer	DOID:8362	enteric pattern testicular yolk sac tumor	5
 DOID:2998	testicular cancer	DOID:8392	reticular pattern testicular yolk sac tumor	5
+DOID:3012	Li-Fraumeni syndrome	DOID:3012	Li-Fraumeni syndrome	0
 DOID:3070	malignant glioma	DOID:0050803	glioblastoma classical subtype	3
 DOID:3070	malignant glioma	DOID:0050804	glioblastoma proneural subtype	3
 DOID:3070	malignant glioma	DOID:0050805	glioblastoma mesenchymal subtype	3
@@ -1481,6 +2675,33 @@ DOID:3121	gallbladder cancer	DOID:7221	gallbladder papillary carcinoma	3
 DOID:3121	gallbladder cancer	DOID:7222	gallbladder pleomorphic giant cell adenocarcinoma	3
 DOID:3121	gallbladder cancer	DOID:8135	gallbladder lymphoma	1
 DOID:3121	gallbladder cancer	DOID:8167	gallbladder melanoma	1
+DOID:3133	acute porphyria	DOID:13269	hereditary coproporphyria	1
+DOID:3133	acute porphyria	DOID:13270	erythropoietic protoporphyria	1
+DOID:3133	acute porphyria	DOID:3132	porphyria cutanea tarda	1
+DOID:3133	acute porphyria	DOID:3133	acute porphyria	0
+DOID:3133	acute porphyria	DOID:3890	acute intermittent porphyria	1
+DOID:3133	acute porphyria	DOID:4346	variegate porphyria	1
+DOID:3133	acute porphyria	DOID:5230	hepatoerythropoietic porphyria	1
+DOID:3144	cutis laxa	DOID:3144	cutis laxa	0
+DOID:3191	nemaline myopathy	DOID:0110926	nemaline myopathy 1	1
+DOID:3191	nemaline myopathy	DOID:0110927	nemaline myopathy 3	1
+DOID:3191	nemaline myopathy	DOID:0110928	nemaline myopathy 2	1
+DOID:3191	nemaline myopathy	DOID:0110929	nemaline myopathy 9	1
+DOID:3191	nemaline myopathy	DOID:0110930	nemaline myopathy 8	1
+DOID:3191	nemaline myopathy	DOID:0110931	nemaline myopathy 10	1
+DOID:3191	nemaline myopathy	DOID:0110932	nemaline myopathy 4	1
+DOID:3191	nemaline myopathy	DOID:0110933	nemaline myopathy 11	1
+DOID:3191	nemaline myopathy	DOID:0110934	nemaline myopathy 7	1
+DOID:3191	nemaline myopathy	DOID:0110935	nemaline myopathy 6	1
+DOID:3191	nemaline myopathy	DOID:0110936	nemaline myopathy 5	1
+DOID:3191	nemaline myopathy	DOID:3191	nemaline myopathy	0
+DOID:3246	embryonal rhabdomyosarcoma	DOID:0060338	parameningeal embryonal rhabdomyosarcoma	1
+DOID:3246	embryonal rhabdomyosarcoma	DOID:3246	embryonal rhabdomyosarcoma	0
+DOID:3246	embryonal rhabdomyosarcoma	DOID:3255	botryoid rhabdomyosarcoma	1
+DOID:3246	embryonal rhabdomyosarcoma	DOID:3260	spindle cell rhabdomyosarcoma	1
+DOID:3246	embryonal rhabdomyosarcoma	DOID:6786	childhood botryoid rhabdomyosarcoma	2
+DOID:3246	embryonal rhabdomyosarcoma	DOID:6847	adult botryoid rhabdomyosarcoma	2
+DOID:3265	chronic granulomatous disease	DOID:3265	chronic granulomatous disease	0
 DOID:3277	thymus cancer	DOID:10146	thymus lymphoma	1
 DOID:3277	thymus cancer	DOID:3275	thymoma	1
 DOID:3277	thymus cancer	DOID:3277	thymus cancer	0
@@ -1509,6 +2730,21 @@ DOID:3277	thymus cancer	DOID:7926	epithelial malignant thymoma	3
 DOID:3277	thymus cancer	DOID:7927	malignant type A thymoma	3
 DOID:3277	thymus cancer	DOID:8137	thymus clear cell carcinoma	2
 DOID:3277	thymus cancer	DOID:8138	thymus sarcomatoid carcinoma	2
+DOID:3302	chordoma	DOID:0050900	sacrum chordoma	2
+DOID:3302	chordoma	DOID:3302	chordoma	0
+DOID:3302	chordoma	DOID:4151	skull base chordoma	1
+DOID:3302	chordoma	DOID:4152	chondroid chordoma	1
+DOID:3302	chordoma	DOID:4153	spinal chordoma	1
+DOID:3302	chordoma	DOID:6312	clivus chordoma	2
+DOID:3302	chordoma	DOID:6313	clivus chondroid chordoma	3
+DOID:3310	atopic dermatitis	DOID:0110098	atopic dermatitis 2	1
+DOID:3310	atopic dermatitis	DOID:0110099	atopic dermatitis 3	1
+DOID:3310	atopic dermatitis	DOID:0110100	atopic dermatitis 4	1
+DOID:3310	atopic dermatitis	DOID:0110101	atopic dermatitis 5	1
+DOID:3310	atopic dermatitis	DOID:0110102	atopic dermatitis 6	1
+DOID:3310	atopic dermatitis	DOID:0110103	atopic dermatitis 7	1
+DOID:3310	atopic dermatitis	DOID:0110104	atopic dermatitis 8	1
+DOID:3310	atopic dermatitis	DOID:0110105	atopic dermatitis 9	1
 DOID:3310	atopic dermatitis	DOID:3310	atopic dermatitis	0
 DOID:3312	bipolar disorder	DOID:0060166	bipolar ll disorder	1
 DOID:3312	bipolar disorder	DOID:14042	bipolar I disorder	1
@@ -1537,7 +2773,12 @@ DOID:332	amyotrophic lateral sclerosis	DOID:0060211	amyotrophic lateral sclerosi
 DOID:332	amyotrophic lateral sclerosis	DOID:0060212	amyotrophic lateral sclerosis type 21	1
 DOID:332	amyotrophic lateral sclerosis	DOID:0060213	FTDALS1	1
 DOID:332	amyotrophic lateral sclerosis	DOID:0060214	FTDALS2	1
+DOID:332	amyotrophic lateral sclerosis	DOID:0060355	amyotrophic lateral sclerosis type 22	1
+DOID:332	amyotrophic lateral sclerosis	DOID:0110067	juvenile amyotrophic lateral sclerosis with dementia	1
+DOID:332	amyotrophic lateral sclerosis	DOID:0110068	FTDALS3	1
+DOID:332	amyotrophic lateral sclerosis	DOID:0110069	FTDALS4	1
 DOID:332	amyotrophic lateral sclerosis	DOID:332	amyotrophic lateral sclerosis	0
+DOID:3393	coronary artery disease	DOID:0060562	anomalous left coronary artery from the pulmonary artery	2
 DOID:3393	coronary artery disease	DOID:10266	subendocardial infarction acute myocardial infarction	3
 DOID:3393	coronary artery disease	DOID:10648	acute inferoposterior infarction	3
 DOID:3393	coronary artery disease	DOID:10649	acute inferolateral myocardial infarction	3
@@ -1587,7 +2828,6 @@ DOID:3565	meningioma	DOID:6089	pediatric leptomeningeal melanoma	3
 DOID:3565	meningioma	DOID:6090	adult leptomeningeal melanoma	3
 DOID:3565	meningioma	DOID:6110	jugular foramen meningioma	1
 DOID:3565	meningioma	DOID:6115	lateral ventricle meningioma	2
-DOID:3565	meningioma	DOID:6337	cerebellopontine angle meningioma	2
 DOID:3565	meningioma	DOID:6517	clivus meningioma	2
 DOID:3565	meningioma	DOID:6548	angiomatous meningioma	1
 DOID:3565	meningioma	DOID:7210	psammomatous meningioma	1
@@ -1598,7 +2838,7 @@ DOID:3565	meningioma	DOID:7482	petrous apex meningioma	1
 DOID:3565	meningioma	DOID:7613	sarcomatosis of the meninges	2
 DOID:3565	meningioma	DOID:7614	meninges sarcoma	1
 DOID:3565	meningioma	DOID:7634	suprasellar meningioma	1
-DOID:3565	meningioma	DOID:7635	gasserian ganglion meningioma	1
+DOID:3565	meningioma	DOID:7635	Gasserian ganglion meningioma	1
 DOID:3565	meningioma	DOID:7689	leptomeninges sarcoma	2
 DOID:3565	meningioma	DOID:7826	adult papillary meningioma	2
 DOID:3565	meningioma	DOID:7986	cerebral falx meningioma	2
@@ -1608,10 +2848,11 @@ DOID:3565	meningioma	DOID:8216	parapharyngeal meningioma	1
 DOID:3565	meningioma	DOID:8221	upper clivus meningioma	3
 DOID:3565	meningioma	DOID:8239	lower clivus meningioma	3
 DOID:3565	meningioma	DOID:8368	chordoid meningioma	2
+DOID:3571	liver cancer	DOID:0080182	mixed fibrolamellar hepatocellular carcinoma	4
 DOID:3571	liver cancer	DOID:270	liver sarcoma	1
 DOID:3571	liver cancer	DOID:3571	liver cancer	0
 DOID:3571	liver cancer	DOID:4047	liver rhabdomyosarcoma	2
-DOID:3571	liver cancer	DOID:5015	hepatocellular fibrolamellar carcinoma	3
+DOID:3571	liver cancer	DOID:5015	fibrolamellar carcinoma	3
 DOID:3571	liver cancer	DOID:5016	hepatocellular clear cell carcinoma	3
 DOID:3571	liver cancer	DOID:5022	aflatoxins-related hepatocellular carcinoma	3
 DOID:3571	liver cancer	DOID:5026	sclerosing hepatic carcinoma	3
@@ -1671,6 +2912,49 @@ DOID:363	uterine cancer	DOID:8188	uterine corpus choriocarcinoma	2
 DOID:363	uterine cancer	DOID:8302	mixed endometrial stromal and smooth muscle tumor	2
 DOID:363	uterine cancer	DOID:9459	isthmus cancer	2
 DOID:363	uterine cancer	DOID:9460	uterine corpus cancer	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110657	congenital myasthenic syndrome 8	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110658	congenital myasthenic syndrome 15	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110659	congenital myasthenic syndrome 7	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110660	congenital myasthenic syndrome 12	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110661	congenital myasthenic syndrome 20	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110662	congenital myasthenic syndrome 1B	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110663	congenital myasthenic syndrome 1A	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110664	congenital myasthenic syndrome 3C	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110665	congenital myasthenic syndrome 3B	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110666	congenital myasthenic syndrome 3A	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110667	congenital myasthenic syndrome 5	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110668	congenital myasthenic syndrome 10	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110669	congenital myasthenic syndrome 14	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110670	congenital myasthenic syndrome 9	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110671	congenital myasthenic syndrome 6	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110672	congenital myasthenic syndrome 21	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110673	congenital myasthenic syndrome 19	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110674	congenital myasthenic syndrome 17	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110675	congenital myasthenic syndrome 11	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110676	congenital myasthenic syndrome 13	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110677	congenital myasthenic syndrome 4B	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110678	congenital myasthenic syndrome 4A	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110679	congenital myasthenic syndrome 4C	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110680	congenital myasthenic syndrome 2C	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110681	congenital myasthenic syndrome 2A	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110682	congenital myasthenic syndrome 16	1
+DOID:3635	congenital myasthenic syndrome	DOID:0110683	congenital myasthenic syndrome 18	1
+DOID:3635	congenital myasthenic syndrome	DOID:3635	congenital myasthenic syndrome	0
+DOID:3649	pyruvate decarboxylase deficiency	DOID:3649	pyruvate decarboxylase deficiency	0
+DOID:3652	Leigh disease	DOID:3652	Leigh disease	0
+DOID:3753	Hermansky-Pudlak syndrome	DOID:0060539	Hermansky-Pudlak syndrome 1	1
+DOID:3753	Hermansky-Pudlak syndrome	DOID:0060540	Hermansky-Pudlak syndrome 2	1
+DOID:3753	Hermansky-Pudlak syndrome	DOID:0060541	Hermansky-Pudlak syndrome 3	1
+DOID:3753	Hermansky-Pudlak syndrome	DOID:0060542	Hermansky-Pudlak syndrome 4	1
+DOID:3753	Hermansky-Pudlak syndrome	DOID:0060543	Hermansky-Pudlak syndrome 5	1
+DOID:3753	Hermansky-Pudlak syndrome	DOID:0060544	Hermansky-Pudlak syndrome 6	1
+DOID:3753	Hermansky-Pudlak syndrome	DOID:0060545	Hermansky-Pudlak syndrome 7	1
+DOID:3753	Hermansky-Pudlak syndrome	DOID:0060546	Hermansky-Pudlak syndrome 8	1
+DOID:3753	Hermansky-Pudlak syndrome	DOID:0060547	Hermansky-Pudlak syndrome 9	1
+DOID:3753	Hermansky-Pudlak syndrome	DOID:3753	Hermansky-Pudlak syndrome	0
+DOID:3827	congenital diaphragmatic hernia	DOID:3827	congenital diaphragmatic hernia	0
+DOID:3883	Lynch syndrome	DOID:0050465	Muir-Torre syndrome	1
+DOID:3883	Lynch syndrome	DOID:3883	Lynch syndrome	0
 DOID:3953	adrenal gland cancer	DOID:0050892	adrenal gland pheochromocytoma	2
 DOID:3953	adrenal gland cancer	DOID:0050936	extra-adrenal pheochromocytoma	2
 DOID:3953	adrenal gland cancer	DOID:3948	adrenocortical carcinoma	2
@@ -1682,6 +2966,10 @@ DOID:3953	adrenal gland cancer	DOID:5719	adrenal medulla cancer	1
 DOID:3953	adrenal gland cancer	DOID:660	adrenal cortex cancer	1
 DOID:3953	adrenal gland cancer	DOID:7379	adrenal medulla carcinoma	2
 DOID:3953	adrenal gland cancer	DOID:8140	adrenal gland ganglioneuroblastoma	1
+DOID:397	restrictive cardiomyopathy	DOID:12932	endomyocardial fibrosis	1
+DOID:397	restrictive cardiomyopathy	DOID:396	Loeffler endocarditis	1
+DOID:397	restrictive cardiomyopathy	DOID:397	restrictive cardiomyopathy	0
+DOID:4028	angioma serpiginosum	DOID:4028	angioma serpiginosum	0
 DOID:4045	muscle cancer	DOID:0050924	striated muscle rhabdoid tumor	1
 DOID:4045	muscle cancer	DOID:0060338	parameningeal embryonal rhabdomyosarcoma	4
 DOID:4045	muscle cancer	DOID:1967	leiomyosarcoma	2
@@ -1812,7 +3100,64 @@ DOID:4362	cervical cancer	DOID:8339	intestinal variant cervical mucinous adenoca
 DOID:4362	cervical cancer	DOID:8340	endocervical type cervical mucinous adenocarcinoma	4
 DOID:4362	cervical cancer	DOID:8361	glassy cell variant cervical adenosquamous carcinoma	4
 DOID:4362	cervical cancer	DOID:8409	microinvasive cervical squamous cell carcinoma	3
+DOID:4448	macular degeneration	DOID:0050578	occult macular dystrophy	1
+DOID:4448	macular degeneration	DOID:0050661	vitelliform macular dystrophy	1
+DOID:4448	macular degeneration	DOID:0050662	bestrophinopathy	1
+DOID:4448	macular degeneration	DOID:0050817	Stargardt disease	3
+DOID:4448	macular degeneration	DOID:0060745	Doyne honeycomb retinal dystrophy	3
+DOID:4448	macular degeneration	DOID:0060746	basal laminar drusen	3
+DOID:4448	macular degeneration	DOID:0060863	patterned macular dystrophy	1
+DOID:4448	macular degeneration	DOID:0060864	patterned macular dystrophy 2	2
+DOID:4448	macular degeneration	DOID:0060865	patterned macular dystrophy 3	2
+DOID:4448	macular degeneration	DOID:0060866	patterned macular dystrophy 1	2
+DOID:4448	macular degeneration	DOID:0110014	age related macular degeneration 1	3
+DOID:4448	macular degeneration	DOID:0110015	age related macular degeneration 2	3
+DOID:4448	macular degeneration	DOID:0110017	age related macular degeneration 4	3
+DOID:4448	macular degeneration	DOID:0110018	age related macular degeneration 6	3
+DOID:4448	macular degeneration	DOID:0110019	age related macular degeneration 7	3
+DOID:4448	macular degeneration	DOID:0110020	age related macular degeneration 8	3
+DOID:4448	macular degeneration	DOID:0110021	age related macular degeneration 9	3
+DOID:4448	macular degeneration	DOID:0110022	age related macular degeneration 10	3
+DOID:4448	macular degeneration	DOID:0110023	age related macular degeneration 11	3
+DOID:4448	macular degeneration	DOID:0110024	age related macular degeneration 12	3
+DOID:4448	macular degeneration	DOID:0110025	age related macular degeneration 13	3
+DOID:4448	macular degeneration	DOID:0110026	age related macular degeneration 14	3
+DOID:4448	macular degeneration	DOID:0110027	age related macular degeneration 15	3
+DOID:4448	macular degeneration	DOID:0110028	age related macular degeneration 5	3
+DOID:4448	macular degeneration	DOID:10871	age related macular degeneration	2
+DOID:4448	macular degeneration	DOID:10873	Kuhnt-Junius degeneration	2
+DOID:4448	macular degeneration	DOID:13214	hole retinal cyst	2
+DOID:4448	macular degeneration	DOID:14245	cystoid macular retinal degeneration	2
+DOID:4448	macular degeneration	DOID:2006	preretinal fibrosis	2
+DOID:4448	macular degeneration	DOID:2007	degeneration of macula and posterior pole	1
+DOID:4448	macular degeneration	DOID:2569	retinal drusen	2
+DOID:4448	macular degeneration	DOID:4448	macular degeneration	0
+DOID:4448	macular degeneration	DOID:9867	toxic maculopathy	2
+DOID:446	hyperaldosteronism	DOID:14080	glucocorticoid-remediable aldosteronism	1
+DOID:446	hyperaldosteronism	DOID:446	hyperaldosteronism	0
 DOID:4481	allergic rhinitis	DOID:4481	allergic rhinitis	0
+DOID:4534	Hallermann-Streiff syndrome	DOID:4534	Hallermann-Streiff syndrome	0
+DOID:4535	hypotrichosis	DOID:0050634	alopecia universalis	2
+DOID:4535	hypotrichosis	DOID:0050801	androgenic alopecia	2
+DOID:4535	hypotrichosis	DOID:0060689	atrichia with papular lesions	2
+DOID:4535	hypotrichosis	DOID:0110698	hypotrichosis 1	1
+DOID:4535	hypotrichosis	DOID:0110699	hypotrichosis 2	1
+DOID:4535	hypotrichosis	DOID:0110700	hypotrichosis 3	1
+DOID:4535	hypotrichosis	DOID:0110701	hypotrichosis 4	1
+DOID:4535	hypotrichosis	DOID:0110702	hypotrichosis 5	1
+DOID:4535	hypotrichosis	DOID:0110703	hypotrichosis 6	1
+DOID:4535	hypotrichosis	DOID:0110704	hypotrichosis 7	1
+DOID:4535	hypotrichosis	DOID:0110705	hypotrichosis 8	1
+DOID:4535	hypotrichosis	DOID:0110706	hypotrichosis 9	1
+DOID:4535	hypotrichosis	DOID:0110707	hypotrichosis 10	1
+DOID:4535	hypotrichosis	DOID:0110708	hypotrichosis 11	1
+DOID:4535	hypotrichosis	DOID:0110709	hypotrichosis 12	1
+DOID:4535	hypotrichosis	DOID:0110710	hypotrichosis 13	1
+DOID:4535	hypotrichosis	DOID:0110711	congenital hypotrichosis with juvenile macular dystrophy	1
+DOID:4535	hypotrichosis	DOID:11671	hypotrichosis of eyelid	1
+DOID:4535	hypotrichosis	DOID:1943	telogen effluvium	2
+DOID:4535	hypotrichosis	DOID:4535	hypotrichosis	0
+DOID:4535	hypotrichosis	DOID:987	alopecia	1
 DOID:4606	bile duct cancer	DOID:3253	embryonal extrahepatic bile duct rhabdomyosarcoma	3
 DOID:4606	bile duct cancer	DOID:3254	bile duct rhabdomyosarcoma	2
 DOID:4606	bile duct cancer	DOID:3494	bile duct signet ring cell carcinoma	2
@@ -1840,9 +3185,26 @@ DOID:4606	bile duct cancer	DOID:7032	bile duct clear cell adenocarcinoma	3
 DOID:4606	bile duct cancer	DOID:7642	cholangiolocellular carcinoma	5
 DOID:4606	bile duct cancer	DOID:7733	signet ring cell intrahepatic cholangiocarcinoma	5
 DOID:4606	bile duct cancer	DOID:8072	sarcomatous intrahepatic cholangiocarcinoma	5
+DOID:4621	holoprosencephaly	DOID:0110872	holoprosencephaly 2	1
+DOID:4621	holoprosencephaly	DOID:0110873	holoprosencephaly 9	1
+DOID:4621	holoprosencephaly	DOID:0110874	holoprosencephaly 6	1
+DOID:4621	holoprosencephaly	DOID:0110875	holoprosencephaly 3	1
+DOID:4621	holoprosencephaly	DOID:0110876	holoprosencephaly 7	1
+DOID:4621	holoprosencephaly	DOID:0110877	holoprosencephaly 11	1
+DOID:4621	holoprosencephaly	DOID:0110878	holoprosencephaly 5	1
+DOID:4621	holoprosencephaly	DOID:0110879	holoprosencephaly 8	1
+DOID:4621	holoprosencephaly	DOID:0110880	holoprosencephaly 4	1
+DOID:4621	holoprosencephaly	DOID:0110881	holoprosencephaly 1	1
+DOID:4621	holoprosencephaly	DOID:4621	holoprosencephaly	0
+DOID:4624	Ollier disease	DOID:4624	Ollier disease	0
+DOID:4890	juvenile myoclonic epilepsy	DOID:4890	juvenile myoclonic epilepsy	0
+DOID:4969	Gerstmann syndrome	DOID:4969	Gerstmann syndrome	0
 DOID:4989	pancreatitis	DOID:2913	acute pancreatitis	1
 DOID:4989	pancreatitis	DOID:4988	alcoholic pancreatitis	1
 DOID:4989	pancreatitis	DOID:4989	pancreatitis	0
+DOID:4990	essential tremor	DOID:4990	essential tremor	0
+DOID:5015	fibrolamellar carcinoma	DOID:0080182	mixed fibrolamellar hepatocellular carcinoma	1
+DOID:5015	fibrolamellar carcinoma	DOID:5015	fibrolamellar carcinoma	0
 DOID:5041	esophageal cancer	DOID:1106	esophagus lymphoma	1
 DOID:5041	esophageal cancer	DOID:1107	esophageal carcinoma	1
 DOID:5041	esophageal cancer	DOID:1108	esophagus melanoma	1
@@ -1865,9 +3227,40 @@ DOID:5099	middle ear cancer	DOID:4892	middle ear adenocarcinoma	2
 DOID:5099	middle ear cancer	DOID:4893	middle ear carcinoma	1
 DOID:5099	middle ear cancer	DOID:5099	middle ear cancer	0
 DOID:5099	middle ear cancer	DOID:5526	middle ear squamous cell carcinoma	2
+DOID:5212	congenital disorder of glycosylation	DOID:0050570	congenital disorder of glycosylation type I	1
+DOID:5212	congenital disorder of glycosylation	DOID:0050571	congenital disorder of glycosylation type II	1
+DOID:5212	congenital disorder of glycosylation	DOID:5212	congenital disorder of glycosylation	0
 DOID:5408	Paget's disease of bone	DOID:5408	Paget's disease of bone	0
 DOID:5419	schizophrenia	DOID:1229	paranoid schizophrenia	1
 DOID:5419	schizophrenia	DOID:5419	schizophrenia	0
+DOID:5426	premature ovarian failure	DOID:5426	premature ovarian failure	0
+DOID:5557	testicular germ cell cancer	DOID:4086	testicular germ cell tumor non-seminomatous	1
+DOID:5557	testicular germ cell cancer	DOID:4087	testicular pure germ cell tumor	1
+DOID:5557	testicular germ cell cancer	DOID:4743	mixed testicular germ cell tumor	2
+DOID:5557	testicular germ cell cancer	DOID:5344	testicular yolk sac tumor	3
+DOID:5557	testicular germ cell cancer	DOID:5345	testicular non-seminomatous germ cell cancer	2
+DOID:5557	testicular germ cell cancer	DOID:5556	testicular malignant germ cell cancer	1
+DOID:5557	testicular germ cell cancer	DOID:5557	testicular germ cell cancer	0
+DOID:5557	testicular germ cell cancer	DOID:5842	testis seminoma	2
+DOID:5557	testicular germ cell cancer	DOID:6082	pediatric testicular germ cell tumor	1
+DOID:5557	testicular germ cell cancer	DOID:6161	childhood testicular mixed germ cell tumor	3
+DOID:5557	testicular germ cell cancer	DOID:6474	childhood teratocarcinoma of the testis	4
+DOID:5557	testicular germ cell cancer	DOID:6706	tubular variant testicular seminoma	3
+DOID:5557	testicular germ cell cancer	DOID:7097	macrocystic pattern testicular yolk sac tumor	4
+DOID:5557	testicular germ cell cancer	DOID:7269	cribriform variant testicular seminoma	3
+DOID:5557	testicular germ cell cancer	DOID:7302	endodermal sinus pattern testicular yolk sac tumor	4
+DOID:5557	testicular germ cell cancer	DOID:7360	solid pattern testicular yolk sac tumor	4
+DOID:5557	testicular germ cell cancer	DOID:7435	polyvesicular vitelline pattern testicular yolk sac tumor	4
+DOID:5557	testicular germ cell cancer	DOID:7891	testicular spermatocytic seminoma	3
+DOID:5557	testicular germ cell cancer	DOID:7928	testis refractory cancer	2
+DOID:5557	testicular germ cell cancer	DOID:7930	glandular-alveolar pattern testicular yolk sac tumor	4
+DOID:5557	testicular germ cell cancer	DOID:8042	testis polyembryoma	2
+DOID:5557	testicular germ cell cancer	DOID:8081	myxomatous pattern testicular yolk sac tumor	4
+DOID:5557	testicular germ cell cancer	DOID:8193	papillary pattern testicular yolk sac tumor	4
+DOID:5557	testicular germ cell cancer	DOID:8195	hepatoid pattern testicular yolk sac tumor	4
+DOID:5557	testicular germ cell cancer	DOID:8358	pseudoglandular variant testicular seminoma	3
+DOID:5557	testicular germ cell cancer	DOID:8362	enteric pattern testicular yolk sac tumor	4
+DOID:5557	testicular germ cell cancer	DOID:8392	reticular pattern testicular yolk sac tumor	4
 DOID:5559	mediastinal cancer	DOID:10660	mediastinum neuroblastoma	2
 DOID:5559	mediastinal cancer	DOID:10661	mediastinum ganglioneuroblastoma	2
 DOID:5559	mediastinal cancer	DOID:12064	mediastinum neurofibroma	2
@@ -1892,9 +3285,9 @@ DOID:5559	mediastinal cancer	DOID:6484	mediastinal melanocytic neurilemmoma	3
 DOID:5559	mediastinal cancer	DOID:6867	mediastinal gray zone lymphoma	2
 DOID:5559	mediastinal cancer	DOID:6868	mediastinal malignant lymphoma	1
 DOID:5559	mediastinal cancer	DOID:7077	malignant melanocytic peripheral nerve sheath tumor of mediastinum	1
+DOID:5572	Beckwith-Wiedemann syndrome	DOID:5572	Beckwith-Wiedemann syndrome	0
 DOID:5612	spinal cancer	DOID:1138	spinal meningioma	2
 DOID:5612	spinal cancer	DOID:1140	spinal canal and spinal cord meningioma	1
-DOID:5612	spinal cancer	DOID:13743	spinal cord lipoma	1
 DOID:5612	spinal cancer	DOID:14150	spinal cord lymphoma	1
 DOID:5612	spinal cancer	DOID:14151	spinal cord melanoma	1
 DOID:5612	spinal cancer	DOID:14152	spinal cord sarcoma	1
@@ -1924,6 +3317,12 @@ DOID:5612	spinal cancer	DOID:7806	adult spinal cord glioblastoma multiforme	2
 DOID:5612	spinal cancer	DOID:7824	spinal multifocal clear cell meningioma	2
 DOID:5612	spinal cancer	DOID:7915	cervical spinal canal and spinal cord meningioma	2
 DOID:5612	spinal cancer	DOID:8203	sacral spinal canal and spinal cord meningioma	2
+DOID:5677	extragonadal nonseminomatous germ cell tumor	DOID:5677	extragonadal nonseminomatous germ cell tumor	0
+DOID:5688	Werner syndrome	DOID:5688	Werner syndrome	0
+DOID:5723	optic atrophy	DOID:10337	glaucomatous atrophy of optic disc	1
+DOID:5723	optic atrophy	DOID:10627	primary optic atrophy	1
+DOID:5723	optic atrophy	DOID:10631	partial optic atrophy	1
+DOID:5723	optic atrophy	DOID:5723	optic atrophy	0
 DOID:585	nephrolithiasis	DOID:585	nephrolithiasis	0
 DOID:5875	retroperitoneal cancer	DOID:0050937	retroperitoneal neuroblastoma	1
 DOID:5875	retroperitoneal cancer	DOID:12339	retroperitoneal lymphoma	1
@@ -1933,17 +3332,79 @@ DOID:5875	retroperitoneal cancer	DOID:5284	retroperitoneal leiomyosarcoma	2
 DOID:5875	retroperitoneal cancer	DOID:5874	retroperitoneal germ cell neoplasm	1
 DOID:5875	retroperitoneal cancer	DOID:5875	retroperitoneal cancer	0
 DOID:594	panic disorder	DOID:594	panic disorder	0
+DOID:6039	uveal melanoma	DOID:6039	uveal melanoma	0
+DOID:6039	uveal melanoma	DOID:6522	mixed cell uveal melanoma	1
+DOID:6039	uveal melanoma	DOID:6523	ciliary body mixed cell melanoma	2
+DOID:6039	uveal melanoma	DOID:6566	posterior uveal melanoma	1
+DOID:6039	uveal melanoma	DOID:7040	uveal epithelioid cell melanoma	1
+DOID:6039	uveal melanoma	DOID:7042	ciliary body epithelioid cell melanoma	2
+DOID:6039	uveal melanoma	DOID:7807	choroid necrotic melanoma	2
+DOID:6039	uveal melanoma	DOID:7808	necrotic uveal melanoma	1
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060006	artemis deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060007	CD3zeta deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060008	janus kinase-3 deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060009	MHC class I deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060010	Omenn syndrome	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060011	recombinase activating gene 1 deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060012	recombinase activating gene 2 deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060013	gamma chain deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060014	CD45 deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060015	interleukin-7 receptor alpha deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060016	CD3delta deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060017	CD3epsilon deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060018	CD3gamma deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060019	coronin-1A deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060020	reticular dysgenesis	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060021	DNA ligase IV deficiency	1
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060022	CD40 ligand deficiency	1
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060023	CD40 deficiency	1
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0060769	T-cell immunodeficiency, congenital alopecia, and nail dystrophy	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0090012	severe combined immunodeficiency with sensitivity to ionizing radiation	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0090013	severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, Nk cell-positive	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:0090014	severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, Nk cell-positive	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:5810	adenosine deaminase deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:5812	MHC class II deficiency	2
+DOID:628	combined T cell and B cell immunodeficiency	DOID:5813	purine nucleoside phosphorylase deficiency	1
+DOID:628	combined T cell and B cell immunodeficiency	DOID:627	severe combined immunodeficiency	1
+DOID:628	combined T cell and B cell immunodeficiency	DOID:628	combined T cell and B cell immunodeficiency	0
 DOID:635	acquired immunodeficiency syndrome	DOID:635	acquired immunodeficiency syndrome	0
 DOID:6364	migraine	DOID:0060178	familial hemiplegic migraine	2
 DOID:6364	migraine	DOID:10024	migraine with aura	1
 DOID:6364	migraine	DOID:12783	migraine without aura	1
 DOID:6364	migraine	DOID:6364	migraine	0
+DOID:6457	Cowden disease	DOID:6457	Cowden disease	0
+DOID:6676	Froelich syndrome	DOID:6676	Froelich syndrome	0
+DOID:6688	autoimmune lymphoproliferative syndrome	DOID:0110115	autoimmune lymphoproliferative syndrome type 2A	1
+DOID:6688	autoimmune lymphoproliferative syndrome	DOID:0110116	autoimmune lymphoproliferative syndrome type 2B	1
+DOID:6688	autoimmune lymphoproliferative syndrome	DOID:0110117	autoimmune lymphoproliferative syndrome type 4	1
+DOID:6688	autoimmune lymphoproliferative syndrome	DOID:0110119	autoimmune lymphoproliferative syndrome type 3	1
+DOID:6688	autoimmune lymphoproliferative syndrome	DOID:6688	autoimmune lymphoproliferative syndrome	0
+DOID:6691	Aagenaes syndrome	DOID:6691	Aagenaes syndrome	0
+DOID:674	cleft palate	DOID:0060613	X-linked cleft palate with or without ankyloglossia	1
+DOID:674	cleft palate	DOID:0110213	isolated cleft palate	1
+DOID:674	cleft palate	DOID:0110214	cleft soft palate	1
+DOID:674	cleft palate	DOID:674	cleft palate	0
+DOID:676	juvenile rheumatoid arthritis	DOID:676	juvenile rheumatoid arthritis	0
+DOID:678	progressive supranuclear palsy	DOID:678	progressive supranuclear palsy	0
+DOID:701	dentin dysplasia	DOID:701	dentin dysplasia	0
 DOID:7147	ankylosing spondylitis	DOID:7147	ankylosing spondylitis	0
 DOID:7148	rheumatoid arthritis	DOID:676	juvenile rheumatoid arthritis	1
 DOID:7148	rheumatoid arthritis	DOID:7148	rheumatoid arthritis	0
+DOID:769	neuroblastoma	DOID:0050935	cervical neuroblastoma	2
+DOID:769	neuroblastoma	DOID:371	extracranial neuroblastoma	1
+DOID:769	neuroblastoma	DOID:4160	differentiating neuroblastoma	1
+DOID:769	neuroblastoma	DOID:4163	ganglioneuroblastoma	1
+DOID:769	neuroblastoma	DOID:5193	nodular ganglioneuroblastoma	2
+DOID:769	neuroblastoma	DOID:5194	intermixed schwannian stroma-rich ganglioneuroblastoma	2
+DOID:769	neuroblastoma	DOID:5195	peripheral nervous system ganglioneuroblastoma	2
+DOID:769	neuroblastoma	DOID:769	neuroblastoma	0
+DOID:769	neuroblastoma	DOID:7949	stroma-dominant and stroma-poor composite ganglioneuroblastoma	3
+DOID:769	neuroblastoma	DOID:7951	Schwannian stroma-rich and stroma-poor composite ganglioneuroblastoma	3
 DOID:7693	abdominal aortic aneurysm	DOID:7693	abdominal aortic aneurysm	0
-DOID:784	chronic kidney failure	DOID:783	end stage renal failure	1
-DOID:784	chronic kidney failure	DOID:784	chronic kidney failure	0
+DOID:784	chronic kidney disease	DOID:783	end stage renal failure	1
+DOID:784	chronic kidney disease	DOID:784	chronic kidney disease	0
+DOID:8043	chest wall parachordoma	DOID:8043	chest wall parachordoma	0
+DOID:8158	complement component 5 deficiency	DOID:8158	complement component 5 deficiency	0
 DOID:824	periodontitis	DOID:10423	acute pericementitis	1
 DOID:824	periodontitis	DOID:11269	chronic apical periodontitis	2
 DOID:824	periodontitis	DOID:11693	acute apical periodontitis	2
@@ -1952,8 +3413,20 @@ DOID:824	periodontitis	DOID:2562	suppurative periapical periodontitis	2
 DOID:824	periodontitis	DOID:4617	periapical granuloma	2
 DOID:824	periodontitis	DOID:823	periapical periodontitis	1
 DOID:824	periodontitis	DOID:824	periodontitis	0
+DOID:8354	complement component 3 deficiency	DOID:8354	complement component 3 deficiency	0
+DOID:8368	chordoid meningioma	DOID:8368	chordoid meningioma	0
 DOID:8398	osteoarthritis	DOID:8398	osteoarthritis	0
+DOID:8461	Aicardi syndrome	DOID:8461	Aicardi syndrome	0
+DOID:8545	malignant hyperthermia	DOID:8545	malignant hyperthermia	0
+DOID:8567	Hodgkin's lymphoma	DOID:8543	Hodgkin's lymphoma, lymphocytic-histiocytic predominance	1
+DOID:8567	Hodgkin's lymphoma	DOID:8567	Hodgkin's lymphoma	0
+DOID:8567	Hodgkin's lymphoma	DOID:8628	Hodgkin's lymphoma, lymphocytic depletion	1
+DOID:8567	Hodgkin's lymphoma	DOID:8642	Hodgkin's paragranuloma	1
+DOID:8567	Hodgkin's lymphoma	DOID:8651	Hodgkin's granuloma	1
+DOID:8567	Hodgkin's lymphoma	DOID:8654	Hodgkin's lymphoma, mixed cellularity	1
+DOID:8567	Hodgkin's lymphoma	DOID:8838	Hodgkin's lymphoma, nodular sclerosis	1
 DOID:8577	ulcerative colitis	DOID:8577	ulcerative colitis	0
+DOID:8712	neurofibromatosis	DOID:8712	neurofibromatosis	0
 DOID:8778	Crohn's disease	DOID:0060188	jejunoileitis	1
 DOID:8778	Crohn's disease	DOID:0060189	ileitis	1
 DOID:8778	Crohn's disease	DOID:0060190	ileocolitis	1
@@ -1971,20 +3444,88 @@ DOID:8850	salivary gland cancer	DOID:8849	sublingual gland cancer	1
 DOID:8850	salivary gland cancer	DOID:8850	salivary gland cancer	0
 DOID:8850	salivary gland cancer	DOID:9036	parotid gland cancer	1
 DOID:8850	salivary gland cancer	DOID:9173	submandibular gland cancer	1
+DOID:8869	neuromyelitis optica	DOID:8869	neuromyelitis optica	0
 DOID:8893	psoriasis	DOID:8892	pityriasis rosea	1
 DOID:8893	psoriasis	DOID:8893	psoriasis	0
 DOID:8893	psoriasis	DOID:9088	parapsoriasis	1
 DOID:8893	psoriasis	DOID:9212	pityriasis rubra pilaris	1
+DOID:898	autosomal dominant polycystic kidney disease	DOID:0110858	polycystic kidney disease 1	1
+DOID:898	autosomal dominant polycystic kidney disease	DOID:0110859	polycystic kidney disease 2	1
+DOID:898	autosomal dominant polycystic kidney disease	DOID:0110860	polycystic kidney disease 3	1
+DOID:898	autosomal dominant polycystic kidney disease	DOID:898	autosomal dominant polycystic kidney disease	0
 DOID:8986	narcolepsy	DOID:8986	narcolepsy	0
 DOID:90	degenerative disc disease	DOID:90	degenerative disc disease	0
 DOID:9008	psoriatic arthritis	DOID:9008	psoriatic arthritis	0
+DOID:905	Zellweger syndrome	DOID:905	Zellweger syndrome	0
 DOID:9074	systemic lupus erythematosus	DOID:9074	systemic lupus erythematosus	0
+DOID:9146	visceral leishmaniasis	DOID:9146	visceral leishmaniasis	0
 DOID:9206	Barrett's esophagus	DOID:9206	Barrett's esophagus	0
+DOID:9246	cerebral amyloid angiopathy	DOID:9246	cerebral amyloid angiopathy	0
+DOID:9255	frontotemporal dementia	DOID:0060672	Grn-related frontotemporal lobar degeneration with Tdp43 inclusions	1
+DOID:9255	frontotemporal dementia	DOID:9255	frontotemporal dementia	0
+DOID:9258	Waardenburg's syndrome	DOID:0110947	Waardenburg syndrome type 2B	1
+DOID:9258	Waardenburg's syndrome	DOID:0110948	Waardenburg syndrome type 1	1
+DOID:9258	Waardenburg's syndrome	DOID:0110949	Waardenburg syndrome type 3	1
+DOID:9258	Waardenburg's syndrome	DOID:0110950	Waardenburg syndrome type 2A	1
+DOID:9258	Waardenburg's syndrome	DOID:0110951	Waardenburg syndrome type 2C	1
+DOID:9258	Waardenburg's syndrome	DOID:0110952	Waardenburg syndrome type 2D	1
+DOID:9258	Waardenburg's syndrome	DOID:0110953	Waardenburg syndrome type 4A	1
+DOID:9258	Waardenburg's syndrome	DOID:0110954	Waardenburg syndrome type 4B	1
+DOID:9258	Waardenburg's syndrome	DOID:0110955	Waardenburg syndrome type 4C	1
+DOID:9258	Waardenburg's syndrome	DOID:0110956	Waardenburg syndrome type 2E	1
+DOID:9258	Waardenburg's syndrome	DOID:9258	Waardenburg's syndrome	0
+DOID:9261	nasopharynx carcinoma	DOID:9261	nasopharynx carcinoma	0
+DOID:9263	homocystinuria	DOID:9263	homocystinuria	0
+DOID:9269	maple syrup urine disease	DOID:9269	maple syrup urine disease	0
+DOID:9270	alkaptonuria	DOID:9270	alkaptonuria	0
+DOID:9273	citrullinemia	DOID:9273	citrullinemia	0
+DOID:9274	hyperlysinemia	DOID:9274	hyperlysinemia	0
 DOID:9296	cleft lip	DOID:9296	cleft lip	0
 DOID:9352	type 2 diabetes mellitus	DOID:10182	diabetic peripheral angiopathy	1
 DOID:9352	type 2 diabetes mellitus	DOID:11712	lipoatrophic diabetes	1
 DOID:9352	type 2 diabetes mellitus	DOID:1837	diabetic ketoacidosis	1
 DOID:9352	type 2 diabetes mellitus	DOID:9352	type 2 diabetes mellitus	0
+DOID:9406	hypopituitarism	DOID:0060870	isolated growth hormone deficiency	1
+DOID:9406	hypopituitarism	DOID:0060872	isolated growth hormone deficiency type II	2
+DOID:9406	hypopituitarism	DOID:0060873	isolated growth hormone deficiency type IA	2
+DOID:9406	hypopituitarism	DOID:0060874	isolated growth hormone deficiency type IB	2
+DOID:9406	hypopituitarism	DOID:0060875	isolated growth hormone deficiency type III	2
+DOID:9406	hypopituitarism	DOID:0080150	adrenocorticotropic hormone deficiency	1
+DOID:9406	hypopituitarism	DOID:9406	hypopituitarism	0
+DOID:9406	hypopituitarism	DOID:9410	panhypopituitarism	1
+DOID:9406	hypopituitarism	DOID:9476	Sheehan syndrome	1
+DOID:9563	bronchiectasis	DOID:9563	bronchiectasis	0
+DOID:9620	vesicoureteral reflux	DOID:9620	vesicoureteral reflux	0
+DOID:963	episodic ataxia	DOID:0050989	episodic ataxia type 1	1
+DOID:963	episodic ataxia	DOID:0050990	episodic ataxia type 2	1
+DOID:963	episodic ataxia	DOID:0050991	episodic ataxia type 3	1
+DOID:963	episodic ataxia	DOID:0050992	episodic ataxia type 4	1
+DOID:963	episodic ataxia	DOID:0050993	episodic ataxia type 5	1
+DOID:963	episodic ataxia	DOID:0050994	episodic ataxia type 6	1
+DOID:963	episodic ataxia	DOID:0050995	episodic ataxia type 7	1
+DOID:963	episodic ataxia	DOID:0050996	episodic ataxia type 8	1
+DOID:963	episodic ataxia	DOID:963	episodic ataxia	0
+DOID:9649	congenital nystagmus	DOID:9649	congenital nystagmus	0
+DOID:9744	type 1 diabetes mellitus	DOID:0110741	type 1 diabetes mellitus 2	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110742	type 1 diabetes mellitus 3	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110743	type 1 diabetes mellitus 4	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110744	type 1 diabetes mellitus 5	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110745	type 1 diabetes mellitus 6	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110746	type 1 diabetes mellitus 7	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110747	type 1 diabetes mellitus 8	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110749	type 1 diabetes mellitus 10	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110750	type 1 diabetes mellitus 11	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110751	type 1 diabetes mellitus 12	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110752	type 1 diabetes mellitus 13	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110753	type 1 diabetes mellitus 15	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110754	type 1 diabetes mellitus 17	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110755	type 1 diabetes mellitus 18	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110756	type 1 diabetes mellitus 19	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110757	type 1 diabetes mellitus 20	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110758	type 1 diabetes mellitus 21	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110759	type 1 diabetes mellitus 22	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110760	type 1 diabetes mellitus 23	1
+DOID:9744	type 1 diabetes mellitus	DOID:0110761	type 1 diabetes mellitus 24	1
 DOID:9744	type 1 diabetes mellitus	DOID:9744	type 1 diabetes mellitus	0
 DOID:9835	refractive error	DOID:0050304	aniseikonia	1
 DOID:9835	refractive error	DOID:10235	Brown's tendon sheath syndrome	4
@@ -2023,5 +3564,15 @@ DOID:9835	refractive error	DOID:9843	monofixation syndrome	3
 DOID:9835	refractive error	DOID:9888	alternating esotropia	4
 DOID:986	alopecia areata	DOID:0060157	diffuse alopecia areata	1
 DOID:986	alopecia areata	DOID:986	alopecia areata	0
+DOID:9952	acute lymphocytic leukemia	DOID:0060592	B-cell adult acute lymphocytic leukemia	2
+DOID:9952	acute lymphocytic leukemia	DOID:0080144	childhood acute lymphocytic leukemia	1
+DOID:9952	acute lymphocytic leukemia	DOID:0080145	T-cell childhood acute lymphocytic leukemia	2
+DOID:9952	acute lymphocytic leukemia	DOID:0080146	B-cell childhood acute lymphoblastic leukemia	2
+DOID:9952	acute lymphocytic leukemia	DOID:5602	T-cell adult acute lymphocytic leukemia	2
+DOID:9952	acute lymphocytic leukemia	DOID:5604	adult acute lymphocytic leukemia	1
+DOID:9952	acute lymphocytic leukemia	DOID:9952	acute lymphocytic leukemia	0
+DOID:9952	acute lymphocytic leukemia	DOID:9953	B- and T-cell mixed leukemia	1
+DOID:9952	acute lymphocytic leukemia	DOID:9954	null-cell leukemia	1
+DOID:9955	hypoplastic left heart syndrome	DOID:9955	hypoplastic left heart syndrome	0
 DOID:9970	obesity	DOID:11981	morbid obesity	1
 DOID:9970	obesity	DOID:9970	obesity	0

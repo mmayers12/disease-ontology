@@ -1,0 +1,605 @@
+doid	name	pathophysiology	source
+DOID:2531	hematologic cancer	neoplastic	DOcancerslim
+DOID:1319	brain cancer	neoplastic	DOcancerslim
+DOID:1324	lung cancer	neoplastic	DOcancerslim
+DOID:263	kidney cancer	neoplastic	DOcancerslim
+DOID:1793	pancreatic cancer	neoplastic	DOcancerslim
+DOID:4159	skin cancer	neoplastic	DOcancerslim
+DOID:184	bone cancer	neoplastic	DOcancerslim
+DOID:0060119	pharynx cancer	neoplastic	DOcancerslim
+DOID:2394	ovarian cancer	neoplastic	DOcancerslim
+DOID:1612	breast cancer	neoplastic	DOcancerslim
+DOID:3070	malignant glioma	neoplastic	DOcancerslim
+DOID:363	uterine cancer	neoplastic	DOcancerslim
+DOID:3953	adrenal gland cancer	neoplastic	DOcancerslim
+DOID:5041	esophageal cancer	neoplastic	DOcancerslim
+DOID:8850	salivary gland cancer	neoplastic	DOcancerslim
+DOID:10283	prostate cancer	neoplastic	DOcancerslim
+DOID:10534	stomach cancer	neoplastic	DOcancerslim
+DOID:11054	urinary bladder cancer	neoplastic	DOcancerslim
+DOID:1192	peripheral nervous system neoplasm	neoplastic	DOcancerslim
+DOID:1781	thyroid cancer	neoplastic	DOcancerslim
+DOID:3571	liver cancer	neoplastic	DOcancerslim
+DOID:4362	cervical cancer	neoplastic	DOcancerslim
+DOID:119	vaginal cancer	neoplastic	DOcancerslim
+DOID:11934	head and neck cancer	neoplastic	DOcancerslim
+DOID:1993	rectum cancer	neoplastic	DOcancerslim
+DOID:2174	ocular cancer	neoplastic	DOcancerslim
+DOID:219	colon cancer	neoplastic	DOcancerslim
+DOID:2596	larynx cancer	neoplastic	DOcancerslim
+DOID:2994	germ cell cancer	neoplastic	DOcancerslim
+DOID:3277	thymus cancer	neoplastic	DOcancerslim
+DOID:4045	muscle cancer	neoplastic	DOcancerslim
+DOID:0060073	lymphatic system cancer	neoplastic	DOcancerslim
+DOID:10021	duodenum cancer	neoplastic	DOcancerslim
+DOID:10153	ileum cancer	neoplastic	DOcancerslim
+DOID:10811	nasal cavity cancer	neoplastic	DOcancerslim
+DOID:1115	sarcoma	neoplastic	DOcancerslim
+DOID:11239	appendix cancer	neoplastic	DOcancerslim
+DOID:11615	penile cancer	neoplastic	DOcancerslim
+DOID:11819	ureter cancer	neoplastic	DOcancerslim
+DOID:11920	tracheal cancer	neoplastic	DOcancerslim
+DOID:1245	vulva cancer	neoplastic	DOcancerslim
+DOID:13499	jejunal cancer	neoplastic	DOcancerslim
+DOID:1725	peritoneum cancer	neoplastic	DOcancerslim
+DOID:175	vascular cancer	neoplastic	DOcancerslim
+DOID:1790	malignant mesothelioma	neoplastic	DOcancerslim
+DOID:1909	melanoma	neoplastic	DOcancerslim
+DOID:1964	fallopian tube cancer	neoplastic	DOcancerslim
+DOID:2998	testicular cancer	neoplastic	DOcancerslim
+DOID:3121	gallbladder cancer	neoplastic	DOcancerslim
+DOID:3565	meningioma	neoplastic	DOcancerslim
+DOID:4606	bile duct cancer	neoplastic	DOcancerslim
+DOID:5099	middle ear cancer	neoplastic	DOcancerslim
+DOID:5559	mediastinal cancer	neoplastic	DOcancerslim
+DOID:5612	spinal cancer	neoplastic	DOcancerslim
+DOID:5875	retroperitoneal cancer	neoplastic	DOcancerslim
+DOID:9917	pleural cancer	neoplastic	DOcancerslim
+DOID:8778	Crohn's disease	immunologic	hetio
+DOID:2377	multiple sclerosis	immunologic	hetio
+DOID:9352	type 2 diabetes mellitus	metabolic	hetio
+DOID:8577	ulcerative colitis	immunologic	hetio
+DOID:9744	type 1 diabetes mellitus	immunologic	hetio
+DOID:7148	rheumatoid arthritis	immunologic	hetio
+DOID:3393	coronary artery disease	metabolic	hetio
+DOID:9970	obesity	metabolic	hetio
+DOID:10608	celiac disease	immunologic	hetio
+DOID:9074	systemic lupus erythematosus	immunologic	hetio
+DOID:9835	refractive error	degenerative	hetio
+DOID:12236	primary biliary cirrhosis	immunologic	hetio
+DOID:12306	vitiligo	immunologic	hetio
+DOID:10871	age related macular degeneration	degenerative	hetio
+DOID:14221	metabolic syndrome X	metabolic	hetio
+DOID:2841	asthma	immunologic	hetio
+DOID:8893	psoriasis	immunologic	hetio
+DOID:5419	schizophrenia	psychiatric	hetio
+DOID:6364	migraine	unspecific	hetio
+DOID:10652	Alzheimer's disease	degenerative	hetio
+DOID:12361	Graves' disease	immunologic	hetio
+DOID:14330	Parkinson's disease	degenerative	hetio
+DOID:3310	atopic dermatitis	immunologic	hetio
+DOID:3312	bipolar disorder	psychiatric	hetio
+DOID:7147	ankylosing spondylitis	immunologic	hetio
+DOID:11612	polycystic ovary syndrome	metabolic	hetio
+DOID:10763	hypertension	idiopathic	hetio
+DOID:418	systemic scleroderma	immunologic	hetio
+DOID:13241	Behcet's disease	immunologic	hetio
+DOID:5408	Paget's disease of bone	immunologic	hetio
+DOID:1024	leprosy	infectious	hetio
+DOID:10941	intracranial aneurysm	unspecific	hetio
+DOID:1686	glaucoma	degenerative	hetio
+DOID:332	amyotrophic lateral sclerosis	degenerative	hetio
+DOID:0050425	restless legs syndrome	unspecific	hetio
+DOID:13378	Kawasaki disease	immunologic	hetio
+DOID:1936	atherosclerosis	metabolic	hetio
+DOID:986	alopecia areata	immunologic	hetio
+DOID:11476	osteoporosis	metabolic	hetio
+DOID:1459	hypothyroidism	immunologic	hetio
+DOID:2986	IgA glomerulonephritis	immunologic	hetio
+DOID:0050741	alcohol dependence	psychiatric	hetio
+DOID:11949	Creutzfeldt-Jakob disease	idiopathic	hetio
+DOID:14227	azoospermia	unspecific	hetio
+DOID:1826	epilepsy syndrome	unspecific	hetio
+DOID:2043	hepatitis B	infectious	hetio
+DOID:3083	chronic obstructive pulmonary disease	toxic	hetio
+DOID:7693	abdominal aortic aneurysm	unspecific	hetio
+DOID:784	chronic kidney failure	unspecific	hetio
+DOID:8398	osteoarthritis	degenerative	hetio
+DOID:9008	psoriatic arthritis	immunologic	hetio
+DOID:0050742	nicotine dependence	psychiatric	hetio
+DOID:10976	membranous glomerulonephritis	immunologic	hetio
+DOID:11714	gestational diabetes	metabolic	hetio
+DOID:12365	malaria	infectious	hetio
+DOID:12849	autistic disorder	idiopathic	hetio
+DOID:12930	dilated cardiomyopathy	unspecific	hetio
+DOID:13189	gout	metabolic	hetio
+DOID:13223	uterine fibroid	neoplastic	hetio
+DOID:14268	sclerosing cholangitis	immunologic	hetio
+DOID:8986	narcolepsy	unspecific	hetio
+DOID:90	degenerative disc disease	degenerative	hetio
+DOID:9296	cleft lip	congenital	hetio
+DOID:0050156	idiopathic pulmonary fibrosis	degenerative	hetio
+DOID:1094	attention deficit hyperactivity disorder	psychiatric	hetio
+DOID:11119	Gilles de la Tourette syndrome	psychiatric	hetio
+DOID:14004	thoracic aortic aneurysm	unspecific	hetio
+DOID:1595	endogenous depression	psychiatric	hetio
+DOID:4481	allergic rhinitis	immunologic	hetio
+DOID:4989	pancreatitis	unspecific	hetio
+DOID:585	nephrolithiasis	metabolic	hetio
+DOID:824	periodontitis	infectious	hetio
+DOID:9206	Barrett's esophagus	neoplastic	hetio
+DOID:11555	Fuchs' endothelial dystrophy	degenerative	hetio
+DOID:12185	otosclerosis	idiopathic	hetio
+DOID:12995	conduct disorder	psychiatric	hetio
+DOID:1312	focal segmental glomerulosclerosis	unspecific	hetio
+DOID:216	dental caries	infectious	hetio
+DOID:2355	anemia	unspecific	hetio
+DOID:594	panic disorder	psychiatric	hetio
+DOID:635	acquired immunodeficiency syndrome	infectious	hetio
+DOID:0060301	type I complement component 8 deficiency	undetermined	DOrareslim
+DOID:9563	bronchiectasis	undetermined	DOrareslim
+DOID:0060295	complement component 2 deficiency	undetermined	DOrareslim
+DOID:3652	Leigh disease	undetermined	DOrareslim
+DOID:10825	essential hypertension	undetermined	DOrareslim
+DOID:0060283	peeling skin syndrome	undetermined	DOrareslim
+DOID:0060482	oculoauricular syndrome	undetermined	DOrareslim
+DOID:0060258	reticulate acropigmentation of Kitamura	undetermined	DOrareslim
+DOID:14791	Leber congenital amaurosis	undetermined	DOrareslim
+DOID:0050335	bradyopsia	undetermined	DOrareslim
+DOID:0060420	chromosome 4q21 deletion syndrome	undetermined	DOrareslim
+DOID:0060673	Peters anomaly	undetermined	DOrareslim
+DOID:2907	Goldenhar syndrome	undetermined	DOrareslim
+DOID:1339	Diamond-Blackfan anemia	undetermined	DOrareslim
+DOID:0060373	orofaciodigital syndrome III	undetermined	DOrareslim
+DOID:678	progressive supranuclear palsy	undetermined	DOrareslim
+DOID:0060355	amyotrophic lateral sclerosis type 22	undetermined	DOrareslim
+DOID:11193	syndactyly	undetermined	DOrareslim
+DOID:628	combined T cell and B cell immunodeficiency	undetermined	DOrareslim
+DOID:0060433	chromosome 17q12 duplication syndrome	undetermined	DOrareslim
+DOID:0060488	Pitt-Hopkins syndrome	undetermined	DOrareslim
+DOID:0060284	paroxysmal nocturnal hemoglobinuria	undetermined	DOrareslim
+DOID:0050654	Baller-Gerold syndrome	undetermined	DOrareslim
+DOID:0060313	tracheomalacia	undetermined	DOrareslim
+DOID:0050428	nonepidermolytic palmoplantar keratoderma	undetermined	DOrareslim
+DOID:1064	cystinosis	undetermined	DOrareslim
+DOID:0060411	chromosome 1q21.1 deletion syndrome	undetermined	DOrareslim
+DOID:0060357	chylomicron retention disease	undetermined	DOrareslim
+DOID:230	lateral sclerosis	undetermined	DOrareslim
+DOID:0060377	orofaciodigital syndrome VII	undetermined	DOrareslim
+DOID:1852	intrahepatic cholestasis	undetermined	DOrareslim
+DOID:0060267	pontocerebellar hypoplasia type 2A	undetermined	DOrareslim
+DOID:0050777	Joubert syndrome	undetermined	DOrareslim
+DOID:0060276	pontocerebellar hypoplasia type 7	undetermined	DOrareslim
+DOID:0060681	autosomal dominant nocturnal frontal lobe epilepsy	undetermined	DOrareslim
+DOID:4448	macular degeneration	undetermined	DOrareslim
+DOID:0050779	hydrolethalus syndrome	undetermined	DOrareslim
+DOID:0060469	Miller-Dieker lissencephaly syndrome	undetermined	DOrareslim
+DOID:0050534	congenital stationary night blindness	undetermined	DOrareslim
+DOID:0060292	X-linked chondrodysplasia punctata	undetermined	DOrareslim
+DOID:0060331	mitochondrial complex V (ATP synthase) deficiency nuclear type 2	undetermined	DOrareslim
+DOID:0060467	humeroradial synostosis	undetermined	DOrareslim
+DOID:0060454	subepithelial mucinous corneal dystrophy	undetermined	DOrareslim
+DOID:0060225	3MC syndrome	undetermined	DOrareslim
+DOID:0060298	complement component 4b deficiency	undetermined	DOrareslim
+DOID:0060417	3p- syndrome	undetermined	DOrareslim
+DOID:0060712	autosomal recessive congenital ichthyosis 4A	undetermined	DOrareslim
+DOID:0060363	glycerol kinase deficiency	undetermined	DOrareslim
+DOID:13810	familial hypercholesterolemia	undetermined	DOrareslim
+DOID:0060178	familial hemiplegic migraine	undetermined	DOrareslim
+DOID:3191	nemaline myopathy	undetermined	DOrareslim
+DOID:0060448	Fleck corneal dystrophy	undetermined	DOrareslim
+DOID:0060483	MEDNIK syndrome	undetermined	DOrareslim
+DOID:0050764	Armfield syndrome	undetermined	DOrareslim
+DOID:13087	Lown-Ganong-Levine syndrome	undetermined	DOrareslim
+DOID:8461	Aicardi syndrome	undetermined	DOrareslim
+DOID:0060278	pontocerebellar hypoplasia type 9	undetermined	DOrareslim
+DOID:12118	pulmonary hemosiderosis	undetermined	DOrareslim
+DOID:12712	nephronophthisis	undetermined	DOrareslim
+DOID:0060240	UV-sensitive syndrome	undetermined	DOrareslim
+DOID:5572	Beckwith-Wiedemann syndrome	undetermined	DOrareslim
+DOID:0050590	severe congenital neutropenia	undetermined	DOrareslim
+DOID:0060386	Chilblain lupus	undetermined	DOrareslim
+DOID:0050541	Charcot-Marie-Tooth disease type 4	undetermined	DOrareslim
+DOID:0050768	mitochondrial complex V (ATP synthase) deficiency, nuclear type 1	undetermined	DOrareslim
+DOID:0060460	chromosome 5p13 duplication syndrome	undetermined	DOrareslim
+DOID:0050468	yellow nail syndrome	undetermined	DOrareslim
+DOID:0050539	Charcot-Marie-Tooth disease type 2	undetermined	DOrareslim
+DOID:0060461	chromosome Xp11.23-p11.22 duplication syndrome	undetermined	DOrareslim
+DOID:0060346	Native American myopathy	undetermined	DOrareslim
+DOID:0050454	periventricular nodular heterotopia	undetermined	DOrareslim
+DOID:13533	osteopetrosis	undetermined	DOrareslim
+DOID:5015	fibrolamellar carcinoma	undetermined	DOrareslim
+DOID:0060257	dyschromatosis symmetrica hereditaria	undetermined	DOrareslim
+DOID:0050646	distal arthrogryposis	undetermined	DOrareslim
+DOID:12697	locked-in syndrome	undetermined	DOrareslim
+DOID:9406	hypopituitarism	undetermined	DOrareslim
+DOID:0060062	familial juvenile hyperuricemic nephropathy	undetermined	DOrareslim
+DOID:11725	Cornelia de Lange syndrome	undetermined	DOrareslim
+DOID:0060300	complement component 7 deficiency	undetermined	DOrareslim
+DOID:0060289	Ohdo syndrome	undetermined	DOrareslim
+DOID:13884	sick sinus syndrome	undetermined	DOrareslim
+DOID:0060718	autosomal recessive congenital ichthyosis 9	undetermined	DOrareslim
+DOID:0060055	popliteal pterygium syndrome	undetermined	DOrareslim
+DOID:9263	homocystinuria	undetermined	DOrareslim
+DOID:0060393	chromosome 15q11.2 deletion syndrome	undetermined	DOrareslim
+DOID:12177	common variable immunodeficiency	undetermined	DOrareslim
+DOID:0060358	multiple acyl-CoA dehydrogenase deficiency	undetermined	DOrareslim
+DOID:9261	nasopharynx carcinoma	undetermined	DOrareslim
+DOID:0060491	SPOAN syndrome	undetermined	DOrareslim
+DOID:0050535	exudative vitreoretinopathy	undetermined	DOrareslim
+DOID:4028	angioma serpiginosum	undetermined	DOrareslim
+DOID:2717	Bloom syndrome	undetermined	DOrareslim
+DOID:12347	osteogenesis imperfecta	undetermined	DOrareslim
+DOID:8712	neurofibromatosis	undetermined	DOrareslim
+DOID:0080154	short chain acyl-CoA dehydrogenase deficiency	undetermined	DOrareslim
+DOID:11199	hypoparathyroidism	undetermined	DOrareslim
+DOID:0050690	brachyolmia	undetermined	DOrareslim
+DOID:0060234	Carpenter syndrome	undetermined	DOrareslim
+DOID:0060404	chromosome 17q12 deletion syndrome	undetermined	DOrareslim
+DOID:0060432	chromosome 17p13.3 duplication syndrome	undetermined	DOrareslim
+DOID:14717	centronuclear myopathy	undetermined	DOrareslim
+DOID:0060216	Cogan syndrome	undetermined	DOrareslim
+DOID:10908	hydrocephalus	undetermined	DOrareslim
+DOID:1882	atrial heart septal defect	undetermined	DOrareslim
+DOID:0060025	immunoglobulin alpha deficiency	undetermined	DOrareslim
+DOID:0060061	cutaneous T cell lymphoma	undetermined	DOrareslim
+DOID:0060287	cornea plana	undetermined	DOrareslim
+DOID:5723	optic atrophy	undetermined	DOrareslim
+DOID:0060333	mitochondrial complex V (ATP synthase) deficiency nuclear type 4	undetermined	DOrareslim
+DOID:12971	hereditary spherocytosis	undetermined	DOrareslim
+DOID:0050581	brachydactyly	undetermined	DOrareslim
+DOID:0060228	intracranial berry aneurysm	undetermined	DOrareslim
+DOID:4534	Hallermann-Streiff syndrome	undetermined	DOrareslim
+DOID:14503	neuronal ceroid lipofuscinosis	undetermined	DOrareslim
+DOID:0060269	pontocerebellar hypoplasia type 2C	undetermined	DOrareslim
+DOID:0050796	achalasia microcephaly syndrome	undetermined	DOrareslim
+DOID:0060291	oculodentodigital dysplasia	undetermined	DOrareslim
+DOID:0060306	Meier-Gorlin syndrome	undetermined	DOrareslim
+DOID:0060419	chromosome 3q29 microdeletion syndrome	undetermined	DOrareslim
+DOID:0050453	lissencephaly	undetermined	DOrareslim
+DOID:397	restrictive cardiomyopathy	undetermined	DOrareslim
+DOID:0060439	lysinuric protein intolerance	undetermined	DOrareslim
+DOID:0050432	Asperger syndrome	undetermined	DOrareslim
+DOID:14711	FG syndrome	undetermined	DOrareslim
+DOID:0060457	posterior polymorphous corneal dystrophy	undetermined	DOrareslim
+DOID:0050565	autosomal recessive nonsyndromic deafness	undetermined	DOrareslim
+DOID:0060237	Warburg micro syndrome	undetermined	DOrareslim
+DOID:0050629	Aicardi-Goutieres syndrome	undetermined	DOrareslim
+DOID:10426	Klippel-Feil syndrome	undetermined	DOrareslim
+DOID:1935	Bardet-Biedl syndrome	undetermined	DOrareslim
+DOID:1206	Rett syndrome	undetermined	DOrareslim
+DOID:0050776	non-syndromic X-linked intellectual disability	undetermined	DOrareslim
+DOID:0060361	punctate palmoplantar keratoderma	undetermined	DOrareslim
+DOID:0060294	cold-induced sweating syndrome	undetermined	DOrareslim
+DOID:0060391	chromosome 13q14 deletion syndrome	undetermined	DOrareslim
+DOID:0060476	Perlman syndrome	undetermined	DOrareslim
+DOID:12270	coloboma	undetermined	DOrareslim
+DOID:0060256	Dowling-Degos disease	undetermined	DOrareslim
+DOID:0060275	pontocerebellar hypoplasia type 6	undetermined	DOrareslim
+DOID:0060425	chromosome 8q21.11 deletion syndrome	undetermined	DOrareslim
+DOID:6691	Aagenaes syndrome	undetermined	DOrareslim
+DOID:9146	visceral leishmaniasis	undetermined	DOrareslim
+DOID:10629	microphthalmia	undetermined	DOrareslim
+DOID:0060375	orofaciodigital syndrome V	undetermined	DOrareslim
+DOID:0060381	orofaciodigital syndrome XI	undetermined	DOrareslim
+DOID:0060688	arteriovenous malformations of the brain	undetermined	DOrareslim
+DOID:676	juvenile rheumatoid arthritis	undetermined	DOrareslim
+DOID:8043	chest wall parachordoma	undetermined	DOrareslim
+DOID:0080196	mandibulofacial dysostosis, Guion-Almeida type	undetermined	DOrareslim
+DOID:10892	hypospadias	undetermined	DOrareslim
+DOID:0060398	chromosome 16p11.2 deletion syndrome, 220kb	undetermined	DOrareslim
+DOID:0060668	anencephaly	undetermined	DOrareslim
+DOID:0060246	MASA syndrome	undetermined	DOrareslim
+DOID:1040	chronic lymphocytic leukemia	undetermined	DOrareslim
+DOID:14464	neuroleptic malignant syndrome	undetermined	DOrareslim
+DOID:0060717	autosomal recessive congenital ichthyosis 8	undetermined	DOrareslim
+DOID:0060265	pontocerebellar hypoplasia type 1A	undetermined	DOrareslim
+DOID:0060715	autosomal recessive congenital ichthyosis 6	undetermined	DOrareslim
+DOID:0050471	Carney complex	undetermined	DOrareslim
+DOID:0060466	gingival fibromatosis	undetermined	DOrareslim
+DOID:0060222	Scheie syndrome	undetermined	DOrareslim
+DOID:14780	KBG syndrome	undetermined	DOrareslim
+DOID:2935	Chediak-Higashi syndrome	undetermined	DOrareslim
+DOID:1926	Gaucher's disease	undetermined	DOrareslim
+DOID:10992	acute hemorrhagic leukoencephalitis	undetermined	DOrareslim
+DOID:4621	holoprosencephaly	undetermined	DOrareslim
+DOID:0060403	chromosome 17q11.2 deletion syndrome, 1.4Mb	undetermined	DOrareslim
+DOID:0050597	intestinal schistosomiasis	undetermined	DOrareslim
+DOID:2754	glycogen storage disease VI	undetermined	DOrareslim
+DOID:8158	complement component 5 deficiency	undetermined	DOrareslim
+DOID:0050880	Koolen de Vries syndrome	undetermined	DOrareslim
+DOID:0060196	amyotrophic lateral sclerosis type 4	undetermined	DOrareslim
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	undetermined	DOrareslim
+DOID:0060305	megalocornea	undetermined	DOrareslim
+DOID:0060408	chromosome 19q13.11 deletion syndrome	undetermined	DOrareslim
+DOID:0060232	branchiootic syndrome	undetermined	DOrareslim
+DOID:14557	primary pulmonary hypertension	undetermined	DOrareslim
+DOID:0060444	granular corneal dystrophy type II	undetermined	DOrareslim
+DOID:0050628	advanced sleep phase syndrome	undetermined	DOrareslim
+DOID:2580	rhizomelic chondrodysplasia punctata	undetermined	DOrareslim
+DOID:8354	complement component 3 deficiency	undetermined	DOrareslim
+DOID:0050778	Meckel syndrome	undetermined	DOrareslim
+DOID:0050713	fatal infantile encephalocardiomyopathy	undetermined	DOrareslim
+DOID:4535	hypotrichosis	undetermined	DOrareslim
+DOID:0060462	Desbuquois dysplasia	undetermined	DOrareslim
+DOID:0050651	atrioventricular septal defect	undetermined	DOrareslim
+DOID:0060279	pontocerebellar hypoplasia type 10	undetermined	DOrareslim
+DOID:0060695	hyperekplexia	undetermined	DOrareslim
+DOID:3144	cutis laxa	undetermined	DOrareslim
+DOID:0050877	pancreatic agenesis	undetermined	DOrareslim
+DOID:2058	chronic mucocutaneous candidiasis	undetermined	DOrareslim
+DOID:0080153	medium chain acyl-CoA dehydrogenase deficiency	undetermined	DOrareslim
+DOID:0060468	Holt-Oram syndrome	undetermined	DOrareslim
+DOID:0050545	visceral heterotaxy	undetermined	DOrareslim
+DOID:6688	autoimmune lymphoproliferative syndrome	undetermined	DOrareslim
+DOID:2926	Klippel-Trenaunay syndrome	undetermined	DOrareslim
+DOID:9246	cerebral amyloid angiopathy	undetermined	DOrareslim
+DOID:0060378	orofaciodigital syndrome VIII	undetermined	DOrareslim
+DOID:0060430	chromosome 16p11.2 duplication syndrome	undetermined	DOrareslim
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	undetermined	DOrareslim
+DOID:0060277	pontocerebellar hypoplasia type 8	undetermined	DOrareslim
+DOID:0060288	omodysplasia	undetermined	DOrareslim
+DOID:0060245	Mast syndrome	undetermined	DOrareslim
+DOID:0060711	autosomal recessive congenital ichthyosis 3	undetermined	DOrareslim
+DOID:0050789	tarsal-carpal coalition syndrome	undetermined	DOrareslim
+DOID:0050591	tooth agenesis	undetermined	DOrareslim
+DOID:9274	hyperlysinemia	undetermined	DOrareslim
+DOID:14686	Axenfeld-Rieger syndrome	undetermined	DOrareslim
+DOID:0060348	hypoparathyroidism-retardation-dysmorphism syndrome	undetermined	DOrareslim
+DOID:0060455	Thiel-Behnke corneal dystrophy	undetermined	DOrareslim
+DOID:9273	citrullinemia	undetermined	DOrareslim
+DOID:3246	embryonal rhabdomyosarcoma	undetermined	DOrareslim
+DOID:12721	multiple epiphyseal dysplasia	undetermined	DOrareslim
+DOID:0060303	complement component 9 deficiency	undetermined	DOrareslim
+DOID:0060485	Mowat-Wilson syndrome	undetermined	DOrareslim
+DOID:8567	Hodgkin's lymphoma	undetermined	DOrareslim
+DOID:10970	spastic quadriplegia	undetermined	DOrareslim
+DOID:0060231	Bruck syndrome	undetermined	DOrareslim
+DOID:0060720	autosomal recessive congenital ichthyosis 11	undetermined	DOrareslim
+DOID:0060385	acrofacial dysostosis, Patagonia type	undetermined	DOrareslim
+DOID:13481	thanatophoric dysplasia	undetermined	DOrareslim
+DOID:9952	acute lymphocytic leukemia	undetermined	DOrareslim
+DOID:0080193	superior semicircular canal dehiscence	undetermined	DOrareslim
+DOID:0050781	Ogden syndrome	undetermined	DOrareslim
+DOID:0060359	Sakati-Nyhan syndrome	undetermined	DOrareslim
+DOID:1442	Alpers syndrome	undetermined	DOrareslim
+DOID:2224	essential thrombocythemia	undetermined	DOrareslim
+DOID:0060471	fetal valproate syndrome	undetermined	DOrareslim
+DOID:0060299	complement component 6 deficiency	undetermined	DOrareslim
+DOID:11824	multicentric reticulohistiocytosis	undetermined	DOrareslim
+DOID:0060382	orofaciodigital syndrome IX	undetermined	DOrareslim
+DOID:0050569	Seckel syndrome	undetermined	DOrareslim
+DOID:0060364	Galloway-Mowat syndrome	undetermined	DOrareslim
+DOID:0060484	EAST syndrome	undetermined	DOrareslim
+DOID:0060434	chromosome 17q21.31 duplication syndrome	undetermined	DOrareslim
+DOID:0060451	Meesmann corneal dystrophy	undetermined	DOrareslim
+DOID:0060318	acute promyelocytic leukemia	undetermined	DOrareslim
+DOID:446	hyperaldosteronism	undetermined	DOrareslim
+DOID:0060490	Schimke immuno-osseous dysplasia	undetermined	DOrareslim
+DOID:0050681	Borjeson-Forssman-Lehmann syndrome	undetermined	DOrareslim
+DOID:0050430	multiple endocrine neoplasia type 2A	undetermined	DOrareslim
+DOID:0060366	Hennekam syndrome	undetermined	DOrareslim
+DOID:0060424	chromosome 6q24-q25 deletion syndrome	undetermined	DOrareslim
+DOID:0060473	Kabuki syndrome	undetermined	DOrareslim
+DOID:0050639	primary cutaneous amyloidosis	undetermined	DOrareslim
+DOID:0050640	anauxetic dysplasia 1	undetermined	DOrareslim
+DOID:10581	metachromatic leukodystrophy	undetermined	DOrareslim
+DOID:1712	aortic valve stenosis	undetermined	DOrareslim
+DOID:2187	amelogenesis imperfecta	undetermined	DOrareslim
+DOID:10126	keratoconus	undetermined	DOrareslim
+DOID:3302	chordoma	undetermined	DOrareslim
+DOID:0060464	Feingold syndrome	undetermined	DOrareslim
+DOID:4969	Gerstmann syndrome	undetermined	DOrareslim
+DOID:10017	multiple endocrine neoplasia type 1	undetermined	DOrareslim
+DOID:0050644	arterial calcification of infancy	undetermined	DOrareslim
+DOID:0050794	multiple synostoses syndrome	undetermined	DOrareslim
+DOID:2373	hereditary elliptocytosis	undetermined	DOrareslim
+DOID:0060847	Leri-Weill dyschondrosteosis	undetermined	DOrareslim
+DOID:9620	vesicoureteral reflux	undetermined	DOrareslim
+DOID:701	dentin dysplasia	undetermined	DOrareslim
+DOID:0060422	chromosome 6pter-p24 deletion syndrome	undetermined	DOrareslim
+DOID:0060254	Robinow syndrome	undetermined	DOrareslim
+DOID:674	cleft palate	undetermined	DOrareslim
+DOID:0060435	chromosome 1q21.1 duplication syndrome	undetermined	DOrareslim
+DOID:0050650	familial atrial fibrillation	undetermined	DOrareslim
+DOID:0060247	Smith-McCort dysplasia	undetermined	DOrareslim
+DOID:0060268	pontocerebellar hypoplasia type 2B	undetermined	DOrareslim
+DOID:10591	pre-eclampsia	undetermined	DOrareslim
+DOID:0060259	renal-hepatic-pancreatic dysplasia	undetermined	DOrareslim
+DOID:0080033	craniometaphyseal dysplasia	undetermined	DOrareslim
+DOID:0060281	photosensitive epilepsy	undetermined	DOrareslim
+DOID:0060251	sclerosteosis	undetermined	DOrareslim
+DOID:0060337	CEDNIK syndrome	undetermined	DOrareslim
+DOID:0050858	Marshall-Smith syndrome	undetermined	DOrareslim
+DOID:0060406	chromosome 18p deletion syndrome	undetermined	DOrareslim
+DOID:0060270	pontocerebellar hypoplasia type 2D	undetermined	DOrareslim
+DOID:14743	trichorhinophalangeal syndrome type I	undetermined	DOrareslim
+DOID:0060481	Goldberg-Shprintzen syndrome	undetermined	DOrareslim
+DOID:13922	eosinophilic esophagitis	undetermined	DOrareslim
+DOID:0060713	autosomal recessive congenital ichthyosis 4B	undetermined	DOrareslim
+DOID:0060710	autosomal recessive congenital ichthyosis 2	undetermined	DOrareslim
+DOID:0060217	Cogan-Reese syndrome	undetermined	DOrareslim
+DOID:0060272	pontocerebellar hypoplasia type 3	undetermined	DOrareslim
+DOID:0060383	acrofacial dysostosis Rodriguez type	undetermined	DOrareslim
+DOID:0060252	sclerocornea	undetermined	DOrareslim
+DOID:0060390	distal 10q deletion syndrome	undetermined	DOrareslim
+DOID:0080109	infantile myofibromatosis	undetermined	DOrareslim
+DOID:0060380	orofaciodigital syndrome X	undetermined	DOrareslim
+DOID:0060352	Kleefstra syndrome	undetermined	DOrareslim
+DOID:0060238	Van Maldergem syndrome	undetermined	DOrareslim
+DOID:0060330	Rapp-Hodgkin syndrome	undetermined	DOrareslim
+DOID:0050439	Usher syndrome	undetermined	DOrareslim
+DOID:0060316	orofaciodigital syndrome I	undetermined	DOrareslim
+DOID:9649	congenital nystagmus	undetermined	DOrareslim
+DOID:898	autosomal dominant polycystic kidney disease	undetermined	DOrareslim
+DOID:0060395	chromosome 15q24 deletion syndrome	undetermined	DOrareslim
+DOID:0060392	chromosome 14q11-q22 deletion syndrome	undetermined	DOrareslim
+DOID:0050476	Barth syndrome	undetermined	DOrareslim
+DOID:13909	red-green color blindness	undetermined	DOrareslim
+DOID:3883	Lynch syndrome	undetermined	DOrareslim
+DOID:0060412	chromosome 1q41-q42 deletion syndrome	undetermined	DOrareslim
+DOID:5688	Werner syndrome	undetermined	DOrareslim
+DOID:0080173	bladder exstrophy-epispadias-cloacal exstrophy complex	undetermined	DOrareslim
+DOID:0050572	cone-rod dystrophy	undetermined	DOrareslim
+DOID:0060356	Vici syndrome	undetermined	DOrareslim
+DOID:0060334	transient neonatal diabetes mellitus	undetermined	DOrareslim
+DOID:0050699	Dent disease	undetermined	DOrareslim
+DOID:0060297	complement component 4a deficiency	undetermined	DOrareslim
+DOID:0060296	congenital secretory chloride diarrhea 1	undetermined	DOrareslim
+DOID:14670	hypertelorism, microtia, facial clefting syndrome	undetermined	DOrareslim
+DOID:6039	uveal melanoma	undetermined	DOrareslim
+DOID:0050674	congenital bile acid synthesis defect	undetermined	DOrareslim
+DOID:1062	Fanconi syndrome	undetermined	DOrareslim
+DOID:2987	familial Mediterranean fever	undetermined	DOrareslim
+DOID:0050489	multinodular goiter	undetermined	DOrareslim
+DOID:0050802	Ehlers-Danlos syndrome progeroid type	undetermined	DOrareslim
+DOID:14179	Bruton-type agammaglobulinemia	undetermined	DOrareslim
+DOID:9255	frontotemporal dementia	undetermined	DOrareslim
+DOID:0060407	chromosome 18q deletion syndrome	undetermined	DOrareslim
+DOID:3635	congenital myasthenic syndrome	undetermined	DOrareslim
+DOID:0060449	gelatinous drop-like corneal dystrophy	undetermined	DOrareslim
+DOID:0060248	Simpson-Golabi-Behmel syndrome	undetermined	DOrareslim
+DOID:2729	dyskeratosis congenita	undetermined	DOrareslim
+DOID:0060415	chromosome 2p16.1-p15 deletion syndrome	undetermined	DOrareslim
+DOID:1386	abetalipoproteinemia	undetermined	DOrareslim
+DOID:14744	Partington syndrome	undetermined	DOrareslim
+DOID:0060436	chromosome 22q11.2 microduplication syndrome	undetermined	DOrareslim
+DOID:0050557	congenital muscular dystrophy	undetermined	DOrareslim
+DOID:12859	choreatic disease	undetermined	DOrareslim
+DOID:1338	congenital dyserythropoietic anemia	undetermined	DOrareslim
+DOID:0050580	hereditary lymphedema	undetermined	DOrareslim
+DOID:5677	extragonadal nonseminomatous germ cell tumor	undetermined	DOrareslim
+DOID:0050144	Kartagener syndrome	undetermined	DOrareslim
+DOID:13994	cleidocranial dysplasia	undetermined	DOrareslim
+DOID:0060397	chromosome 15q26-qter deletion syndrome	undetermined	DOrareslim
+DOID:769	neuroblastoma	undetermined	DOrareslim
+DOID:0060428	chromosome 2q32-q33 deletion syndrome	undetermined	DOrareslim
+DOID:4990	essential tremor	undetermined	DOrareslim
+DOID:8869	neuromyelitis optica	undetermined	DOrareslim
+DOID:0050834	CHARGE syndrome	undetermined	DOrareslim
+DOID:0060304	dyschromatosis universalis hereditaria	undetermined	DOrareslim
+DOID:11724	limb-girdle muscular dystrophy	undetermined	DOrareslim
+DOID:0060274	pontocerebellar hypoplasia type 5	undetermined	DOrareslim
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	undetermined	DOrareslim
+DOID:0060450	Lisch epithelial corneal dystrophy	undetermined	DOrareslim
+DOID:0060241	3-M syndrome	undetermined	DOrareslim
+DOID:5212	congenital disorder of glycosylation	undetermined	DOrareslim
+DOID:0060474	Chuvash polycythemia	undetermined	DOrareslim
+DOID:0060445	congenital stromal corneal dystrophy	undetermined	DOrareslim
+DOID:0060704	lymphoproliferative syndrome	undetermined	DOrareslim
+DOID:9269	maple syrup urine disease	undetermined	DOrareslim
+DOID:14450	46 XX gonadal dysgenesis	undetermined	DOrareslim
+DOID:0050566	X-linked nonsyndromic deafness	undetermined	DOrareslim
+DOID:10584	retinitis pigmentosa	undetermined	DOrareslim
+DOID:0050635	alternating hemiplegia of childhood	undetermined	DOrareslim
+DOID:0060480	left ventricular noncompaction	undetermined	DOrareslim
+DOID:14264	benign neonatal seizures	undetermined	DOrareslim
+DOID:13636	Fanconi anemia	undetermined	DOrareslim
+DOID:9270	alkaptonuria	undetermined	DOrareslim
+DOID:3133	acute porphyria	undetermined	DOrareslim
+DOID:0060472	Kindler syndrome	undetermined	DOrareslim
+DOID:1933	Rubinstein-Taybi syndrome	undetermined	DOrareslim
+DOID:3753	Hermansky-Pudlak syndrome	undetermined	DOrareslim
+DOID:11720	distal muscular dystrophy	undetermined	DOrareslim
+DOID:0050448	hereditary mucosal leukokeratosis	undetermined	DOrareslim
+DOID:0060447	epithelial basement membrane dystrophy	undetermined	DOrareslim
+DOID:0060427	chromosome Xp21 deletion syndrome	undetermined	DOrareslim
+DOID:0060431	chromosome 16p13.3 duplication syndrome	undetermined	DOrareslim
+DOID:12241	beta thalassemia	undetermined	DOrareslim
+DOID:0060465	fibrochondrogenesis	undetermined	DOrareslim
+DOID:0060446	X-linked endothelial corneal dystrophy	undetermined	DOrareslim
+DOID:3012	Li-Fraumeni syndrome	undetermined	DOrareslim
+DOID:0060413	chromosome 22q11.2 deletion syndrome, distal	undetermined	DOrareslim
+DOID:963	episodic ataxia	undetermined	DOrareslim
+DOID:0060285	parietal foramina	undetermined	DOrareslim
+DOID:0060693	Brunner Syndrome	undetermined	DOrareslim
+DOID:0060470	salt and pepper syndrome	undetermined	DOrareslim
+DOID:0060387	chondrodysplasia Blomstrand type	undetermined	DOrareslim
+DOID:0080143	congenital fibrosis of the extraocular muscles	undetermined	DOrareslim
+DOID:0060486	Perry syndrome	undetermined	DOrareslim
+DOID:0050544	hypermethioninemia	undetermined	DOrareslim
+DOID:13911	achromatopsia	undetermined	DOrareslim
+DOID:3265	chronic granulomatous disease	undetermined	DOrareslim
+DOID:0060170	generalized epilepsy with febrile seizures plus	undetermined	DOrareslim
+DOID:10016	multiple endocrine neoplasia type 2B	undetermined	DOrareslim
+DOID:1270	hereditary hemorrhagic telangiectasia	undetermined	DOrareslim
+DOID:0060336	3-methylglutaconic aciduria	undetermined	DOrareslim
+DOID:11726	Emery-Dreifuss muscular dystrophy	undetermined	DOrareslim
+DOID:4890	juvenile myoclonic epilepsy	undetermined	DOrareslim
+DOID:3827	congenital diaphragmatic hernia	undetermined	DOrareslim
+DOID:0050466	Loeys-Dietz syndrome	undetermined	DOrareslim
+DOID:0060410	chromosome 1p36 deletion syndrome	undetermined	DOrareslim
+DOID:0060221	Maffucci syndrome	undetermined	DOrareslim
+DOID:0050788	proximal symphalangism	undetermined	DOrareslim
+DOID:0060354	Stormorken syndrome	undetermined	DOrareslim
+DOID:2352	hemochromatosis	undetermined	DOrareslim
+DOID:13608	biliary atresia	undetermined	DOrareslim
+DOID:2340	craniosynostosis	undetermined	DOrareslim
+DOID:0060418	chromosome 3q13.31 deletion syndrome	undetermined	DOrareslim
+DOID:0060400	chromosome 16p12.2-p11.2 deletion syndrome	undetermined	DOrareslim
+DOID:2738	pseudoxanthoma elasticum	undetermined	DOrareslim
+DOID:0060273	pontocerebellar hypoplasia type 4	undetermined	DOrareslim
+DOID:0060235	carnitine palmitoyltransferase II deficiency	undetermined	DOrareslim
+DOID:0060452	posterior amorphous corneal dystrophy	undetermined	DOrareslim
+DOID:0060215	Balo concentric sclerosis	undetermined	DOrareslim
+DOID:0060169	benign familial infantile epilepsy	undetermined	DOrareslim
+DOID:5426	premature ovarian failure	undetermined	DOrareslim
+DOID:0060669	cerebral cavernous malformation	undetermined	DOrareslim
+DOID:12120	pulmonary alveolar proteinosis	undetermined	DOrareslim
+DOID:12554	hemolytic-uremic syndrome	undetermined	DOrareslim
+DOID:0050632	oculocutaneous albinism	undetermined	DOrareslim
+DOID:0060341	agnathia-otocephaly complex	undetermined	DOrareslim
+DOID:3649	pyruvate decarboxylase deficiency	undetermined	DOrareslim
+DOID:8545	malignant hyperthermia	undetermined	DOrareslim
+DOID:0060716	autosomal recessive congenital ichthyosis 7	undetermined	DOrareslim
+DOID:0060255	rippling muscle disease 2	undetermined	DOrareslim
+DOID:0060459	chromosome 3q29 microduplication syndrome	undetermined	DOrareslim
+DOID:1588	thrombocytopenia	undetermined	DOrareslim
+DOID:8368	chordoid meningioma	undetermined	DOrareslim
+DOID:2861	congenital nonspherocytic hemolytic anemia	undetermined	DOrareslim
+DOID:1657	ventricular septal defect	undetermined	DOrareslim
+DOID:0050786	iridogoniodysgenesis syndrome	undetermined	DOrareslim
+DOID:5557	testicular germ cell cancer	undetermined	DOrareslim
+DOID:0060233	cardiofaciocutaneous syndrome	undetermined	DOrareslim
+DOID:2106	myotonia congenita	undetermined	DOrareslim
+DOID:12387	nephrogenic diabetes insipidus	undetermined	DOrareslim
+DOID:905	Zellweger syndrome	undetermined	DOrareslim
+DOID:0060226	acrofrontofacionasal dysostosis	undetermined	DOrareslim
+DOID:0050747	lymphoplasmacytic lymphoma	undetermined	DOrareslim
+DOID:2962	Cockayne syndrome	undetermined	DOrareslim
+DOID:0060280	primary pigmented nodular adrenocortical disease	undetermined	DOrareslim
+DOID:0080110	multiple pterygium syndrome	undetermined	DOrareslim
+DOID:9258	Waardenburg's syndrome	undetermined	DOrareslim
+DOID:0060184	lymphocytic colitis	undetermined	DOrareslim
+DOID:0050475	Weill-Marchesani syndrome	undetermined	DOrareslim
+DOID:0060302	type II complement component 8 deficiency	undetermined	DOrareslim
+DOID:0060409	chromosome 1p32-p31 deletion syndrome	undetermined	DOrareslim
+DOID:4624	Ollier disease	undetermined	DOrareslim
+DOID:0050576	Senior-Loken syndrome	undetermined	DOrareslim
+DOID:0060236	xanthinuria	undetermined	DOrareslim
+DOID:9955	hypoplastic left heart syndrome	undetermined	DOrareslim
+DOID:0060456	Schnyder corneal dystrophy	undetermined	DOrareslim
+DOID:0060266	pontocerebellar hypoplasia type 1B	undetermined	DOrareslim
+DOID:0050542	Charcot-Marie-Tooth disease type X	undetermined	DOrareslim
+DOID:0080028	spondyloepimetaphyseal dysplasia, Strudwick type	undetermined	DOrareslim
+DOID:0060349	microcephaly with or without chorioretinopathy, lymphedema, or mental retardation	undetermined	DOrareslim
+DOID:0060374	orofaciodigital syndrome IV	undetermined	DOrareslim
+DOID:0060282	persistent hyperplastic primary vitreous	undetermined	DOrareslim
+DOID:0060263	porencephaly	undetermined	DOrareslim
+DOID:10487	Hirschsprung's disease	undetermined	DOrareslim
+DOID:0060453	Reis-Bucklers corneal dystrophy	undetermined	DOrareslim
+DOID:0060332	mitochondrial complex V (ATP synthase) deficiency nuclear type 3	undetermined	DOrareslim
+DOID:14748	Sotos syndrome	undetermined	DOrareslim
+DOID:13099	Moyamoya disease	undetermined	DOrareslim
+DOID:0060384	acrofacial dysostosis, Catania type	undetermined	DOrareslim
+DOID:1156	chondrocalcinosis	undetermined	DOrareslim
+DOID:0060394	chromosome 15q13.3 microdeletion syndrome	undetermined	DOrareslim
+DOID:0060405	chromosome 17q23.1-q23.2 deletion syndrome	undetermined	DOrareslim
+DOID:0080155	very long chain acyl-CoA dehydrogenase deficiency	undetermined	DOrareslim
+DOID:0060293	autosomal dominant chondrodysplasia punctata	undetermined	DOrareslim
+DOID:0060719	autosomal recessive congenital ichthyosis 10	undetermined	DOrareslim
+DOID:6676	Froelich syndrome	undetermined	DOrareslim
+DOID:206	hereditary multiple exostoses	undetermined	DOrareslim
+DOID:0050564	autosomal dominant nonsyndromic deafness	undetermined	DOrareslim
+DOID:0060714	autosomal recessive congenital ichthyosis 5	undetermined	DOrareslim
+DOID:6457	Cowden disease	undetermined	DOrareslim
